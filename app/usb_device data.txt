@@ -1,0 +1,122 @@
+Pettersson ========================================================
+
+Length: 100 bytes
+1 Interfaces
+Attributes: BusPowered
+Max Power: 100mA
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=0 bInterfaceClass=Audio bInterfaceSubclass=AUDIOCONTROL bNumEndpoints=0
+bDescriptorType=CS_INTERFACE bLength=9 bDescriptorSubtype=HEADER bcdADC=0x000200
+bDescriptorType=CS_INTERFACE bLength=12 bDescriptorSubtype=INPUT_TERMINAL bTerminalID=1 wTerminalType=0x000102 bAssocTerminal=0 bNrChannels=1
+bDescriptorType=CS_INTERFACE bLength=9 bDescriptorSubtype=OUTPUT_TERMINAL bTerminalID=2 wTerminalType=0x000102 bAssocTerminal=0
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bNumEndpoints=0
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bNumEndpoints=1
+bDescriptorType=CS_INTERFACE bLength=7 bDescriptorSubtype=AS_GENERAL bTerminalLink=2 bDelay=1 wFormatTag=1
+bDescriptorType=CS_INTERFACE bLength=11 bDescriptorSubtype=FORMAT_TYPE bFormatType=1 bNrChannels=1 bSubFrameSize=2 bBitResolution=16 bSamFreqType=1 tSamFreq[0]=384000
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=9 bEndpointAddress=6 type=Isochronous direction=IN
+bDescriptorType=CS_ENDPOINT bLength=7 bDescriptorSubtype=AS_GENERAL bmAttributes=0
+
+Dodotronic =================================================================================================================
+
+Length: 100 bytes
+1 Interfaces
+Attributes: BusPowered SelfPowered
+Max Power: 100mA
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=0 bInterfaceClass=Audio bInterfaceSubclass=AUDIOCONTROL bNumEndpoints=0
+bDescriptorType=CS_INTERFACE bLength=9 bDescriptorSubtype=HEADER bcdADC=0x000200
+bDescriptorType=CS_INTERFACE bLength=12 bDescriptorSubtype=INPUT_TERMINAL bTerminalID=1 wTerminalType=0x000102 bAssocTerminal=0 bNrChannels=1
+bDescriptorType=CS_INTERFACE bLength=9 bDescriptorSubtype=OUTPUT_TERMINAL bTerminalID=2 wTerminalType=0x000102 bAssocTerminal=0
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bNumEndpoints=0
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bNumEndpoints=1
+bDescriptorType=CS_INTERFACE bLength=7 bDescriptorSubtype=AS_GENERAL bTerminalLink=2 bDelay=1 wFormatTag=1
+bDescriptorType=CS_INTERFACE bLength=11 bDescriptorSubtype=FORMAT_TYPE bFormatType=1 bNrChannels=1 bSubFrameSize=2 bBitResolution=16 bSamFreqType=1 tSamFreq[0]=250000
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=9 bEndpointAddress=1 type=Isochronous direction=IN
+bDescriptorType=CS_ENDPOINT bLength=7 bDescriptorSubtype=AS_GENERAL bmAttributes=0
+
+BAT ==================================================================================================
+
+Length: 32 bytes
+1 Interfaces
+Attributes: BusPowered RemoteWakeup
+Max Power: 400mA
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=0 bInterfaceClass=Vendor Specific 0xff bInterfaceSubclass=0x00 bNumEndpoints=2
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=7 bEndpointAddress=6 type=Bulk direction=IN
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=7 bEndpointAddress=2 type=Bulk direction=OUT
+
+GoMic ================================================================================================================================================================================
+
+Length: 255 bytes
+1 Interfaces
+Attributes: BusPowered
+Max Power: 100mA
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=0 bInterfaceClass=Audio bInterfaceSubclass=AUDIOCONTROL bAlternateSetting=0 bNumEndpoints=0
+bDescriptorType=CS_INTERFACE bLength=10 bDescriptorSubtype=HEADER bcdADC=0x000400
+bDescriptorType=CS_INTERFACE bLength=12 bDescriptorSubtype=INPUT_TERMINAL bTerminalID=1 wTerminalType=0x000104 bAssocTerminal=0 bNrChannels=2
+bDescriptorType=CS_INTERFACE bLength=12 bDescriptorSubtype=INPUT_TERMINAL bTerminalID=2 wTerminalType=0x000104 bAssocTerminal=0 bNrChannels=2
+bDescriptorType=CS_INTERFACE bLength=9 bDescriptorSubtype=OUTPUT_TERMINAL bTerminalID=3 wTerminalType=0x000104 bAssocTerminal=0
+bDescriptorType=CS_INTERFACE bLength=9 bDescriptorSubtype=OUTPUT_TERMINAL bTerminalID=4 wTerminalType=0x000104 bAssocTerminal=0
+bDescriptorType=CS_INTERFACE bLength=10 bDescriptorSubtype=FEATURE_UNIT bUnitID=5 bSourceID=9 bControlSize=1 iFeature=0
+bDescriptorType=CS_INTERFACE bLength=10 bDescriptorSubtype=FEATURE_UNIT bUnitID=6 bSourceID=2 bControlSize=1 iFeature=0
+bDescriptorType=CS_INTERFACE bLength=10 bDescriptorSubtype=FEATURE_UNIT bUnitID=7 bSourceID=2 bControlSize=1 iFeature=0
+bDescriptorType=CS_INTERFACE bLength=7 bDescriptorSubtype=SELECTOR_UNIT
+bDescriptorType=CS_INTERFACE bLength=13 bDescriptorSubtype=MIXER_UNIT
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bAlternateSetting=0 bNumEndpoints=0
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bAlternateSetting=1 bNumEndpoints=1
+bDescriptorType=CS_INTERFACE bLength=7 bDescriptorSubtype=AS_GENERAL bTerminalLink=1 bDelay=1 wFormatTag=1
+bDescriptorType=CS_INTERFACE bLength=14 bDescriptorSubtype=FORMAT_TYPE bFormatType=1 bNrChannels=2 bSubFrameSize=2 bBitResolution=16 bSamFreqType=0 tLowerSamFreq=8000 tUpperSamFreq=48000
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=9 bEndpointAddress=1 type=Isochronous direction=OUT
+bDescriptorType=CS_ENDPOINT bLength=7 bDescriptorSubtype=AS_GENERAL bmAttributes=1
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=2 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bAlternateSetting=0 bNumEndpoints=0
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=2 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bAlternateSetting=1 bNumEndpoints=1
+bDescriptorType=CS_INTERFACE bLength=7 bDescriptorSubtype=AS_GENERAL bTerminalLink=4 bDelay=1 wFormatTag=1
+bDescriptorType=CS_INTERFACE bLength=14 bDescriptorSubtype=FORMAT_TYPE bFormatType=1 bNrChannels=2 bSubFrameSize=2 bBitResolution=16 bSamFreqType=0 tLowerSamFreq=8000 tUpperSamFreq=48000
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=9 bEndpointAddress=130 type=Isochronous direction=IN
+bDescriptorType=CS_ENDPOINT bLength=7 bDescriptorSubtype=AS_GENERAL bmAttributes=1
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=3 bInterfaceClass=Human Interface Device bInterfaceSubclass=0x00 bAlternateSetting=0 bNumEndpoints=1
+bDescriptorType=CS_DEVICE bLength=9
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=7 bEndpointAddress=135 type=Interrupt direction=IN
+
+
+Avisoft ================================================================================================================================================================================
+
+Length: 195 bytes
+1 Interfaces
+Attributes: BusPowered
+Max Power: 100mA
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=0 bInterfaceClass=Audio bInterfaceSubclass=AUDIOCONTROL bAlternateSetting=0 bNumEndpoints=0
+bDescriptorType=CS_INTERFACE bLength=9 bDescriptorSubtype=HEADER bcdADC=0x000200
+bDescriptorType=CS_INTERFACE bLength=12 bDescriptorSubtype=INPUT_TERMINAL bTerminalID=1 wTerminalType=0x000102 bAssocTerminal=0 bNrChannels=1
+bDescriptorType=CS_INTERFACE bLength=9 bDescriptorSubtype=OUTPUT_TERMINAL bTerminalID=2 wTerminalType=0x000102 bAssocTerminal=0
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bAlternateSetting=0 bNumEndpoints=0
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bAlternateSetting=1 bNumEndpoints=1
+bDescriptorType=CS_INTERFACE bLength=7 bDescriptorSubtype=AS_GENERAL bTerminalLink=2 bDelay=1 wFormatTag=1
+bDescriptorType=CS_INTERFACE bLength=14 bDescriptorSubtype=FORMAT_TYPE bFormatType=1 bNrChannels=1 bSubFrameSize=2 bBitResolution=16 bSamFreqType=2 tSamFreq[0]=48000 tSamFreq[1]=96000
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=9 bEndpointAddress=130 type=Isochronous direction=IN
+bDescriptorType=CS_ENDPOINT bLength=7 bDescriptorSubtype=AS_GENERAL bmAttributes=1
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bAlternateSetting=2 bNumEndpoints=1
+bDescriptorType=CS_INTERFACE bLength=7 bDescriptorSubtype=AS_GENERAL bTerminalLink=2 bDelay=1 wFormatTag=1
+bDescriptorType=CS_INTERFACE bLength=14 bDescriptorSubtype=FORMAT_TYPE bFormatType=1 bNrChannels=1 bSubFrameSize=2 bBitResolution=16 bSamFreqType=2 tSamFreq[0]=128000 tSamFreq[1]=192000
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=9 bEndpointAddress=130 type=Isochronous direction=IN
+bDescriptorType=CS_ENDPOINT bLength=7 bDescriptorSubtype=AS_GENERAL bmAttributes=1
+
+bDescriptorType=USB_INTERFACE_DESCRIPTOR bLength=9 bInterfaceNumber=1 bInterfaceClass=Audio bInterfaceSubclass=AUDIOSTREAMING bAlternateSetting=3 bNumEndpoints=1
+bDescriptorType=CS_INTERFACE bLength=7 bDescriptorSubtype=AS_GENERAL bTerminalLink=2 bDelay=1 wFormatTag=1
+bDescriptorType=CS_INTERFACE bLength=14 bDescriptorSubtype=FORMAT_TYPE bFormatType=1 bNrChannels=1 bSubFrameSize=2 bBitResolution=16 bSamFreqType=2 tSamFreq[0]=256000 tSamFreq[1]=384000
+bDescriptorType=USB_ENDPOINT_DESCRIPTOR bLength=9 bEndpointAddress=130 type=Isochronous direction=IN
+bDescriptorType=CS_ENDPOINT bLength=7 bDescriptorSubtype=AS_GENERAL bmAttributes=1

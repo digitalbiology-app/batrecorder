@@ -1,0 +1,52 @@
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.Service
+-keep public class * extends android.content.BroadcastReceiver
+-keep public class * extends android.content.ContentProvider
+-keep class * extends android.view.View {
+  public <init>(android.content.Context);
+  public <init>(android.content.Context, android.util.AttributeSet);
+  public <init>(android.content.Context, android.util.AttributeSet, int);
+  public void set*(...);
+}
+-keep class * extends android.preference.Preference {
+  public <init>(android.content.Context);
+  public <init>(android.content.Context, android.util.AttributeSet);
+  public <init>(android.content.Context, android.util.AttributeSet, int);
+  public void set*(...);
+}
+
+#keep all public and protected methods that could be used by java reflection
+-keepclassmembernames class * {
+   public protected <methods>;
+}
+
+-keepclasseswithmembernames class * {
+   public <init>(android.content.Context, android.util.AttributeSet);
+}
+
+-keepclasseswithmembernames class * {
+   public <init>(android.content.Context, android.util.AttributeSet, int);
+}
+
+#-keep public class com.android.vending.licensing.ILicensingService
+#-keep class com.google.android.gms.** { *; }
+#-dontwarn com.google.android.gms.**
+#-dontwarn android.support.**
+
+-dontshrink
+-keep class javax.** {*;}
+-keep class com.sun.** {*;}
+-keep class myjava.** {*;}
+-keep class org.apache.harmony.** {*;}
+#-keep public class Mail {*;}
+-keep class java.awt.** {*;}
+-dontwarn java.awt.**
+-dontwarn javax.activation.**
+#-dontwarn java.beans.Beans
+#-dontwarn javax.security.**
+
+-keep class android.support.v8.renderscript.** { *; }
+#-keep class android.renderscript.** { *; }
+
+-keep class sqip.** { *; }
+

@@ -1,0 +1,84 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdk 34
+    useLibrary 'org.apache.http.legacy'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildFeatures {
+        buildConfig true
+        aidl true
+    }
+
+    defaultConfig {
+        applicationId "com.digitalbiology.audio"
+        minSdkVersion 26
+        targetSdkVersion 34
+        multiDexEnabled true
+        versionCode 224
+        versionName "2.0B15"
+//        versionName "2.0B15p"
+
+        ndk {
+            moduleName "file"
+            moduleName "palette"
+            moduleName "usb"
+            moduleName "analysis"
+        }
+    }
+
+    packagingOptions {
+        jniLibs {
+            excludes += ['lib/mips/libRSSupport.so', 'lib/mips/librsjni.so', 'lib/mips/libblasV8.so', 'lib/mips/librs.powerspec.so', 'lib/mips/librs.spectrogram.so', 'lib/mips/librs.waveform.so']
+            pickFirsts += ['lib/armeabi-v7a/libpalette.so', 'lib/arm64-v8a/libpalette.so', 'lib/x86_64/libpalette.so', 'lib/x86/libpalette.so', 'lib/armeabi-v7a/libanalysis.so', 'lib/arm64-v8a/libanalysis.so', 'lib/x86_64/libanalysis.so', 'lib/x86/libanalysis.so', 'lib/armeabi-v7a/libfile.so', 'lib/arm64-v8a/libfile.so', 'lib/x86_64/libfile.so', 'lib/x86/libfile.so', 'lib/armeabi-v7a/libusb.so', 'lib/arm64-v8a/libusb.so', 'lib/x86_64/libusb.so', 'lib/x86/libusb.so', 'lib/armeabi-v7a/libanalysisNEON.so', 'lib/arm64-v8a/libanalysisNEON.so', 'lib/x86_64/libanalysisNEON.so', 'lib/x86/libanalysisNEON.so']
+        }
+        resources {
+            pickFirsts += ['META-INF/LICENSE.txt']
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+        debug {
+            debuggable true
+            jniDebuggable true
+            testCoverageEnabled false
+            renderscriptDebuggable true
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDir 'src/main/obj/local' //set libs as .so's location instead of jni
+            //disable automatic ndk-build call with auto-generated Android.mk file
+        }
+    }
+
+    externalNativeBuild {
+        ndkBuild {
+            path "./src/main/jni/Android.mk"
+        }
+    }
+    ndkVersion = "26.3.11579264"
+    namespace 'com.digitalbiology.audio'
+}
+
+dependencies {
+    implementation 'androidx.multidex:multidex:2.0.1'
+    implementation 'com.google.android.gms:play-services:12.0.1'
+//    implementation 'com.android.support:support-compat:28.0.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+//    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+//    implementation 'com.sun.mail:android-mail:1.5.5'
+//    implementation 'com.sun.mail:android-activation:1.5.5'
+    implementation 'androidx.preference:preference:1.2.1'
+//    implementation "com.squareup.sdk.in-app-payments:card-entry:1.6.6"
+}

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listRefresh">
+        <item >forfriske</item>
+        <item >skrive</item>
+    </string-array>
+    <string-array name="listRefreshValues">
+        <item >0</item>
+        <item >1</item>
+    </string-array>
+    <string-array name="listMetadata">
+        <item >GUANO</item>
+        <item >WAMD</item>
+        <item >XMP</item>
+    </string-array>
+    <string-array name="listFFT">
+        <item >256</item>
+        <item >512</item>
+        <item >1024</item>
+        <item >2048</item>
+        <item >4096</item>
+        <item >8192</item>
+    </string-array>
+    <string-array name="listExpansion">
+        <item >10x</item>
+        <item >20x</item>
+    </string-array>
+    <string-array name="listExpansionValues">
+        <item >10</item>
+        <item >20</item>
+    </string-array>
+    <string-array name="listCapture">
+        <item >3 sekunder</item>
+        <item >5 sekunder</item>
+        <item >10 sekunder</item>
+    </string-array>
+    <string-array name="listCaptureValues">
+        <item >3</item>
+        <item >5</item>
+        <item >10</item>
+    </string-array>
+    <string-array name="listPost">
+        <item >ingen forsinkelse</item>
+        <item >0.01 sekunder</item>
+        <item >0.1 sekunder</item>
+        <item >0.5 sekunder</item>
+        <item >1 sekund</item>
+        <item >3 sekunder</item>
+        <item >5 sekunder</item>
+        <item >10 sekunder</item>
+    </string-array>
+    <string-array name="listPostValues">
+        <item >0</item>
+        <item >0.01</item>
+        <item >0.1</item>
+        <item >0.5</item>
+        <item >1</item>
+        <item >3</item>
+        <item >5</item>
+        <item >10</item>
+    </string-array>
+
+    <string-array name="listPre">
+        <item >ingen forsinkelse</item>
+        <item >0.01 sekunder</item>
+        <item >0.02 sekunder</item>
+        <item >0.05 sekunder</item>
+        <item >0.1 sekunder</item>
+        <item >0.15 sekunder</item>
+        <item >1 sekund</item>
+    </string-array>
+    <string-array name="listPreValues">
+        <item >0</item>
+        <item >0.01</item>
+        <item >0.02</item>
+        <item >0.05</item>
+        <item >0.1</item>
+        <item >0.5</item>
+        <item >1</item>
+    </string-array>
+
+    <string-array name="listGeoFreq">
+        <item >5 sekunder</item>
+        <item >10 sekunder</item>
+        <item >30 sekunder</item>
+        <item >1 minutt</item>
+        <item >2 minutter</item>
+        <item >5 minutter</item>
+        <item >10 minutter</item>
+    </string-array>
+    <string-array name="listGeoFreqValues">
+        <item >5</item>
+        <item >10</item>
+        <item >30</item>
+        <item >60</item>
+        <item >120</item>
+        <item >300</item>
+        <item >600</item>
+    </string-array>
+
+    <string-array name="listGeoDist">
+        <item >5 meter</item>
+        <item >10 meter</item>
+        <item >50 meter</item>
+        <item >100 meter</item>
+        <item >500 meter</item>
+        <item >1 kilometer</item>
+    </string-array>
+    <string-array name="listGeoDistValues">
+        <item >5</item>
+        <item >10</item>
+        <item >50</item>
+        <item >100</item>
+        <item >500</item>
+        <item >1000</item>
+    </string-array>
+    <string-array name="listLocales">
+        <item >normalverdi</item>
+        <item >Engelsk (US)</item>
+        <item >Fransk</item>
+        <item >Italiensk</item>
+        <item >Nederlandsk</item>
+        <item >Norsk</item>
+        <item >Spansk</item>
+        <item >Svensk</item>
+        <item >Tysk</item>
+    </string-array>
+    <string-array name="listLocalesValues">
+        <item ></item>
+        <item >en</item>
+        <item >fr</item>
+        <item >it</item>
+        <item >nl</item>
+        <item >nb</item>
+        <item >es</item>
+        <item >sv</item>
+        <item >de</item>
+    </string-array>
+    <string-array name="listLength">
+        <item >maksimal tidsbegrensning</item>
+        <item >3 sekunder</item>
+        <item >5 sekunder</item>
+        <item >10 sekunder</item>
+        <item >30 sekunder</item>
+        <item >1 minutt</item>
+        <item >5 minutter</item>
+        <item >10 minutter</item>
+        <item >15 minutter</item>
+    </string-array>
+    <string-array name="listLengthValues">
+        <item >0</item>
+        <item >3</item>
+        <item >5</item>
+        <item >10</item>
+        <item >30</item>
+        <item >60</item>
+        <item >300</item>
+        <item >600</item>
+        <item >900</item>
+    </string-array>
+
+    <string-array name="listHetero">
+        <item >16x høyere</item>
+        <item >8x høyere</item>
+        <item >4x høyere</item>
+        <item >1x</item>
+        <item >4x nedre</item>
+        <item >8x nedre</item>
+        <item >16x nedre</item>
+    </string-array>
+    <string-array name="listHeteroValues">
+        <item >0.0625</item>
+        <item >0.125</item>
+        <item >0.25</item>
+        <item >1.0</item>
+        <item >4.0</item>
+        <item >8.0</item>
+        <item >16.0</item>
+    </string-array>
+
+</resources>

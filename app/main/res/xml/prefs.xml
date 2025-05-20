@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/analysis_cat">
+    </PreferenceCategory>
+
+    <ListPreference
+        android:title="@string/fft_window" 
+        android:key="fft"
+        android:entries="@array/listFFT" 
+        android:entryValues="@array/listFFT"
+		android:defaultValue="1024" />
+
+    <ListPreference
+        android:title="@string/samplerate"
+        android:key="samplerate" />
+
+    <ListPreference
+        android:title="@string/maxlength"
+        android:key="maxlength"
+        android:entries="@array/listLength"
+        android:entryValues="@array/listLengthValues"
+        android:defaultValue="0"/>
+
+    <CheckBoxPreference
+        android:key="cont_rec"
+        android:defaultValue="false"
+        android:title="@string/cont_rec" />
+
+    <CheckBoxPreference
+        android:key="logscale"
+        android:defaultValue="false"
+        android:title="@string/logscale" />
+
+    <CheckBoxPreference
+        android:key="gridlines"
+        android:defaultValue="false"
+        android:title="@string/gridlines" />
+
+    <CheckBoxPreference
+        android:key="triggerOnly"
+        android:defaultValue="false"
+        android:title="@string/triggerOnly" />
+
+    <ListPreference
+        android:key="refresh"
+        android:entries="@array/listRefresh"
+        android:entryValues="@array/listRefreshValues"
+        android:defaultValue="0"
+        android:title="@string/refresh" />
+
+    <ListPreference
+        android:title="@string/expansion"
+        android:key="expansion"
+        android:entries="@array/listExpansion"
+        android:entryValues="@array/listExpansionValues"
+        android:defaultValue="20"/>
+
+    <CheckBoxPreference
+        android:key="ultramodes"
+        android:defaultValue="false"
+        android:title="@string/ultramodes"  />
+
+    <com.digitalbiology.audio.RangeSeekBarPreference
+        android:title="@string/het_freq"
+        android:key="hetfreq"
+        android:layout="@layout/rangeseek" />
+
+    <ListPreference
+        android:key="hetadj"
+        android:entries="@array/listHetero"
+        android:entryValues="@array/listHeteroValues"
+        android:defaultValue="1"
+        android:title="@string/het_adj" />
+
+     <PreferenceCategory android:title="@string/trigger_cat">
+    </PreferenceCategory>
+
+    <CheckBoxPreference
+        android:key="shakerec"
+        android:defaultValue="false"
+        android:title="@string/shake_rec" />
+
+    <com.digitalbiology.audio.RangeSeekBarPreference
+        android:title="@string/trigger_freq"
+        android:key="trigfreq"
+        android:layout="@layout/rangeseek" />
+
+    <com.digitalbiology.audio.SeekBarPreference
+        android:title="@string/trigger_db" 
+        android:key="decibels"
+        android:layout="@layout/rangeseek" />
+    
+    <ListPreference 
+        android:title="@string/trigger_post" 
+        android:key="post" 
+        android:entries="@array/listPost" 
+        android:entryValues="@array/listPostValues" 
+        android:defaultValue="0.5"/>
+     
+    <ListPreference 
+        android:title="@string/trigger_pre" 
+        android:key="pre" 
+        android:entries="@array/listPre" 
+        android:entryValues="@array/listPreValues" 
+        android:defaultValue="0.01"/>
+
+    <ListPreference
+        android:title="@string/capture"
+        android:key="capture"
+        android:entries="@array/listCapture"
+        android:entryValues="@array/listCaptureValues"
+        android:defaultValue="10"/>
+
+    <CheckBoxPreference
+        android:key="hardware_btns"
+        android:defaultValue="false"
+        android:title="@string/hardware_btns" />
+
+     <!--<PreferenceCategory android:title="@string/notify_cat">-->
+    <!--</PreferenceCategory>-->
+
+    <!--<CheckBoxPreference-->
+        <!--android:key="sms"-->
+        <!--android:defaultValue="false"-->
+        <!--android:title="@string/sms" />-->
+
+    <!--<com.digitalbiology.audio.TwoLinesListPreference-->
+        <!--android:title="@string/sms_recp"-->
+        <!--android:key="sms_recp" />-->
+
+    <!--<EditTextPreference-->
+        <!--android:inputType="phone"-->
+        <!--android:key="sms_recp"-->
+        <!--android:selectAllOnFocus="true"-->
+        <!--android:singleLine="true"-->
+        <!--android:title="@string/sms_recp" />-->
+
+    <!--<CheckBoxPreference-->
+        <!--android:key="email"-->
+        <!--android:defaultValue="false"-->
+        <!--android:title="@string/email" />-->
+
+    <!--<com.digitalbiology.audio.TwoLinesListPreference-->
+        <!--android:title="@string/email_recp"-->
+        <!--android:key="email_recp" />-->
+
+    <!--<EditTextPreference-->
+        <!--android:inputType="textEmailAddress"-->
+        <!--android:key="email_recp"-->
+        <!--android:selectAllOnFocus="true"-->
+        <!--android:singleLine="true"-->
+        <!--android:title="@string/email_recp" />-->
+
+    <PreferenceCategory android:title="@string/timer_cat">
+    </PreferenceCategory>
+
+    <com.digitalbiology.audio.NumberPickerPreference
+        android:title="@string/timer_on"
+        android:key="timer_on"
+        android:defaultValue="2" />
+
+    <com.digitalbiology.audio.NumberPickerPreference
+        android:title="@string/timer_off"
+        android:key="timer_off"
+        android:defaultValue="10" />
+
+      <PreferenceCategory android:title="@string/geo_cat">
+    </PreferenceCategory>
+
+    <CheckBoxPreference 
+        android:key="geo" 
+        android:defaultValue="true" 
+        android:title="@string/geotag" />
+    
+    <ListPreference 
+        android:title="@string/geofreq" 
+        android:key="geofreq" 
+        android:entries="@array/listGeoFreq" 
+        android:entryValues="@array/listGeoFreqValues" 
+        android:defaultValue="120"/>
+     
+    <ListPreference 
+        android:title="@string/geodist" 
+        android:key="geodist" 
+        android:entries="@array/listGeoDist" 
+        android:entryValues="@array/listGeoDistValues" 
+        android:defaultValue="10"/>
+
+    <PreferenceCategory android:title="@string/general_cat">
+    </PreferenceCategory>
+
+    <CheckBoxPreference
+        android:key="nightMode"
+        android:defaultValue="false"
+        android:title="@string/nightMode" />
+
+    <ListPreference
+        android:title="@string/metadata"
+        android:key="metadata"
+        android:entries="@array/listMetadata"
+        android:entryValues="@array/listMetadata"
+        android:defaultValue="GUANO"/>
+
+    <ListPreference
+        android:title="@string/locales"
+        android:key="locale"
+        android:entries="@array/listLocales"
+        android:entryValues="@array/listLocalesValues"
+        android:defaultValue=""/>
+
+    <CheckBoxPreference
+        android:key="statusbar"
+        android:defaultValue="true"
+        android:title="@string/statusbar" />
+
+    <CheckBoxPreference
+        android:key="debuglog"
+        android:defaultValue="false"
+        android:summary="@string/debugsum"
+        android:title="@string/debuglog" />
+
+    <Preference
+        android:key="version"
+        android:title="@string/app_version" />
+     
+     <Preference
+        android:key="help"
+        android:title="@string/help" />
+
+</PreferenceScreen>

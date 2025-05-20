@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="file_list_press">#028ec1</color>
+    <color name="file_list_exposed">#ff444444</color>
+    <color name="file_list_default">#ff000000</color>
+</resources>

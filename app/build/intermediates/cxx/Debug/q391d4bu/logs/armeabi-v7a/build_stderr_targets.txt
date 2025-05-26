@@ -1,0 +1,45 @@
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/libanalysis/fft_bind.c:645:41: warning: passing 'uint8_t *' (aka 'unsigned char *') to parameter of type 'char * _Nullable' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+        setvbuf(cacheSpectrumWriteFile, cacheSpectrumWriteBuffer, _IOFBF, cacheLength);
+                                        ^~~~~~~~~~~~~~~~~~~~~~~~
+/Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/stdio.h:137:50: note: passing argument to parameter '__buf' here
+int setvbuf(FILE* _Nonnull __fp, char* _Nullable __buf, int __mode, size_t __size);
+                                                 ^
+1 warning generated.
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/libanalysis/fft_bind.c:645:41: warning: passing 'uint8_t *' (aka 'unsigned char *') to parameter of type 'char * _Nullable' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+        setvbuf(cacheSpectrumWriteFile, cacheSpectrumWriteBuffer, _IOFBF, cacheLength);
+                                        ^~~~~~~~~~~~~~~~~~~~~~~~
+/Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/stdio.h:137:50: note: passing argument to parameter '__buf' here
+int setvbuf(FILE* _Nonnull __fp, char* _Nullable __buf, int __mode, size_t __size);
+                                                 ^
+1 warning generated.
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/libpalette/spectrogram.c:60:47: warning: incompatible pointer types passing 'jint **' (aka 'int **') to parameter of type 'void **' [-Wincompatible-pointer-types]
+    if (AndroidBitmap_lockPixels(env, bitmap, &buf) == 0) {
+                                              ^~~~
+/Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/android/bitmap.h:151:67: note: passing argument to parameter 'addrPtr' here
+int AndroidBitmap_lockPixels(JNIEnv* env, jobject jbitmap, void** addrPtr);
+                                                                  ^
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/libpalette/spectrogram.c:89:47: warning: incompatible pointer types passing 'jint **' (aka 'int **') to parameter of type 'void **' [-Wincompatible-pointer-types]
+    if (AndroidBitmap_lockPixels(env, bitmap, &buf) == 0) {
+                                              ^~~~
+/Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/android/bitmap.h:151:67: note: passing argument to parameter 'addrPtr' here
+int AndroidBitmap_lockPixels(JNIEnv* env, jobject jbitmap, void** addrPtr);
+                                                                  ^
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/libpalette/spectrogram.c:118:47: warning: incompatible pointer types passing 'jint **' (aka 'int **') to parameter of type 'void **' [-Wincompatible-pointer-types]
+    if (AndroidBitmap_lockPixels(env, bitmap, &buf) == 0) {
+                                              ^~~~
+/Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/android/bitmap.h:151:67: note: passing argument to parameter 'addrPtr' here
+int AndroidBitmap_lockPixels(JNIEnv* env, jobject jbitmap, void** addrPtr);
+                                                                  ^
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/libpalette/spectrogram.c:158:47: warning: incompatible pointer types passing 'jint **' (aka 'int **') to parameter of type 'void **' [-Wincompatible-pointer-types]
+    if (AndroidBitmap_lockPixels(env, bitmap, &buf) == 0) {
+                                              ^~~~
+/Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/android/bitmap.h:151:67: note: passing argument to parameter 'addrPtr' here
+int AndroidBitmap_lockPixels(JNIEnv* env, jobject jbitmap, void** addrPtr);
+                                                                  ^
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/libpalette/spectrogram.c:212:47: warning: incompatible pointer types passing 'jint **' (aka 'int **') to parameter of type 'void **' [-Wincompatible-pointer-types]
+    if (AndroidBitmap_lockPixels(env, bitmap, &buf) == 0) {
+                                              ^~~~
+/Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/android/bitmap.h:151:67: note: passing argument to parameter 'addrPtr' here
+int AndroidBitmap_lockPixels(JNIEnv* env, jobject jbitmap, void** addrPtr);
+                                                                  ^
+5 warnings generated.

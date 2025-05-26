@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="listCapture">
+        <item>3 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+    </string-array>
+    <string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array>
+    <string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+    </string-array>
+    <string-array name="listGeoDist">
+        <item>5 metros</item>
+        <item>10 metros</item>
+        <item>50 metros</item>
+        <item>100 metros</item>
+        <item>500 metros</item>
+        <item>1 kilómetro</item>
+        </string-array>
+    <string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array>
+    <string-array name="listGeoFreq">
+       <item>5 segundos</item>
+       <item>10 segundos</item>
+       <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        </string-array>
+    <string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array>
+    <string-array name="listHetero">
+        <item>16x mayor</item>
+        <item>8x mayor</item>
+        <item>4x mayor</item>
+        <item>1x</item>
+        <item>4x inferior</item>
+        <item>8x inferior</item>
+        <item>16x inferior</item>
+    </string-array>
+    <string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array>
+    <string-array name="listLength">
+        <item>límite de tiempo máximo</item>
+        <item>3 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+    </string-array>
+    <string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array>
+    <string-array name="listLocales">
+        <item>defecto</item>
+        <item>Alemán</item>
+        <item>Español</item>
+        <item>Francés</item>
+        <item>Holandés</item>
+        <item>Inglés (US)</item>
+        <item>Italiano</item>
+        <item>Noruego</item>
+        <item>Sueco</item>
+    </string-array>
+    <string-array name="listLocalesValues">
+        <item/>
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>it</item>
+        <item>nb</item>
+        <item>sv</item>
+    </string-array>
+    <string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array>
+    <string-array name="listPost">
+        <item>sin demora</item>
+        <item>0.01 segundos</item>
+        <item>0.1 segundos</item>
+        <item>0.5 segundos</item>
+        <item>1 segundo</item>
+        <item>3 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+    </string-array>
+    <string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+    <string-array name="listPre">
+        <item>sin demora</item>
+        <item>0.01 segundos</item>
+        <item>0.02 segundos</item>
+        <item>0.05 segundos</item>
+        <item>0.1 segundos</item>
+        <item>0.5 segundos</item>
+        <item>1 segundo</item>
+    </string-array>
+    <string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array>
+    <string-array name="listRefresh">
+        <item>borrar</item>
+        <item>escribir en la parte superior de</item>
+    </string-array>
+    <string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ir a inicio"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Hecho"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Suprimir"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Intro"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Mayús +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espacio"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de búsqueda"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ocultar"</string>
+    <string name="alarm_on">El temporizador  de escucha está en marcha…</string>
+    <string name="alarm_quit">Detener el temporizador</string>
+    <string name="already_exists">Un archivo con ese nombre ya existe.</string>
+    <string name="analysis_cat">Análisis</string>
+    <string name="analyzing">Espectrograma analizar…</string>
+    <string name="app_name">Grabadora de Murciélago</string>
+    <string name="app_version">Versión de la Grabadora de Murciélago:</string>
+    <string name="archive_title">Grabaciones</string>
+    <string name="capture">Escuchar longitud del búfer</string>
+    <string name="channel1">El canal 1</string>
+    <string name="channel2">El canal 2</string>
+    <string name="checking_license">Comprobando su licencia…</string>
+    <string name="close_app">¿Salir del Grabadora de Murciélago?</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Habilitar</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s no funcionará hasta que no habilites Servicios de Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Descargar Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidad Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Servicios de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">La aplicación %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="common_google_play_services_unsupported_text">No es posible ejecutar la aplicación %1$s sin los Servicios de Google Play, que no son compatibles con tu dispositivo.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Actualizar</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s no funcionará hasta que no actualices Servicios de Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Actualiza Servicios de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve.</string>
+    <string name="common_open_on_phone">Abrir en teléfono</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="cont_rec">Grabación continua</string>
+    <string msgid="6083905920877235314" name="copy">"Copiar"</string>
+    <string name="created_xmp">El archivo de metadatos se ha creado correctamente.</string>
+    <string name="debuglog">registro de depuración USB</string>
+    <string name="debugsum">Debe reiniciar la aplicación para tener efecto</string>
+    <string name="delete">Eliminar la grabación</string>
+    <string name="delete_file">¿Está seguro de que quiere liminar</string>
+    <string name="dropped">muestras se perdieron.</string>
+    <string name="email">Enviar correo electrónico cuando sea activado</string>
+    <string name="email_recp">Destinatario de correo electrónico</string>
+    <string name="empty_name">Un nombre de archivo no puede estar en blanco.</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Ajustes avanzados"</string>
+    <string name="expansion">Factor de expansión</string>
+    <string name="export">Exportar el fragmento</string>
+    <string name="export_file">Exportar archivo</string>
+    <string name="export_file_fail">Hubo un problema al exportar la grabación seleccionada.</string>
+    <string name="export_file_succeed">El archivo ha sido exportado con éxito.</string>
+    <string name="exporting">la exportación</string>
+    <string name="fft_window">Tamaño de la ventana de FFT</string>
+    <string name="file_too_long">Archivo demasiado grande. Limitado a</string>
+    <string name="general_cat">General</string>
+    <string name="geo_cat">Geolocalización</string>
+    <string name="geodist">La actualización del GPS</string>
+    <string name="geofreq">Mínima distancia de actualización del GPS</string>
+    <string name="geotag">Etiqueta geográfica de archivos WAV</string>
+    <string name="googleplay_missing">Los Servicios de Google Play deben stár instalados para permitir la vista del mapa.</string>
+    <string name="googleplay_update">Los Servicios de Google Play deben actualizarse para permitir la vista del mapa.</string>
+    <string name="gridlines">Líneas de cuadrícula espectáculo de frecuencia</string>
+    <string name="hardware_btns">Activar mediante botones de volumen</string>
+    <string name="help">Manual de Usuario…</string>
+    <string name="het_adj">Tono heterodino</string>
+    <string name="het_freq">Rango de frecuencia heterodina</string>
+    <string name="license_msg1">Me gustaría comprar una licencia de Bat Recorder para este dispositivo Android (hardware ID: </string>
+    <string name="license_msg2">).</string>
+    <string name="license_verify_problem">Lo sentimos, pero hubo un problema al verificar su licencia.</string>
+    <string name="load_file">Cargando</string>
+    <string name="loading_help">Cargando manual de usuario en línea…</string>
+    <string name="locale_change">Tendrá que reiniciar la aplicación para que este cambio surta efecto.</string>
+    <string name="locales">Localización de idioma</string>
+    <string name="logscale">Escala de frecuencia logarítmica</string>
+    <string name="maxlength">Longitud máxima de grabación</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="metadata">Formato de metadatos</string>
+    <string name="mic_init">Buscando un micrófono USB…</string>
+    <string name="mic_init_dodotronic">Buscando un micrófono Dodotronic…</string>
+    <string name="mic_init_pettersson">Buscando un micrófono Pettersson…</string>
+    <string name="mini_mic">Elija el modelo miniMIC:</string>
+    <string name="nightMode">Modo nocturno</string>
+    <string name="no_mic">No se detectó un micrófono USB. Asegúrese de que un cable compatible con USB OTG esté bien conectado, o pulse \'Continuar\' para usar el micrófono del dispositivo Android.</string>
+    <string msgid="6573031135582639649" name="not_set">"Sin establecer"</string>
+    <string name="not_show">No mostrar de nuevo</string>
+    <string name="not_ultrasonic">Otros modos de reproducción sólo son válidas para las grabaciones de ultrasonido.</string>
+    <string name="notify_cat">Notificación de disparador</string>
+    <string name="open_file_fail">Hubo un problema al abrir el archivo WAV seleccionado.</string>
+    <string name="permissions_verify_problem">Lo sentimos, pero no se han concedido los permisos de aplicaciones requeridas.</string>
+    <string name="playback_only">Continuar</string>
+    <string name="prebuffer">tampón de ahorro…</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" se ha copiado en el portapapeles."</string>
+    <string name="purchase">La grabación requiere una licencia.</string>
+    <string name="quit">Abandonar</string>
+    <string name="recording">grabación</string>
+    <string name="recordings">grabaciones</string>
+    <string name="refresh">Espectrograma pantalla en vivo</string>
+    <string name="rename">Renombrar la grabación</string>
+    <string name="reply">Dirección de correo electrónico de respuesta:</string>
+    <string name="reply_email">Elija dirección de respuesta en el correo electrónico de notificación.</string>
+    <string name="requestLicense">Pedido</string>
+    <string name="samplerate">Velocidad de muestreo del micrófono</string>
+    <string name="saved">El fragmento se ha guardado.</string>
+    <string name="sdcard_title">Advertencia</string>
+    <string name="sdcard_warning">Grabaciones almacenadas en la tarjeta SD serán borrados automáticamente por el sistema operativo Android si se desinstala la aplicación BatRecorder. Por favor asegúrese de copia de seguridad de las grabaciones que desee conservar.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Buscar"</string>
+    <string name="shake_rec">Alternar la grabación por agitación</string>
+    <string name="share">Compartir la grabación con</string>
+    <string name="sms">Enviar mensaje SMS cuando activado</string>
+    <string name="sms_recp">SMS mensaje de destinatario</string>
+    <string name="species">Elija la especie:</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="statusbar">Siempre mostrar las barras del sistema Android</string>
+    <string name="stereo_warning">es una grabación estéreo. Sólo se puede cargar un canal. Por favor seleccione:</string>
+    <string name="storage">Guardar las grabaciones en la tarjeta SD</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="timer_cat">Temporizador de la escucha</string>
+    <string name="timer_off">Intervalo de reposo</string>
+    <string name="timer_on">Duración de la escucha</string>
+    <string name="timer_unit">minuto</string>
+    <string name="timer_units">minutos</string>
+    <string name="triggerOnly">Sólo pantalla desencadena eventos</string>
+    <string name="trigger_cat">Grabación</string>
+    <string name="trigger_db">Umbral de intensidad del disparador</string>
+    <string name="trigger_freq">Rango de frecuencia del disparador</string>
+    <string name="trigger_post">Retardo de desconexión del disparador</string>
+    <string name="trigger_pre">Tiempo de grabación previa al disparador</string>
+    <string name="triggered">Grabadora de Murciélago iniciada</string>
+    <string name="ultramodes">Permitir a todos los modos de reproducción de señales no ultrasónicos</string>
+    <string name="unsupported">El dispositivo USB conectado no es compatible.</string>
+    <string name="usb_detach">La conexión con el micrófono USB se ha perdido. Asegúrese de que el cable USB está firmemente conectado, o pulse \'Continuar\' para usar el micrófono del dispositivo Android.</string>
+    <string name="use_sdcard">Utilice la tarjeta SD</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESACTIVADA"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVADO"</string>
+    <string name="version">versión</string>
+</resources>

@@ -1,0 +1,2 @@
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk
+/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Application.mk

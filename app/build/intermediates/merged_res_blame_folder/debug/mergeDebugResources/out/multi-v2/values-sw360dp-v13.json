@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.digitalbiology.audio.app-mergeDebugResources-31:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/dilucar/.gradle/caches/8.9/transforms/5db78e8749b2117b56c35c0cb75a7f80/transformed/preference-1.2.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

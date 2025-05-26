@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.digitalbiology.audio.app-mergeDebugResources-31:/values-tl/values-tl.xml",
+            "map": [
+                {
+                    "source": "/Users/dilucar/.gradle/caches/8.9/transforms/0158d79d41a55cd42240ccf419b0d3b8/transformed/jetified-play-services-base-18.0.1/res/values-tl/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,296,468,602,707,861,993,1111,1220,1395,1498,1672,1806,1964,2139,2203,2265",
+                        "endColumns": "102,171,133,104,153,131,117,108,174,102,173,133,157,174,63,61,76",
+                        "endOffsets": "295,467,601,706,860,992,1110,1219,1394,1497,1671,1805,1963,2138,2202,2264,2341"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,38,39,40,41,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2845,2952,3128,3266,3375,3533,3669,3791,4049,4228,4335,4513,4651,4813,4992,5060,5126",
+                        "endColumns": "106,175,137,108,157,135,121,112,178,106,177,137,161,178,67,65,80",
+                        "endOffsets": "2947,3123,3261,3370,3528,3664,3786,3899,4223,4330,4508,4646,4808,4987,5055,5121,5202"
+                    }
+                },
+                {
+                    "source": "/Users/dilucar/.gradle/caches/8.9/transforms/3a5748023d883db3b57ebc85a44d3b03/transformed/jetified-play-services-basement-18.0.0/res/values-tl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "140",
+                        "endOffsets": "335"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3904",
+                        "endColumns": "144",
+                        "endOffsets": "4044"
+                    }
+                },
+                {
+                    "source": "/Users/dilucar/.gradle/caches/8.9/transforms/5db78e8749b2117b56c35c0cb75a7f80/transformed/preference-1.2.1/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,177,264,346,485,654,739",
+                        "endColumns": "71,86,81,138,168,84,80",
+                        "endOffsets": "172,259,341,480,649,734,815"
+                    },
+                    "to": {
+                        "startLines": "47,48,49,50,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5207,5279,5366,5448,5773,5942,6027",
+                        "endColumns": "71,86,81,138,168,84,80",
+                        "endOffsets": "5274,5361,5443,5582,5937,6022,6103"
+                    }
+                },
+                {
+                    "source": "/Users/dilucar/.gradle/caches/8.9/transforms/5d05822affbc926a6ebdbc0b756426ea/transformed/core-1.9.0/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "52",
+                        "startColumns": "4",
+                        "startOffsets": "5672",
+                        "endColumns": "100",
+                        "endOffsets": "5768"
+                    }
+                },
+                {
+                    "source": "/Users/dilucar/.gradle/caches/8.9/transforms/64d209bf6826bde4e90858b8b734b64c/transformed/appcompat-1.6.1/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,324,437,525,631,746,826,903,994,1087,1182,1276,1376,1469,1564,1658,1749,1840,1924,2033,2143,2244,2354,2472,2580,2743,2845",
+                        "endColumns": "110,107,112,87,105,114,79,76,90,92,94,93,99,92,94,93,90,90,83,108,109,100,109,117,107,162,101,84",
+                        "endOffsets": "211,319,432,520,626,741,821,898,989,1082,1177,1271,1371,1464,1559,1653,1744,1835,1919,2028,2138,2239,2349,2467,2575,2738,2840,2925"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,51",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,324,437,525,631,746,826,903,994,1087,1182,1276,1376,1469,1564,1658,1749,1840,1924,2033,2143,2244,2354,2472,2580,2743,5587",
+                        "endColumns": "110,107,112,87,105,114,79,76,90,92,94,93,99,92,94,93,90,90,83,108,109,100,109,117,107,162,101,84",
+                        "endOffsets": "211,319,432,520,626,741,821,898,989,1082,1177,1271,1371,1464,1559,1653,1744,1835,1919,2028,2138,2239,2349,2467,2575,2738,2840,5667"
+                    }
+                }
+            ]
+        }
+    ]
+}

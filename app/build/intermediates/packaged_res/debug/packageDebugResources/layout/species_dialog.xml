@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <com.digitalbiology.audio.views.TintedLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#111111"
+        android:orientation="horizontal" >
+        
+        <ImageView
+            android:id="@+id/place"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/world" />
+
+         <TextView
+            android:id="@+id/titlebar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:layout_weight="1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#33b5e5"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:text="@string/species" />
+
+    </com.digitalbiology.audio.views.TintedLinearLayout>
+
+    <com.digitalbiology.audio.views.TintedLinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/search_species"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/image_search" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="2dp"
+            android:focusableInTouchMode="true"
+            android:focusable="true"
+            android:padding="5dp"
+            android:background="#555555"
+            >
+
+            <EditText
+                android:id="@+id/selectedSpecies"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#ffffff"
+                android:inputType="textCapSentences|textNoSuggestions"
+                android:background="@null"
+                android:paddingRight="25dp"
+                android:imeOptions="actionDone|flagNoExtractUi"
+                android:text="" />
+
+            <Button
+                android:id="@+id/clear_species"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/image_clear"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/speciesOk"
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content"
+            android:text="@android:string/ok"
+            android:textColor="#ffffff"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/dlg_button" />
+
+    </com.digitalbiology.audio.views.TintedLinearLayout>
+
+    <ListView
+        android:id="@+id/speciesList"
+        android:layout_width="match_parent"
+        android:layout_height="212dp"
+        android:fadingEdge="vertical"
+        android:fastScrollEnabled="true"
+        android:padding="1dp"  />
+
+</LinearLayout>

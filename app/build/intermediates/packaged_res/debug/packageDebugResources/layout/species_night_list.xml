@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+    android:id="@+id/species_checkbox"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    />
+
+<TextView
+    android:id="@+id/species_list_item"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceSmall"
+    android:textColor="#ff0000"
+    android:textStyle="italic"
+    android:gravity="center_vertical"
+    android:paddingStart="12dip"
+    android:paddingEnd="7dip"
+    android:paddingTop="5dip"
+    android:paddingBottom="5dip"
+    android:ellipsize="marquee"
+    />
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+make: Nothing to be done for 'analysis'.
+make: Nothing to be done for 'analysisNEON'.
+make: Nothing to be done for 'file'.
+make: Nothing to be done for 'palette'.
+make: Nothing to be done for 'usb'.

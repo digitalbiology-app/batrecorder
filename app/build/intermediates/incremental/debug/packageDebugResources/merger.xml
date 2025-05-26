@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res"><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppTheme" parent="android:Theme.Holo.Light"/></file><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-sv/splash.png" qualifiers="sv" type="drawable"/><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-it/array.xml" qualifiers="it"><string-array name="listRefresh">
+        <item>Reset schermata</item>
+        <item>Sovrascrivi schermata</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+    </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 secondi</item>
+        <item>5 secondi</item>
+        <item>10 secondi</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>nessun ritardo</item>
+        <item>0.01 secondi</item>
+        <item>0.1 secondi</item>
+        <item>0.5 secondi</item>
+        <item>1 secondo</item>
+        <item>3 secondi</item>
+        <item>5 secondi</item>
+        <item>10 secondi</item>
+        </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+         <item>3</item>
+         <item>5</item>
+         <item>10</item>
+     </string-array><string-array name="listPre">
+        <item>nessun ritardo</item>
+        <item>0.01 secondi</item>
+        <item>0.02 secondi</item>
+        <item>0.05 secondi</item>
+        <item>0.1 secondi</item>
+        <item>0.5 secondi</item>
+        <item>1 secondo</item>
+        </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array><string-array name="listGeoFreq">
+       <item>5 secondi</item>
+       <item>10 secondi</item>
+       <item>30 secondi</item>
+        <item>1 minuto</item>
+        <item>2 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        </string-array><string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array><string-array name="listGeoDist">
+        <item>5 metri</item>
+        <item>10 metri</item>
+        <item>50 metri</item>
+        <item>100 metri</item>
+        <item>500 metri</item>
+        <item>1 chilometri</item>
+        </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array><string-array name="listLocales">
+        <item>predefinito</item>
+        <item>Inglese (US)</item>
+        <item>Francese</item>
+        <item>Italiano</item>
+        <item>Norvegese</item>
+        <item>Olandeseo</item>
+        <item>Spagnolo</item>
+        <item>Svedese</item>
+        <item>Tedesco</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nb</item>
+        <item>nl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>de</item>
+    </string-array><string-array name="listLength">
+        <item>limite di tempo massimo</item>
+        <item>3 secondi</item>
+        <item>5 secondi</item>
+        <item>10 secondi</item>
+        <item>30 secondi</item>
+        <item>1 minuto</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x più alto</item>
+        <item>8x più alto</item>
+        <item>4x più alto</item>
+        <item>1x</item>
+        <item>4x inferiore</item>
+        <item>8x inferiore</item>
+        <item>16x inferiore</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-it/strings.xml" qualifiers="it"><string name="app_name">Registratore Ultrasonico</string><string name="menu_settings">Impostazioni</string><string name="locales">Lingua</string><string name="locale_change">Sarà necessario riavviare l’applicazione per abilitare la modifica.</string><string name="archive_title">Registrazione</string><string name="load_file">Caricamento</string><string name="checking_license">Controllo della licenza…</string><string name="license_verify_problem">Siamo spiacenti, ma c’era un problema di verifica nella licenza.</string><string name="permissions_verify_problem">Siamo spiacenti, ma non sono state concesse le autorizzazioni di app richiesto.</string><string name="mic_init">Ricerca di una sorgente microfonica compatibile…</string><string name="mic_init_pettersson">Ricerca di una sorgente microfonica Pettersson…</string><string name="mic_init_dodotronic">Ricerca di una sorgente microfonica Dodotronic…</string><string name="no_mic">Nessun microfono USB rilevato. Assicurarsi che un cavo USB OTG compatibile sia saldamente collegato, oppure premere \'Continua\' per utilizzare il microfono del dispositivo.</string><string name="quit">Uscita</string><string name="playback_only">Continua</string><string name="app_version">versione del Registratore Ultrasonico:</string><string name="version">versione</string><string name="usb_detach">Il collegamento con il microfono ad USB è stato perso. Assicurarsi che il cavo del microfono USB sia collegato, oppure premere \'Continua\' per utilizzare il microfono del dispositivo.</string><string name="open_file_fail">C’è stato un problema con l’apertura del file WAV selezionato.</string><string name="fft_window">Dimensione della finestra FFT</string><string name="analysis_cat">Analisi</string><string name="general_cat">Generale</string><string name="geo_cat">Geolocalizzazione</string><string name="trigger_cat">Registrazione</string><string name="trigger_db">Livello di intervento</string><string name="trigger_post">Postregistrazione su evento</string><string name="trigger_pre">Preregistrazione su evento</string><string name="help">Manuale utente…</string><string name="storage">Salva le registrazioni su SD card</string><string name="geotag">Georeferenzia le registrazioni WAV</string><string name="geofreq">Frequenza di aggiornamento GPS</string><string name="geodist">Distanza minima di aggiornamento GPS</string><string name="dropped">campioni sono stati persi!</string><string name="share">Condividere la registrazione con</string><string name="close_app">Uscire dal Registratore Ultrasonico?</string><string name="delete_file">Sei sicuro di voler eliminare</string><string name="delete">Eliminare la registrazione</string><string name="rename">Rinominare la registrazione</string><string name="export">Esportare la selezione</string><string name="saved">La selezione è stata salvata.</string><string name="already_exists">Un file con questo nome esiste già.</string><string name="empty_name">Il nome di file non può essere vuoto.</string><string name="created_xmp">Il file di metadati è stato creato con successo.</string><string name="expansion">Fattore di espansione</string><string name="timer_cat">Ascolto periodico</string><string name="timer_on">Durata di ascolto</string><string name="timer_off">Intervallo di spegnimento</string><string name="timer_unit">minuto</string><string name="timer_units">minuti</string><string name="alarm_on">Temporizzatore di ascolto è in funzione…</string><string name="alarm_quit">Ferma il timer</string><string name="googleplay_missing">I servizi di Google Play devono essere installati per consentire la visualizzazione della mappa.</string><string name="googleplay_update">I servizi di Google Play devono essere aggiornati per consentire la visualizzazione della mappa.</string><string name="notify_cat">Notifica di intervento</string><string name="sms">Invia messaggio SMS quando attivato</string><string name="sms_recp">Destinatario del messaggio SMS</string><string name="email">Invia e-mail quando attivato</string><string name="email_recp">Destinatario della e-mail</string><string name="triggered">Registratore Ultrasonico attivato</string><string name="loading_help">Caricamento del manuale utente…</string><string name="reply_email">Scegli l’indirizzo e-mail di partenza della notifica.</string><string name="reply">Indirizzo e-mail mittente:</string><string name="mini_mic">Scegliere il modello miniMIC:</string><string name="prebuffer">buffer di ascolto…</string><string name="capture">Lunghezza del buffer di ascolto</string><string name="species">Scegli la specie:</string><string name="export_file">Registrazione esportazione</string><string name="export_file_fail">C’è stato un problema esportare la registrazione selezionata.</string><string name="export_file_succeed">La registrazione è stata esportata con successo.</string><string name="not_ultrasonic">Altri modi di riproduzione sono validi solo per le registrazioni ad ultrasuoni.</string><string name="unsupported">Il dispositivo USB collegato non è supportato.</string><string name="samplerate">Frequenza di campionamento del microfono</string><string name="maxlength">Lunghezza massima di registrazione</string><string name="logscale">Scala di frequenza logaritmica</string><string name="metadata">Formato dei metadati</string><string name="het_freq">Intervallo di frequenze in eterodina</string><string name="trigger_freq">Intervallo di frequenze di intervento</string><string name="gridlines">Mostra linee di frequenza</string><string name="analyzing">Analisi spettrogramma…</string><string name="recording">registrazione</string><string name="recordings">registrazioni</string><string name="refresh">Aggiornamento spettrogramma</string><string name="statusbar">Mostra le barre di sistema Android</string><string name="debuglog">Crea registro di debug USB</string><string name="debugsum">Richiede il riavvio dell’ app</string><string name="ultramodes">Abilita tutte le modalità di riproduzione per suoni</string><string name="exporting">l’esportazione</string><string name="nightMode">Modalità notturna</string><string name="triggerOnly">Visualizza solo ad evento attivato</string><string name="not_show">Non mostrare più</string><string name="sdcard_title">Avviso</string><string name="use_sdcard">Utilizzare una Scheda SD</string><string name="sdcard_warning">Le registrazioni memorizzate nella scheda SD verranno cancellati automaticamente dal sistema operativo Android se si disinstalla l’applicazione BatRecorder. Assicurarsi di eseguire il backup di registrazioni che si desidera conservare.</string><string name="stereo_warning">è una registrazione stereo. Solo un canale può essere caricato. seleziona:</string><string name="channel1">Canale 1</string><string name="channel2">Canale 2</string><string name="file_too_long">File troppo grande. Limitato a</string><string name="cont_rec">Registrazione continua</string><string name="hardware_btns">Attivare utilizzando i pulsanti del volume</string><string name="shake_rec">Attiva o disattiva la registrazione agitando</string><string name="het_adj">Tono eterodina</string><string name="requestLicense">Richiesta</string><string name="purchase">La registrazione richiede una licenza.</string><string name="license_msg1">Vorrei acquistare una licenza Bat Recorder per questo dispositivo Android (hardware ID: </string><string name="license_msg2">).</string></file><file name="activity_main" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout-land/activity_main.xml" qualifiers="land" type="layout"/><file name="dlg_button_enabled" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/dlg_button_enabled.xml" qualifiers="" type="drawable"/><file name="pettersson_logo" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/pettersson_logo.png" qualifiers="" type="drawable"/><file name="rounded_corner" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/rounded_corner.xml" qualifiers="" type="drawable"/><file name="power_border" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/power_border.xml" qualifiers="" type="drawable"/><file name="red_power_border" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/red_power_border.xml" qualifiers="" type="drawable"/><file name="dodotronic_logo" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/dodotronic_logo.png" qualifiers="" type="drawable"/><file name="dlg_button_disabled" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/dlg_button_disabled.xml" qualifiers="" type="drawable"/><file name="button_disabled" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/button_disabled.xml" qualifiers="" type="drawable"/><file name="button_pressed" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/button_pressed.xml" qualifiers="" type="drawable"/><file name="seek_style" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/seek_style.xml" qualifiers="" type="drawable"/><file name="dlg_button_focused" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/dlg_button_focused.xml" qualifiers="" type="drawable"/><file name="icon_border" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/icon_border.xml" qualifiers="" type="drawable"/><file name="translucent_background" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/translucent_background.xml" qualifiers="" type="drawable"/><file name="seek" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/seek.xml" qualifiers="" type="drawable"/><file name="dlg_button_pressed" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/dlg_button_pressed.xml" qualifiers="" type="drawable"/><file name="alarm" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/alarm.png" qualifiers="" type="drawable"/><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/splash.png" qualifiers="" type="drawable"/><file name="button_focused" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/button_focused.xml" qualifiers="" type="drawable"/><file name="dlg_button" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/dlg_button.xml" qualifiers="" type="drawable"/><file name="button_enabled" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/button_enabled.xml" qualifiers="" type="drawable"/><file name="resize" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/resize.png" qualifiers="" type="drawable"/><file name="button" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable/button.xml" qualifiers="" type="drawable"/><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-no/splash.png" qualifiers="no" type="drawable"/><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-no/array.xml" qualifiers="no"><string-array name="listRefresh">
+        <item>forfriske</item>
+        <item>skrive</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+    </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>ingen forsinkelse</item>
+        <item>0.01 sekunder</item>
+        <item>0.1 sekunder</item>
+        <item>0.5 sekunder</item>
+        <item>1 sekund</item>
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+    </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPre">
+        <item>ingen forsinkelse</item>
+        <item>0.01 sekunder</item>
+        <item>0.02 sekunder</item>
+        <item>0.05 sekunder</item>
+        <item>0.1 sekunder</item>
+        <item>0.15 sekunder</item>
+        <item>1 sekund</item>
+    </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+    </string-array><string-array name="listGeoFreq">
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minutt</item>
+        <item>2 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+    </string-array><string-array name="listGeoFreqValues">
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+    </string-array><string-array name="listGeoDist">
+        <item>5 meter</item>
+        <item>10 meter</item>
+        <item>50 meter</item>
+        <item>100 meter</item>
+        <item>500 meter</item>
+        <item>1 kilometer</item>
+    </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array><string-array name="listLocales">
+        <item>normalverdi</item>
+        <item>Engelsk (US)</item>
+        <item>Fransk</item>
+        <item>Italiensk</item>
+        <item>Nederlandsk</item>
+        <item>Norsk</item>
+        <item>Spansk</item>
+        <item>Svensk</item>
+        <item>Tysk</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>de</item>
+    </string-array><string-array name="listLength">
+        <item>maksimal tidsbegrensning</item>
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minutt</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x høyere</item>
+        <item>8x høyere</item>
+        <item>4x høyere</item>
+        <item>1x</item>
+        <item>4x nedre</item>
+        <item>8x nedre</item>
+        <item>16x nedre</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-no/strings.xml" qualifiers="no"><string name="app_name">Flaggermus Lydopptaker</string><string name="menu_settings">Innstillinger</string><string name="locales">Språk lokalisering</string><string name="locale_change">Du må starte programmet for denne endringen skal tre i kraft.</string><string name="archive_title">Lydopptak</string><string name="load_file">Laster</string><string name="checking_license">Verifisere lisens…</string><string name="license_verify_problem">Beklager, men det var et problem å verifisere lisensen.</string><string name="permissions_verify_problem">Beklager, men de nødvendige app tillatelser er ikke gitt.</string><string name="mic_init">Leter du etter en støttet USB-mikrofon…</string><string name="mic_init_pettersson">Leter du etter en støttet Pettersson mikrofon…</string><string name="mic_init_dodotronic">Leter du etter en støttet Dodotronic mikrofon…</string><string name="no_mic">En støttet USB-mikrofon ble ikke påvist. Pass på at en USB OTG-kompatibel kabel er ordentlig festet, eller trykk på \'Fortsette\' for å bruke ikke-ultralyd apparat mikrofon.</string><string name="quit">Slutte</string><string name="playback_only">Fortsette</string><string name="app_version">Flaggermus Lydopptaker versjon:</string><string name="version">versjon</string><string name="usb_detach">Tilkoblingen til USB-mikrofonen har gått tapt. Kontroller at USB-mikrofonkabelen er godt festet, eller trykk på \'Fortsette\' for å bruke ikke-ultralyd apparat mikrofon.</string><string name="open_file_fail">Det var et problem å åpne den valgte WAV fil.</string><string name="fft_window">FFT vindusstørrelsen</string><string name="analysis_cat">Analyse</string><string name="general_cat">Alminnelig</string><string name="geo_cat">Geolocation</string><string name="trigger_cat">Innspilling</string><string name="trigger_db">Opptaksavtrekkeren terskel intensitet</string><string name="trigger_post">Opptaksavtrekkeren skru av tidsforsinkelse</string><string name="trigger_pre">Opptaksavtrekkeren slå på forsprang</string><string name="help">Brukermanual…</string><string name="storage">Lagre opptak på SD kort</string><string name="geotag">Geotagge WAV filer</string><string name="geofreq">GPS oppdatering frekvens</string><string name="geodist">GPS oppdatering minimumsavstand</string><string name="dropped">prøvene ble droppet!</string><string name="share">Dele lydopptak med</string><string name="close_app">Slutte Flaggermus Lydopptaker?</string><string name="delete_file">Er du sikker på at du vil slette</string><string name="delete">Slett lydopptak</string><string name="rename">Gi nytt navn lydopptak</string><string name="export">Eksport lydklippet</string><string name="saved">Lydklipp er lagret.</string><string name="already_exists">En fil med dette navnet finnes allerede.</string><string name="empty_name">Et filnavn kan ikke være tomt.</string><string name="created_xmp">Metadata-filen ble opprettet.</string><string name="expansion">Utvidelse faktor</string><string name="timer_cat">Lytte timer</string><string name="timer_on">Lytte varighet</string><string name="timer_off">Søvn intervall</string><string name="timer_unit">minutt</string><string name="timer_units">minutter</string><string name="alarm_on">Lytte tidtakeren går…</string><string name="alarm_quit">Stoppe tidsur</string><string name="googleplay_missing">Google Play Tjenester må være installert for å aktivere kartet.</string><string name="googleplay_update">Google Play Tjenester må oppdateres for å aktivere kartet.</string><string name="notify_cat">Opptaksavtrekkeren varsling</string><string name="sms">Send SMS-melding når utløst</string><string name="sms_recp">SMS meldingen mottaker</string><string name="email">Send e-post når den utløses</string><string name="email_recp">E-postmottaker</string><string name="triggered">Flaggermus Lydopptaker utløst</string><string name="loading_help">Laster online bruksanvisningen…</string><string name="reply_email">Velg svaradresse i e-posten.</string><string name="reply">Svar e-postadresse:</string><string name="mini_mic">Velg miniMIC modell:</string><string name="prebuffer">besparende buffer…</string><string name="capture">Lytte bufferlengde</string><string name="species">Velg artene:</string><string name="export_file">Eksport innspilling</string><string name="export_file_fail">Det var et problem å eksportere det valgte opptaket.</string><string name="export_file_succeed">Andre avspillingsmodus er bare gyldig for ultralyd opptak.</string><string name="not_ultrasonic">Andre avspillingsmodus er bare gyldig for ultralyd opptak.</string><string name="unsupported">Den tilkoblede USB-enheten ikke støttes.</string><string name="samplerate">Mikrofon samplingsfrekvens</string><string name="maxlength">Maksimal opptakstid</string><string name="logscale">Logaritmisk frekvensskala</string><string name="metadata">Metadata format</string><string name="het_freq">Heterodyne frekvensområdet</string><string name="trigger_freq">Opptaksavtrekkeren frekvensområdet</string><string name="gridlines">Vis frekvensrutenettlinjer</string><string name="analyzing">Analysere spectrogram…</string><string name="recording">innspilling</string><string name="recordings">innspillinger</string><string name="refresh">Levende spectrogram skjerm</string><string name="statusbar">Vis alltid Android systemet barer</string><string name="debuglog">USB debug log</string><string name="debugsum">Må starte app skal tre i kraft</string><string name="ultramodes">Aktiver alle avspillingsmodus for ikke-ultralydsignaler</string><string name="exporting">eksportere</string><string name="nightMode">Nattmodus</string><string name="triggerOnly">Bare skjerm utløste hendelser</string><string name="not_show">Ikke vis igjen</string><string name="sdcard_title">Advarsel</string><string name="use_sdcard">Bruk SD kort</string><string name="sdcard_warning">Opptak lagres på SD kortet vil automatisk bli slettet av Android OS hvis du avinstallerer BatRecorder app. Sørg for å sikkerhetskopiere alle opptakene du ønsker å beholde.</string><string name="stereo_warning">er et stereoopptak. Bare én kanal kan lastes. Vennligst velg:</string><string name="channel1">Kanal 1</string><string name="channel2">Kanal 2</string><string name="file_too_long">Filen er for stor. Begrenset til</string><string name="cont_rec">Kontinuerlig innspilling</string><string name="hardware_btns">Utløseren bruker volumknappene</string><string name="shake_rec">Veksle opptak ved å riste</string><string name="het_adj">Heterodyntone</string><string name="requestLicense">Be om</string><string name="purchase">Innspilling krever lisens.</string><string name="license_msg1">Jeg ønsker å kjøpe en Bat Recorder-lisens for denne Android-enheten (maskinvare ID: </string><string name="license_msg2">).</string></file><file name="custom_code_dialog" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/custom_code_dialog.xml" qualifiers="" type="layout"/><file name="record" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/record.xml" qualifiers="" type="layout"/><file name="two_lines_list_preference_row" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/two_lines_list_preference_row.xml" qualifiers="" type="layout"/><file name="activity_help" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/activity_help.xml" qualifiers="" type="layout"/><file name="dialog_list_item" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/dialog_list_item.xml" qualifiers="" type="layout"/><file name="popup" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/popup.xml" qualifiers="" type="layout"/><file name="stereo_dialog" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/stereo_dialog.xml" qualifiers="" type="layout"/><file name="file_dialog" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/file_dialog.xml" qualifiers="" type="layout"/><file name="species_list" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/species_list.xml" qualifiers="" type="layout"/><file name="popup_timer" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/popup_timer.xml" qualifiers="" type="layout"/><file name="info_window_layout" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/info_window_layout.xml" qualifiers="" type="layout"/><file name="spinner" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/spinner.xml" qualifiers="" type="layout"/><file name="checkbox" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/checkbox.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="rangeseek" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/rangeseek.xml" qualifiers="" type="layout"/><file name="species_dialog" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/species_dialog.xml" qualifiers="" type="layout"/><file name="mini_mic_dialog" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/mini_mic_dialog.xml" qualifiers="" type="layout"/><file name="species_night_list" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/layout/species_night_list.xml" qualifiers="" type="layout"/><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-it/splash.png" qualifiers="it" type="drawable"/><file name="primary_text_color_selector" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/color/primary_text_color_selector.xml" qualifiers="" type="color"/><file name="secondary_text_color_selector" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/color/secondary_text_color_selector.xml" qualifiers="" type="color"/><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values/colors.xml" qualifiers=""><color name="transparent">#00000000</color><color name="file_list_press">#028ec1</color><color name="file_list_exposed">#ff444444</color><color name="file_list_default">#ff000000</color></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values/array.xml" qualifiers=""><string-array name="listRefresh">
+        <item>refresh</item>
+        <item>overwrite</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+        </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 seconds</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>no delay</item>
+        <item>0.01 secs</item>
+        <item>0.1 secs</item>
+        <item>0.5 secs</item>
+        <item>1 sec</item>
+        <item>3 secs</item>
+        <item>5 secs</item>
+        <item>10 secs</item>
+    </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array><string-array name="listPre">
+        <item>no delay</item>
+        <item>0.01 secs</item>
+        <item>0.02 secs</item>
+        <item>0.05 secs</item>
+        <item>0.1 secs</item>
+        <item>0.5 secs</item>
+        <item>1 sec</item>
+    </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array><string-array name="listGeoFreq">
+       <item>5 secs</item>
+       <item>10 secs</item>
+       <item>30 secs</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        </string-array><string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array><string-array name="listGeoDist">
+        <item>5 meters</item>
+        <item>10 meters</item>
+        <item>50 meters</item>
+        <item>100 meters</item>
+        <item>500 meters</item>
+        <item>1 kilometer</item>
+        </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array><string-array name="listLocales">
+        <item>default</item>
+        <item>English (US)</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Italian</item>
+        <item>Norwegian</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>it</item>
+        <item>nb</item>
+        <item>es</item>
+        <item>sv</item>
+    </string-array><string-array name="listLength">
+        <item>maximum limit</item>
+        <item>3 secs</item>
+        <item>5 secs</item>
+        <item>10 secs</item>
+        <item>30 secs</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x higher</item>
+        <item>8x higher</item>
+        <item>4x higher</item>
+        <item>1x</item>
+        <item>4x lower</item>
+        <item>8x lower</item>
+        <item>16x lower</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values/styles.xml" qualifiers=""><style name="PreferenceListHeader">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">#12a0d4</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textSize">16sp</item>
+		<item name="android:background">#333333</item>
+		<item name="android:gravity">center_vertical</item>
+		<item name="android:paddingStart">8dip</item>
+	</style><style name="Theme.Settings" parent="android:Theme.Holo.NoActionBar">
+		<item name="android:listSeparatorTextViewStyle">@style/PreferenceListHeader</item>
+		<item name="android:textColorPrimary">@color/primary_text_color_selector</item>
+		<item name="android:textColorSecondary">@color/secondary_text_color_selector</item>	</style><style name="AppTheme" parent="android:Theme.Black"/><style name="CustomDialog" parent="android:Theme.Holo.Dialog">
+ 	    <item name="android:windowBackground">@android:color/transparent</item>
+    </style><style name="CustomProgressSpinner" parent="android:Theme.Holo.Dialog">
+		<item name="android:windowBackground">@color/transparent</item>
+	</style><style name="CustomProgress" parent="android:Widget.ProgressBar.Large"/><style name="CustomFileDialog" parent="android:Theme.Holo.Dialog">
+	    <item name="android:windowNoTitle">true</item>
+	    <item name="android:windowFullscreen">true</item>
+	    <item name="android:windowIsFloating">false</item>
+	    <item name="android:windowBackground">@android:color/transparent</item>
+	    <item name="android:background">#222222</item>
+	</style><style name="CustomAlertDialog" parent="android:Theme.Holo.Dialog">
+		<item name="android:windowBackground">@android:color/transparent</item>
+	</style></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Bat Recorder</string><string name="menu_settings">Settings</string><string name="locales">Language Localization</string><string name="locale_change">You will need to restart the app for this change to take effect.</string><string name="archive_title">Recordings</string><string name="load_file">Loading</string><string name="checking_license">Checking license…</string><string name="license_verify_problem">Sorry, but there was a problem verifying your license.</string><string name="permissions_verify_problem">Sorry, but the required app permissions have not been granted.</string><string name="mic_init">Looking for a supported USB microphone…</string><string name="mic_init_pettersson">Looking for a Pettersson microphone…</string><string name="mic_init_dodotronic">Looking for a Dodotronic microphone…</string><string name="no_mic">A supported USB microphone was not detected. Make sure a USB OTG compatible cable is firmly attached, or press \'Continue\' to use the non-ultrasonic device microphone.</string><string name="quit">Quit</string><string name="playback_only">Continue</string><string name="app_version">Bat Recorder version:</string><string name="version">version</string><string name="usb_detach">The connection to the USB microphone has been lost. Make sure the USB microphone cable is firmly attached, or press \'Continue\' to use the non-ultrasonic device microphone.</string><string name="open_file_fail">There was a problem opening the selected WAV file.</string><string name="fft_window">FFT Window size</string><string name="analysis_cat">Analysis</string><string name="general_cat">General</string><string name="geo_cat">Geolocation</string><string name="trigger_cat">Recording</string><string name="trigger_db">Trigger intensity threshold</string><string name="trigger_post">Post trigger</string><string name="trigger_pre">Pre trigger</string><string name="help">User Manual…</string><string name="storage">Store recordings on SD card</string><string name="geotag">Geotag WAV files</string><string name="geofreq">GPS Update frequency</string><string name="geodist">GPS Update minimum distance</string><string name="dropped">samples were dropped!</string><string name="share">Share recording using</string><string name="close_app">Quit Bat Recorder?</string><string name="delete_file">Are you sure you want to delete</string><string name="delete">Delete Recording</string><string name="rename">Rename Recording</string><string name="export">Export Clip</string><string name="saved">Clip has been saved.</string><string name="already_exists">A file with that name already exists.</string><string name="empty_name">A file name cannot be blank.</string><string name="created_xmp">The metadata file was successfully created.</string><string name="expansion">Expansion Factor</string><string name="timer_cat">Listening Timer</string><string name="timer_on">Listening Duration</string><string name="timer_off">Sleep Interval</string><string name="timer_unit">minute</string><string name="timer_units">minutes</string><string name="alarm_on">Listening Timer is running…</string><string name="alarm_quit">Stop Timer</string><string name="googleplay_missing">Google Play Services must be installed to enable the map view.</string><string name="googleplay_update">Google Play Services must be updated to enable the map view.</string><string name="notify_cat">Trigger Notification</string><string name="sms">Send SMS message when triggered</string><string name="sms_recp">SMS message recipient</string><string name="email">Send email when triggered</string><string name="email_recp">Email recipient</string><string name="triggered">Bat Recorder triggered</string><string name="loading_help">Loading online user manual…</string><string name="reply_email">Choose reply address for notification email.</string><string name="reply">Reply address:</string><string name="mini_mic">Choose the miniMIC model:</string><string name="prebuffer">saving buffer…</string><string name="capture">Listening buffer length</string><string name="species">Choose species:</string><string name="export_file">Export Recording</string><string name="export_file_fail">There was a problem exporting the selected recording.</string><string name="export_file_succeed">The recording has been successfully exported.</string><string name="not_ultrasonic">Other playback modes are only valid for ultrasonic recordings.</string><string name="unsupported">The attached USB device is unsupported.</string><string name="samplerate">Microphone sampling rate</string><string name="maxlength">Maximum recording length</string><string name="logscale">Logarithmic frequency scale</string><string name="metadata">Metadata format</string><string name="het_freq">Heterodyne frequency range</string><string name="trigger_freq">Trigger frequency range</string><string name="gridlines">Show frequency grid lines</string><string name="analyzing">Analyzing spectrogram…</string><string name="recording">recording</string><string name="recordings">recordings</string><string name="refresh">Live spectrogram display</string><string name="statusbar">Always show Android system bars</string><string name="debuglog">USB debug log</string><string name="debugsum">Must restart app to take effect</string><string name="ultramodes">Enable all playback modes for non-ultrasonic signals</string><string name="exporting">exporting</string><string name="nightMode">Night Mode</string><string name="triggerOnly">Only display triggered events</string><string name="not_show">Do not show again</string><string name="sdcard_title">Warning</string><string name="use_sdcard">Use SD Card</string><string name="sdcard_warning">Recordings stored on the SD card will be automatically deleted by the Android OS if you uninstall the BatRecorder app. Please make sure to back up any recordings you wish to retain.</string><string name="stereo_warning">is a stereo recording. Only one channel can be loaded. Please select:</string><string name="channel1">Channel 1</string><string name="channel2">Channel 2</string><string name="file_too_long">File too large. Limited to</string><string name="cont_rec">Continuous recording</string><string name="hardware_btns">Trigger using volume buttons</string><string name="shake_rec">Toggle recording by shaking</string><string name="het_adj">Heterodyne tone</string><string name="requestLicense">Request</string><string name="purchase">Recording requires a license.</string><string name="license_msg1">I would like to request a Bat Recorder license for this Android device (hardware ID: </string><string name="license_msg2">).</string></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="SwipeLayout">
+        <attr name="drag_edge">
+            <flag name="left" value="1"/>
+            <flag name="right" value="2"/>
+            <flag name="top" value="4"/>
+            <flag name="bottom" value="8"/>
+        </attr>
+        <attr format="dimension" name="leftEdgeSwipeOffset"/>
+        <attr format="dimension" name="rightEdgeSwipeOffset"/>
+        <attr format="dimension" name="topEdgeSwipeOffset"/>
+        <attr format="dimension" name="bottomEdgeSwipeOffset"/>
+        <attr format="enum" name="show_mode">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr>
+        <attr format="boolean" name="clickToClose"/>
+    </declare-styleable></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-sv/array.xml" qualifiers="sv"><string-array name="listRefresh">
+        <item>uppfriska</item>
+        <item>skriva över</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+    </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>ingen försening</item>
+        <item>0.01 sekunder</item>
+        <item>0.1 sekunder</item>
+        <item>0.5 sekunder</item>
+        <item>1 sekund</item>
+         <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+    </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+         <item>3</item>
+         <item>5</item>
+         <item>10</item>
+     </string-array><string-array name="listPre">
+        <item>ingen försening</item>
+        <item>0.01 sekunder</item>
+        <item>0.02 sekunder</item>
+        <item>0.05 sekunder</item>
+        <item>0.1 sekunder</item>
+        <item>0.5 sekunder</item>
+        <item>1 sekund</item>
+    </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array><string-array name="listGeoFreq">
+       <item>5 sekunder</item>
+       <item>10 sekunder</item>
+       <item>30 sekunder</item>
+        <item>1 minut</item>
+        <item>2 minuter</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        </string-array><string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array><string-array name="listGeoDist">
+        <item>5 meter</item>
+        <item>10 meter</item>
+        <item>50 meter</item>
+        <item>100 meter</item>
+        <item>500 meter</item>
+        <item>1 kilometer</item>
+        </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array><string-array name="listLocales">
+        <item>standardinställning</item>
+        <item>Engelska (US)</item>
+        <item>Franska</item>
+        <item>Holländska</item>
+        <item>Italienska</item>
+        <item>Norsk</item>
+        <item>Spansk</item>
+        <item>Svensk</item>
+        <item>Tysk</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>fr</item>
+        <item>nl</item>
+        <item>it</item>
+        <item>nb</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>de</item>
+    </string-array><string-array name="listLength">
+        <item>högsta tidsgräns</item>
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>15 minuter</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x högre</item>
+        <item>8x högre</item>
+        <item>4x högre</item>
+        <item>1x</item>
+        <item>4x lägre</item>
+        <item>8x lägre</item>
+        <item>16x lägre</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-sv/strings.xml" qualifiers="sv"><string name="app_name">Ultraljudsinspelare</string><string name="menu_settings">Inställningar</string><string name="locales">Språklokalisering</string><string name="locale_change">Du måste starta om appen för att ändringen ska träda i kraft.</string><string name="archive_title">Inspelningar</string><string name="load_file">Laddar</string><string name="checking_license">Verifierar licens…</string><string name="license_verify_problem">Beklagar, men det gick inte att verifiera din licens.</string><string name="permissions_verify_problem">Beklagar, men erforderliga appbehörigheter har inte beviljats.</string><string name="mic_init">Söker efter en kompatibel USB-mikrofon…</string><string name="mic_init_pettersson">Söker efter en kompatibel Pettersson mikrofon…</string><string name="mic_init_dodotronic">Söker efter en kompatibel Dodotronic mikrofon…</string><string name="no_mic">En kompatibel USB-mikrofon kunde inte hittas. Se till att en USB OTG-kompatibel kabel är ordentligt fastsatt, eller tryck på \'Fortsätt\' för att använda Androidenhetens audiomikrofon.</string><string name="quit">Avsluta</string><string name="playback_only">Fortsätt</string><string name="app_version">Ultraljudsinspelare version:</string><string name="version">version</string><string name="usb_detach">Anslutningen till USB-mikrofonen har förlorats. Kontrollera att USB-mikrofonkabeln är ordentligt fastsatt, eller tryck på \'Fortsätt\' för att använda Androidenhetens audiomikrofon.</string><string name="open_file_fail">Det gick inte att öppna den valda WAV-filen.</string><string name="fft_window">FFT fönsterstorlek</string><string name="analysis_cat">Analys</string><string name="general_cat">Allmänt</string><string name="geo_cat">Geolokalisering</string><string name="trigger_cat">Inspelning</string><string name="trigger_db">Triggnivå</string><string name="trigger_post">Inspelningstid efter triggning</string><string name="trigger_pre">Inspelningstid före triggning</string><string name="help">Användarmanual…</string><string name="storage">Lagra inspelningar på SD-kort</string><string name="geotag">Geotagga WAV-filer</string><string name="geofreq">GPS uppdateringsfrekvens</string><string name="geodist">Minsta avstånd för GPS-uppdatering</string><string name="dropped">sampel förlorades!</string><string name="share">Dela inspelning via</string><string name="close_app">Avsluta Ultraljudsinspelare?</string><string name="delete_file">Är du säker på att du vill radera</string><string name="delete">Radera inspelning</string><string name="rename">Byt namn på inspelning</string><string name="export">Exportera ljudklippet</string><string name="saved">Ljudklippet har sparats.</string><string name="already_exists">En fil med detta namn existerar redan.</string><string name="empty_name">Ett filnamn kan inte vara tomt.</string><string name="created_xmp">Metadatafilen har skapats.</string><string name="expansion">Expansionsfaktor</string><string name="timer_cat">Lyssningstimer</string><string name="timer_on">Lyssningsperiodens längd</string><string name="timer_off">Sovintervall mellan lyssningsperioder</string><string name="timer_unit">minut</string><string name="timer_units">minuter</string><string name="alarm_on">Lyssningstimer är igång…</string><string name="alarm_quit">Stoppa timern</string><string name="googleplay_missing">Google Play-tjänster måste installeras för att aktivera kartvyn.</string><string name="googleplay_update">Google Play-tjänster måste uppdateras för att aktivera kartvyn.</string><string name="notify_cat">Trigger-avisering</string><string name="sms">Skicka SMS-meddelande vid triggning</string><string name="sms_recp">Mottagare av SMS-meddelande</string><string name="email">Skicka e-post vid triggning</string><string name="email_recp">E-postmottagare</string><string name="triggered">Ultraljudsinspelare har triggats</string><string name="loading_help">Laddar online-användarmanual…</string><string name="reply_email">Välj svarsadress i e-postmeddelandet.</string><string name="reply">Svarsadress i e-postmeddelandet:</string><string name="mini_mic">Välj miniMIC modellen:</string><string name="prebuffer">Sparar buffert…</string><string name="capture">Lyssna buffertlängden</string><string name="species">Välj arten:</string><string name="export_file">Exportera inspelning</string><string name="export_file_fail">Det fanns ett problem att exportera vald inspelning.</string><string name="export_file_succeed">Inspelningen har exporterats.</string><string name="not_ultrasonic">Andra uppspelningslägen gäller endast för ultraljudsinspelningar.</string><string name="unsupported">Den anslutna USB-enheten stöds inte.</string><string name="samplerate">Mikrofon samplingsfrekvens</string><string name="maxlength">Maximal inspelningstid</string><string name="logscale">Logaritmisk frekvensskala</string><string name="metadata">Metadataformat</string><string name="het_freq">Heterodyn frekvensomfång</string><string name="trigger_freq">Triggfrekvensomfång</string><string name="gridlines">Visa frekvens rutnätslinjer</string><string name="analyzing">Analysera spektrogram…</string><string name="recording">inspelning</string><string name="recordings">inspelningar</string><string name="refresh">Levande spektrogram display</string><string name="statusbar">Visa alltid Android systemet stänger</string><string name="debuglog">USB felsökningslogg</string><string name="debugsum">Måste starta appen ska träda i kraft</string><string name="ultramodes">Aktivera alla uppspelningslägen för icke-ultraljudssignaler</string><string name="exporting">exportera</string><string name="nightMode">Nattläge</string><string name="triggerOnly">Endast display utlöste händelser</string><string name="not_show">Visa inte igen</string><string name="sdcard_title">Varning</string><string name="use_sdcard">Använd SD kort</string><string name="sdcard_warning">Inspelningar lagrade på SD kortet raderas automatiskt av Android OS om du avinstallerar BatRecorder appen. Se till att säkerhetskopiera alla inspelningar du vill behålla.</string><string name="stereo_warning">är en stereoinspelning. Endast en kanal kan laddas. Vänligen välj:</string><string name="channel1">Kanal 1</string><string name="channel2">Kanal 2</string><string name="file_too_long">För stor fil. Begränsad till</string><string name="cont_rec">Kontinuerlig inspelning</string><string name="hardware_btns">Utlösare med volymknappar</string><string name="shake_rec">Växla inspelningen genom att skaka</string><string name="het_adj">Heterodyne-ton</string><string name="requestLicense">Begäran</string><string name="purchase">Inspelning kräver licens.</string><string name="license_msg1">Jag skulle vilja köpa en Bat Recorder-licens för denna Android-enhet (hårdvara ID: </string><string name="license_msg2">).</string></file><file name="info" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/info.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/record.png" qualifiers="xhdpi-v4" type="drawable"/><file name="place" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/place.png" qualifiers="xhdpi-v4" type="drawable"/><file name="seek_thumb_disabled" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/seek_thumb_disabled.png" qualifiers="xhdpi-v4" type="drawable"/><file name="archive" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/archive.png" qualifiers="xhdpi-v4" type="drawable"/><file name="settings" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/settings.png" qualifiers="xhdpi-v4" type="drawable"/><file name="rename" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/rename.png" qualifiers="xhdpi-v4" type="drawable"/><file name="headset_cutoff" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/headset_cutoff.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bat_marker" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/bat_marker.png" qualifiers="xhdpi-v4" type="drawable"/><file name="low_gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/low_gain.png" qualifiers="xhdpi-v4" type="drawable"/><file name="file" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/file.png" qualifiers="xhdpi-v4" type="drawable"/><file name="power" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/power.png" qualifiers="xhdpi-v4" type="drawable"/><file name="map" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/map.png" qualifiers="xhdpi-v4" type="drawable"/><file name="headset_tune" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/headset_tune.png" qualifiers="xhdpi-v4" type="drawable"/><file name="down" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="export" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/export.png" qualifiers="xhdpi-v4" type="drawable"/><file name="seek_thumb_pressed" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/seek_thumb_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="file_list" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/file_list.png" qualifiers="xhdpi-v4" type="drawable"/><file name="gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/gain.png" qualifiers="xhdpi-v4" type="drawable"/><file name="record_stop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/record_stop.png" qualifiers="xhdpi-v4" type="drawable"/><file name="image_clear" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/image_clear.png" qualifiers="xhdpi-v4" type="drawable"/><file name="cutoff" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/cutoff.png" qualifiers="xhdpi-v4" type="drawable"/><file name="folder" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/folder.png" qualifiers="xhdpi-v4" type="drawable"/><file name="frequency" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/frequency.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pause" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/pause.png" qualifiers="xhdpi-v4" type="drawable"/><file name="calendar" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/calendar.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="share" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/share.png" qualifiers="xhdpi-v4" type="drawable"/><file name="headset_div" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/headset_div.png" qualifiers="xhdpi-v4" type="drawable"/><file name="seek_thumb_normal" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/seek_thumb_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="device" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/device.png" qualifiers="xhdpi-v4" type="drawable"/><file name="delete" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/delete.png" qualifiers="xhdpi-v4" type="drawable"/><file name="image_search" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/image_search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bat_marker_selected" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/bat_marker_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bat" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/bat.png" qualifiers="xhdpi-v4" type="drawable"/><file name="measure" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/measure.png" qualifiers="xhdpi-v4" type="drawable"/><file name="gpx" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/gpx.png" qualifiers="xhdpi-v4" type="drawable"/><file name="length" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/length.png" qualifiers="xhdpi-v4" type="drawable"/><file name="next" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/next.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mic_off" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/mic_off.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sdcard" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/sdcard.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/loop.png" qualifiers="xhdpi-v4" type="drawable"/><file name="high_gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/high_gain.png" qualifiers="xhdpi-v4" type="drawable"/><file name="play" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/play.png" qualifiers="xhdpi-v4" type="drawable"/><file name="csv" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/csv.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loop_off" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/loop_off.png" qualifiers="xhdpi-v4" type="drawable"/><file name="prev" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/prev.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mic" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xhdpi/mic.png" qualifiers="xhdpi-v4" type="drawable"/><file name="world" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/world.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="info" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/info.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="record" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/record.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="stop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/stop.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="place" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/place.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="time" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/time.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="title" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/title.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="archive" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/archive.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="settings" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/settings.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="rename" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/rename.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="headset_cutoff" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/headset_cutoff.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="bat_marker" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/bat_marker.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="up" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/up.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="low_gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/low_gain.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="file" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/file.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="power" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/power.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="map" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/map.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="headset_tune" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/headset_tune.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="down" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/down.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="export" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/export.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="file_list" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/file_list.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/gain.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="record_stop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/record_stop.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="trigger" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/trigger.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="image_clear" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/image_clear.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="cutoff" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/cutoff.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="tuning" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/tuning.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="folder" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/folder.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="frequency" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/frequency.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="pause" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/pause.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="calendar" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/calendar.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="share" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/share.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="headset_div" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/headset_div.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="device" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/device.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="delete" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/delete.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="image_search" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/image_search.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="bat_marker_selected" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/bat_marker_selected.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="bat" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/bat.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="measure" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/measure.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="gpx" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/gpx.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="length" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/length.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="next" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/next.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mic_off" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/mic_off.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sdcard" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/sdcard.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/loop.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="high_gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/high_gain.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="speaker" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/speaker.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="play" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/play.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="csv" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/csv.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loop_off" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/loop_off.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="prev" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/prev.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="mic" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxhdpi/mic.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="provider_paths" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/xml/provider_paths.xml" qualifiers="" type="xml"/><file name="prefs" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/xml/prefs.xml" qualifiers="" type="xml"/><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar"/></file><file name="world" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/world.png" qualifiers="hdpi-v4" type="drawable"/><file name="info" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/info.png" qualifiers="hdpi-v4" type="drawable"/><file name="record" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/record.png" qualifiers="hdpi-v4" type="drawable"/><file name="stop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/stop.png" qualifiers="hdpi-v4" type="drawable"/><file name="place" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/place.png" qualifiers="hdpi-v4" type="drawable"/><file name="time" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/time.png" qualifiers="hdpi-v4" type="drawable"/><file name="title" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/title.png" qualifiers="hdpi-v4" type="drawable"/><file name="archive" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/archive.png" qualifiers="hdpi-v4" type="drawable"/><file name="settings" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/settings.png" qualifiers="hdpi-v4" type="drawable"/><file name="rename" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/rename.png" qualifiers="hdpi-v4" type="drawable"/><file name="headset_cutoff" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/headset_cutoff.png" qualifiers="hdpi-v4" type="drawable"/><file name="bat_marker" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/bat_marker.png" qualifiers="hdpi-v4" type="drawable"/><file name="up" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/up.png" qualifiers="hdpi-v4" type="drawable"/><file name="low_gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/low_gain.png" qualifiers="hdpi-v4" type="drawable"/><file name="file" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/file.png" qualifiers="hdpi-v4" type="drawable"/><file name="power" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/power.png" qualifiers="hdpi-v4" type="drawable"/><file name="map" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/map.png" qualifiers="hdpi-v4" type="drawable"/><file name="headset_tune" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/headset_tune.png" qualifiers="hdpi-v4" type="drawable"/><file name="down" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/down.png" qualifiers="hdpi-v4" type="drawable"/><file name="export" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/export.png" qualifiers="hdpi-v4" type="drawable"/><file name="file_list" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/file_list.png" qualifiers="hdpi-v4" type="drawable"/><file name="gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/gain.png" qualifiers="hdpi-v4" type="drawable"/><file name="record_stop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/record_stop.png" qualifiers="hdpi-v4" type="drawable"/><file name="trigger" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/trigger.png" qualifiers="hdpi-v4" type="drawable"/><file name="image_clear" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/image_clear.png" qualifiers="hdpi-v4" type="drawable"/><file name="cutoff" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/cutoff.png" qualifiers="hdpi-v4" type="drawable"/><file name="tuning" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/tuning.png" qualifiers="hdpi-v4" type="drawable"/><file name="folder" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/folder.png" qualifiers="hdpi-v4" type="drawable"/><file name="frequency" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/frequency.png" qualifiers="hdpi-v4" type="drawable"/><file name="pause" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/pause.png" qualifiers="hdpi-v4" type="drawable"/><file name="calendar" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/calendar.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="share" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/share.png" qualifiers="hdpi-v4" type="drawable"/><file name="headset_div" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/headset_div.png" qualifiers="hdpi-v4" type="drawable"/><file name="device" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/device.png" qualifiers="hdpi-v4" type="drawable"/><file name="delete" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/delete.png" qualifiers="hdpi-v4" type="drawable"/><file name="image_search" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/image_search.png" qualifiers="hdpi-v4" type="drawable"/><file name="bat_marker_selected" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/bat_marker_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="bat" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/bat.png" qualifiers="hdpi-v4" type="drawable"/><file name="measure" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/measure.png" qualifiers="hdpi-v4" type="drawable"/><file name="gpx" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/gpx.png" qualifiers="hdpi-v4" type="drawable"/><file name="length" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/length.png" qualifiers="hdpi-v4" type="drawable"/><file name="next" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/next.png" qualifiers="hdpi-v4" type="drawable"/><file name="mic_off" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/mic_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="sdcard" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/sdcard.png" qualifiers="hdpi-v4" type="drawable"/><file name="loop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/loop.png" qualifiers="hdpi-v4" type="drawable"/><file name="high_gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/high_gain.png" qualifiers="hdpi-v4" type="drawable"/><file name="speaker" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/speaker.png" qualifiers="hdpi-v4" type="drawable"/><file name="play" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/play.png" qualifiers="hdpi-v4" type="drawable"/><file name="csv" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/csv.png" qualifiers="hdpi-v4" type="drawable"/><file name="loop_off" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/loop_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="prev" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/prev.png" qualifiers="hdpi-v4" type="drawable"/><file name="mic" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-hdpi/mic.png" qualifiers="hdpi-v4" type="drawable"/><file name="activity_main" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/menu/activity_main.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-nb/splash.png" qualifiers="nb" type="drawable"/><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-nl/splash.png" qualifiers="nl" type="drawable"/><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-fr/array.xml" qualifiers="fr"><string-array name="listRefresh">
+        <item>nettoyer</item>
+        <item>écraser</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+    </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 secondes</item>
+        <item>5 secondes</item>
+        <item>10 secondes</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>sans délais</item>
+        <item>0.01 secondes</item>
+        <item>0.1 secondes</item>
+        <item>0.5 secondes</item>
+        <item>1 secondes</item>
+        <item>3 secondes</item>
+        <item>5 secondes</item>
+        <item>10 secondes</item>
+        </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+      </string-array><string-array name="listPre">
+        <item>sans délais</item>
+        <item>0.01 secondes</item>
+        <item>0.02 secondes</item>
+        <item>0.05 secondes</item>
+        <item>0.1 secondes</item>
+        <item>0.5 secondes</item>
+        <item>1 seconde</item>
+    </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array><string-array name="listGeoFreq">
+       <item>5 secondes</item>
+       <item>10 secondes</item>
+       <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        </string-array><string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array><string-array name="listGeoDist">
+        <item>5 mètres</item>
+        <item>10 mètres</item>
+        <item>50 mètres</item>
+        <item>100 mètres</item>
+        <item>500 mètres</item>
+        <item>1 kilomètres</item>
+        </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array><string-array name="listLocales">
+        <item>défaut</item>
+        <item>Allemand</item>
+        <item>Anglais (US)</item>
+        <item>Espanol</item>
+        <item>Français</item>
+        <item>Italien</item>
+        <item>Néerlandais</item>
+        <item>Norvégien</item>
+        <item>Suédois</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>sv</item>
+    </string-array><string-array name="listLength">
+        <item>limite de temps maximum</item>
+        <item>3 secondes</item>
+        <item>5 secondes</item>
+        <item>10 secondes</item>
+        <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x plus haute</item>
+        <item>8x plus haute</item>
+        <item>4x plus haute</item>
+        <item>1x</item>
+        <item>4x inférieur</item>
+        <item>8x inférieur</item>
+        <item>16x inférieur</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-fr/strings.xml" qualifiers="fr"><string name="app_name">Enregistreur Chauve-souris</string><string name="menu_settings">Paramètres</string><string name="locales">Langue</string><string name="locale_change">Vous aurez besoin de redémarrer l’application pour que cette modification prenne effet.</string><string name="archive_title">Enregistrements sonores</string><string name="load_file">Chargement</string><string name="checking_license">Vérifier votre licence…</string><string name="license_verify_problem">Désolé, mais il y a eu un problème lors de la vérification de votre licence.</string><string name="permissions_verify_problem">Désolé, mais les autorisations d’ application nécessaires ont pas été accordées.</string><string name="mic_init">A la recherche d’microphone à USB compatible…</string><string name="mic_init_pettersson">A la recherche d’microphone à Pettersson…</string><string name="mic_init_dodotronic">A la recherche d’microphone à Dodotronic…</string><string name="no_mic">Un microphone à USB compatible n’a pas été détecté. Assurez-vous qu’un câble compatible USB OTG est bien attaché, ou appuyez sur \'Continuer\' pour utiliser le microphone non ultrasonore de votre appareil.</string><string name="quit">Quitter</string><string name="playback_only">Continuer</string><string name="app_version">Version Enregistreur Chauve-souris:</string><string name="version">version</string><string name="usb_detach">La connexion au microphone à USB a été perdue. Assurez-vous que le câble USB est correctement branché au microphone, ou appuyez sur \'Continuer\' pour utiliser le microphone non ultrasonore de votre appareil.</string><string name="open_file_fail">Il y a eu un problème à l’ouverture du fichier WAV sélectionné.</string><string name="fft_window">Taille de la fenêtre FFT</string><string name="analysis_cat">Analyse</string><string name="general_cat">Général</string><string name="geo_cat">Géolocalisation</string><string name="trigger_cat">Enregistrement</string><string name="trigger_db">Intensité de déclenchement</string><string name="trigger_post">Durée minimale avant un nouveau déclenchement</string><string name="trigger_pre">Durée d’enregistrement après déclenchement</string><string name="help">Manuel utilisateur…</string><string name="storage">Sauvegarder des enregistrements sur la carte SD</string><string name="geotag">Géolocaliser les fichiers WAV</string><string name="geofreq">Fréquence de mise à jour GPS</string><string name="geodist">Distance minimale de mise à jour GPS</string><string name="dropped">échantillons ont été perdus!</string><string name="share">Partager enregistrement sonore</string><string name="close_app">Quitter Enregistreur Chauve-souris?</string><string name="delete_file">Etes-vous sûr de vouloir supprimer</string><string name="delete">Supprimer l’enregistrement sonore</string><string name="rename">Renommer l’enregistrement sonore</string><string name="export">Exporter a séquence audio</string><string name="saved">La séquence audio a été enregistrée.</string><string name="already_exists">Un fichier portant ce nom existe déjà.</string><string name="empty_name">Un nom de fichier ne peut pas être vide.</string><string name="created_xmp">Le fichier de métadonnées a été créé avec succès.</string><string name="expansion">Facteur d’expansion de temps</string><string name="timer_cat">Minuterie d’écoute</string><string name="timer_on">Durée d’écoute</string><string name="timer_off">Intervalle de pause</string><string name="timer_unit">minute</string><string name="timer_units">minutes</string><string name="alarm_on">La minuterie d’écoute est en cours d\'exécution…</string><string name="alarm_quit">Arrêtez du minuteur</string><string name="googleplay_missing">Les services Google Play doivent être installés pour permettre l’affichage de la carte.</string><string name="googleplay_update">Les services Google Play doivent être mis à jour pour permettre l’affichage de la carte.</string><string name="notify_cat">Notification du déclenchement de l’enregistrement</string><string name="sms">Envoyer un message SMS en cas de déclenchement</string><string name="sms_recp">Numéro pour l’envoi du SMS</string><string name="email">Envoyer un mail en cas de déclenchement</string><string name="email_recp">Email du destinataire</string><string name="triggered">Enregistreur Chauve-souris en cours d’enregistrement automatique</string><string name="loading_help">Chargement du manuel utilisateur en ligne…</string><string name="reply_email">Choisissez l’adresse de réponse dans le mail de notification.</string><string name="reply">Adresse mail de réponse:</string><string name="mini_mic">Choisissez le modèle miniMIC:</string><string name="prebuffer">sauvegarde de la mémoire tampon…</string><string name="capture">Durée de la mémoire tampon</string><string name="species">Choisissez une espèce :</string><string name="export_file">L’enregistrement à l’exportation</string><string name="export_file_fail">Il y avait un problème d’exportation l’enregistrement sélectionné.</string><string name="export_file_succeed">L’enregistrement a été exporté avec succès.</string><string name="not_ultrasonic">D’autres modes de lecture ne sont valables que pour les enregistrements échographiques.</string><string name="unsupported">Le périphérique USB connecté est pris en charge.</string><string name="samplerate">Taux d’échantillonnage du microphone</string><string name="maxlength">Longueur maximale d’enregistrement</string><string name="logscale">Échelle de fréquence logarithmique</string><string name="metadata">Format de métadonnées</string><string name="het_freq">Gamme de fréquences en mode hétérodyne</string><string name="trigger_freq">Gamme de fréquences de déclenchement</string><string name="gridlines">Afficher fréquence quadrillage</string><string name="analyzing">Analyse spectrogramme…</string><string name="recording">enregistrement</string><string name="recordings">enregistrements</string><string name="refresh">Affichage de spectrogramme en direct</string><string name="statusbar">Toujours afficher les barres du système Android</string><string name="debuglog">USB journal de débogage</string><string name="debugsum">Doit redémarrer l’application pour prendre effet</string><string name="ultramodes">Permettre à tous les modes de lecture pour les signaux non-ultrasoniques</string><string name="exporting">exporter</string><string name="nightMode">Mode nuit</string><string name="triggerOnly">Seulement affichage événements déclenchés</string><string name="not_show">Ne pas montrer de nouveau</string><string name="sdcard_title">Attention</string><string name="use_sdcard">Utilisez la carte SD</string><string name="sdcard_warning">Les enregistrements stockés sur la carte SD seront automatiquement supprimés par le système d’exploitation Android si vous désinstallez l’application BatRecorder. faire S’il vous plaît assurez-vous de sauvegarder tous les enregistrements que vous souhaitez conserver.</string><string name="stereo_warning">est un enregistrement stéréo. Un seul canal peut être chargé. Veuillez sélectionner:</string><string name="channel1">Le canal 1</string><string name="channel2">Le canal 2</string><string name="file_too_long">Fichier trop large. Limité à</string><string name="cont_rec">Enregistrement continu</string><string name="hardware_btns">Déclencher en utilisant les boutons de volume</string><string name="shake_rec">Basculer l’enregistrement en secouant</string><string name="het_adj">Ton hétérodyne</string><string name="requestLicense">Demande</string><string name="purchase">L’enregistrement nécessite une licence.</string><string name="license_msg1">Je souhaite demander une licence Bat Recorder pour cet appareil Android (matériel ID: </string><string name="license_msg2">). Merci de m’envoyer une facture.</string></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-es/array.xml" qualifiers="es"><string-array name="listRefresh">
+        <item>borrar</item>
+        <item>escribir en la parte superior de</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+    </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>sin demora</item>
+        <item>0.01 segundos</item>
+        <item>0.1 segundos</item>
+        <item>0.5 segundos</item>
+        <item>1 segundo</item>
+        <item>3 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+    </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array><string-array name="listPre">
+        <item>sin demora</item>
+        <item>0.01 segundos</item>
+        <item>0.02 segundos</item>
+        <item>0.05 segundos</item>
+        <item>0.1 segundos</item>
+        <item>0.5 segundos</item>
+        <item>1 segundo</item>
+    </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array><string-array name="listGeoFreq">
+       <item>5 segundos</item>
+       <item>10 segundos</item>
+       <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        </string-array><string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array><string-array name="listGeoDist">
+        <item>5 metros</item>
+        <item>10 metros</item>
+        <item>50 metros</item>
+        <item>100 metros</item>
+        <item>500 metros</item>
+        <item>1 kilómetro</item>
+        </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array><string-array name="listLocales">
+        <item>defecto</item>
+        <item>Alemán</item>
+        <item>Español</item>
+        <item>Francés</item>
+        <item>Holandés</item>
+        <item>Inglés (US)</item>
+        <item>Italiano</item>
+        <item>Noruego</item>
+        <item>Sueco</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>it</item>
+        <item>nb</item>
+        <item>sv</item>
+    </string-array><string-array name="listLength">
+        <item>límite de tiempo máximo</item>
+        <item>3 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x mayor</item>
+        <item>8x mayor</item>
+        <item>4x mayor</item>
+        <item>1x</item>
+        <item>4x inferior</item>
+        <item>8x inferior</item>
+        <item>16x inferior</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-es/strings.xml" qualifiers="es"><string name="app_name">Grabadora de Murciélago</string><string name="menu_settings">Ajustes</string><string name="locales">Localización de idioma</string><string name="locale_change">Tendrá que reiniciar la aplicación para que este cambio surta efecto.</string><string name="archive_title">Grabaciones</string><string name="load_file">Cargando</string><string name="checking_license">Comprobando su licencia…</string><string name="license_verify_problem">Lo sentimos, pero hubo un problema al verificar su licencia.</string><string name="permissions_verify_problem">Lo sentimos, pero no se han concedido los permisos de aplicaciones requeridas.</string><string name="mic_init">Buscando un micrófono USB…</string><string name="mic_init_pettersson">Buscando un micrófono Pettersson…</string><string name="mic_init_dodotronic">Buscando un micrófono Dodotronic…</string><string name="no_mic">No se detectó un micrófono USB. Asegúrese de que un cable compatible con USB OTG esté bien conectado, o pulse \'Continuar\' para usar el micrófono del dispositivo Android.</string><string name="quit">Abandonar</string><string name="playback_only">Continuar</string><string name="app_version">Versión de la Grabadora de Murciélago:</string><string name="version">versión</string><string name="usb_detach">La conexión con el micrófono USB se ha perdido. Asegúrese de que el cable USB está firmemente conectado, o pulse \'Continuar\' para usar el micrófono del dispositivo Android.</string><string name="open_file_fail">Hubo un problema al abrir el archivo WAV seleccionado.</string><string name="fft_window">Tamaño de la ventana de FFT</string><string name="analysis_cat">Análisis</string><string name="general_cat">General</string><string name="geo_cat">Geolocalización</string><string name="trigger_cat">Grabación</string><string name="trigger_db">Umbral de intensidad del disparador</string><string name="trigger_post">Retardo de desconexión del disparador</string><string name="trigger_pre">Tiempo de grabación previa al disparador</string><string name="help">Manual de Usuario…</string><string name="storage">Guardar las grabaciones en la tarjeta SD</string><string name="geotag">Etiqueta geográfica de archivos WAV</string><string name="geofreq">Mínima distancia de actualización del GPS</string><string name="geodist">La actualización del GPS</string><string name="dropped">muestras se perdieron.</string><string name="share">Compartir la grabación con</string><string name="close_app">¿Salir del Grabadora de Murciélago?</string><string name="delete_file">¿Está seguro de que quiere liminar</string><string name="delete">Eliminar la grabación</string><string name="rename">Renombrar la grabación</string><string name="export">Exportar el fragmento</string><string name="saved">El fragmento se ha guardado.</string><string name="already_exists">Un archivo con ese nombre ya existe.</string><string name="empty_name">Un nombre de archivo no puede estar en blanco.</string><string name="created_xmp">El archivo de metadatos se ha creado correctamente.</string><string name="expansion">Factor de expansión</string><string name="timer_cat">Temporizador de la escucha</string><string name="timer_on">Duración de la escucha</string><string name="timer_off">Intervalo de reposo</string><string name="timer_unit">minuto</string><string name="timer_units">minutos</string><string name="alarm_on">El temporizador  de escucha está en marcha…</string><string name="alarm_quit">Detener el temporizador</string><string name="googleplay_missing">Los Servicios de Google Play deben stár instalados para permitir la vista del mapa.</string><string name="googleplay_update">Los Servicios de Google Play deben actualizarse para permitir la vista del mapa.</string><string name="notify_cat">Notificación de disparador</string><string name="sms">Enviar mensaje SMS cuando activado</string><string name="sms_recp">SMS mensaje de destinatario</string><string name="email">Enviar correo electrónico cuando sea activado</string><string name="email_recp">Destinatario de correo electrónico</string><string name="triggered">Grabadora de Murciélago iniciada</string><string name="loading_help">Cargando manual de usuario en línea…</string><string name="reply_email">Elija dirección de respuesta en el correo electrónico de notificación.</string><string name="reply">Dirección de correo electrónico de respuesta:</string><string name="mini_mic">Elija el modelo miniMIC:</string><string name="prebuffer">tampón de ahorro…</string><string name="capture">Escuchar longitud del búfer</string><string name="species">Elija la especie:</string><string name="export_file">Exportar archivo</string><string name="export_file_fail">Hubo un problema al exportar la grabación seleccionada.</string><string name="export_file_succeed">El archivo ha sido exportado con éxito.</string><string name="not_ultrasonic">Otros modos de reproducción sólo son válidas para las grabaciones de ultrasonido.</string><string name="unsupported">El dispositivo USB conectado no es compatible.</string><string name="samplerate">Velocidad de muestreo del micrófono</string><string name="maxlength">Longitud máxima de grabación</string><string name="logscale">Escala de frecuencia logarítmica</string><string name="metadata">Formato de metadatos</string><string name="het_freq">Rango de frecuencia heterodina</string><string name="trigger_freq">Rango de frecuencia del disparador</string><string name="gridlines">Líneas de cuadrícula espectáculo de frecuencia</string><string name="analyzing">Espectrograma analizar…</string><string name="recording">grabación</string><string name="recordings">grabaciones</string><string name="refresh">Espectrograma pantalla en vivo</string><string name="statusbar">Siempre mostrar las barras del sistema Android</string><string name="debuglog">registro de depuración USB</string><string name="debugsum">Debe reiniciar la aplicación para tener efecto</string><string name="ultramodes">Permitir a todos los modos de reproducción de señales no ultrasónicos</string><string name="exporting">la exportación</string><string name="nightMode">Modo nocturno</string><string name="triggerOnly">Sólo pantalla desencadena eventos</string><string name="not_show">No mostrar de nuevo</string><string name="sdcard_title">Advertencia</string><string name="use_sdcard">Utilice la tarjeta SD</string><string name="sdcard_warning">Grabaciones almacenadas en la tarjeta SD serán borrados automáticamente por el sistema operativo Android si se desinstala la aplicación BatRecorder. Por favor asegúrese de copia de seguridad de las grabaciones que desee conservar.</string><string name="stereo_warning">es una grabación estéreo. Sólo se puede cargar un canal. Por favor seleccione:</string><string name="channel1">El canal 1</string><string name="channel2">El canal 2</string><string name="file_too_long">Archivo demasiado grande. Limitado a</string><string name="cont_rec">Grabación continua</string><string name="hardware_btns">Activar mediante botones de volumen</string><string name="shake_rec">Alternar la grabación por agitación</string><string name="het_adj">Tono heterodino</string><string name="requestLicense">Pedido</string><string name="purchase">La grabación requiere una licencia.</string><string name="license_msg1">Me gustaría comprar una licencia de Bat Recorder para este dispositivo Android (hardware ID: </string><string name="license_msg2">).</string></file><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-de/splash.png" qualifiers="de" type="drawable"/><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-nl/array.xml" qualifiers="nl"><string-array name="listRefresh">
+        <item>vernieuwen</item>
+        <item>overschrijven</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+        </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 seconden</item>
+        <item>5 seconden</item>
+        <item>10 seconden</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>geen vertraging</item>
+        <item>0.01 seconden</item>
+        <item>0.1 seconden</item>
+        <item>0.5 seconden</item>
+        <item>1 seconde</item>
+         <item>3 seconden</item>
+        <item>5 seconden</item>
+        <item>10 seconden</item>
+    </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array><string-array name="listPre">
+        <item>geen vertraging</item>
+        <item>0.01 seconden</item>
+        <item>0.02 seconden</item>
+        <item>0.05 seconden</item>
+        <item>0.1 seconden</item>
+        <item>0.5 seconden</item>
+        <item>1 seconde</item>
+    </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array><string-array name="listGeoFreq">
+       <item>5 seconden</item>
+       <item>10 seconden</item>
+       <item>30 seconden</item>
+        <item>1 minuut</item>
+        <item>2 minuten</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        </string-array><string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array><string-array name="listGeoDist">
+        <item>5 meter</item>
+        <item>10 meter</item>
+        <item>50 meter</item>
+        <item>100 meter</item>
+        <item>500 meter</item>
+        <item>1 kilometer</item>
+        </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array><string-array name="listLocales">
+        <item>standaard</item>
+        <item>Engels (US)</item>
+        <item>Frans</item>
+        <item>Duits</item>
+        <item>Italiaans</item>
+        <item>Nederlands</item>
+        <item>Noors</item>
+        <item>Spaans</item>
+        <item>Zweeds</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>es</item>
+        <item>sv</item>
+    </string-array><string-array name="listLength">
+        <item>maximale tijdslimiet</item>
+        <item>3 seconden</item>
+        <item>5 seconden</item>
+        <item>10 seconden</item>
+        <item>30 seconden</item>
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x hoger</item>
+        <item>8x hoger</item>
+        <item>4x hoger</item>
+        <item>1x</item>
+        <item>4x lager</item>
+        <item>8x lager</item>
+        <item>16x lager</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-nl/strings.xml" qualifiers="nl"><string name="app_name">Vleermuis Recorder</string><string name="menu_settings">Instellingen</string><string name="locales">Taallokalisatie</string><string name="locale_change">U moet de applicatie herstarten om de wijzigingen door te voeren.</string><string name="archive_title">Opnamen</string><string name="load_file">Laden</string><string name="checking_license">Licentie controleren…</string><string name="license_verify_problem">Excuses maar er was een probleem met de verificatie van uw licentie.</string><string name="permissions_verify_problem">Excuses maar de benodigde app permissies zijn niet toegestaan.</string><string name="mic_init">Zoekt naar een ondersteunde USB-microfoon…</string><string name="mic_init_pettersson">Zoekt naar een ondersteunde Pettersson microfoon…</string><string name="mic_init_dodotronic">Zoekt naar een ondersteunde Dodotronic microfoon…</string><string name="no_mic">Er is geen ondersteunde USB-microfoon gevonden. Verzeker u ervan dat de USB-microfoon correct is aangesloten of klik \'Verdergaan\' om de standaard microfoon te gebruiken.</string><string name="quit">Sluiten</string><string name="playback_only">Verdergaan</string><string name="app_version">Vleermuis Recorder versie:</string><string name="version">versie</string><string name="usb_detach">De verbinding met de USB-microfoon is verbroken. Verzeker u ervan dat de microfoon correct is aangesloten of kli \'Verdergaan\' om de standaard microfoon te gebruiken.</string><string name="open_file_fail">Er was een probleem bij het openen van het gekozen WAV.bestand.</string><string name="fft_window">FFT venstergrootte</string><string name="analysis_cat">Analyse</string><string name="general_cat">Algemeen</string><string name="geo_cat">Geolocatie</string><string name="trigger_cat">Opname</string><string name="trigger_db">Triggerdrempel geluidssterkte</string><string name="trigger_post">Post-trigger</string><string name="trigger_pre">Pre-trigger</string><string name="help">Handleiding…</string><string name="storage">Opname opslaan op SD-kaart</string><string name="geotag">Geolocatie van WAV.files toevoegen</string><string name="geofreq">GPS Updatefrequentie</string><string name="geodist">GPS Minimum update-afstand</string><string name="dropped">samples zijn verwijderd!</string><string name="share">Delen met</string><string name="close_app">Vleermuis Recorder afsluiten?</string><string name="delete_file">Bent u zeker dat u wilt verwijderen</string><string name="delete">Opname verwijderen</string><string name="rename">Opname hernoemen</string><string name="export">Geluidsbestand exporteren.</string><string name="saved">Geluidsbestand is bewaard.</string><string name="already_exists">Er bestaat reeds een bestand met deze naam.</string><string name="empty_name">Een bestandsnaam mag niet leeg zijn.</string><string name="created_xmp">Het metagegevensbestand werd met succes aangemaakt.</string><string name="expansion">Expansiefactor</string><string name="timer_cat">Luistertimer</string><string name="timer_on">Duurtijd luisterperiode</string><string name="timer_off">Instelling slaapinterval</string><string name="timer_unit">minuut</string><string name="timer_units">minuten</string><string name="alarm_on">Luistertimer loopt…</string><string name="alarm_quit">Stop de Timer</string><string name="googleplay_missing">Google Play-service moet geïnstalleerd zijn om kaartweergave te activere.</string><string name="googleplay_update">Google Play service moet geüpdate worden om kaartweergave te activeren.</string><string name="notify_cat">Triggermelding</string><string name="sms">Verstuur een SMS-bericht bij triggergebeurtenis</string><string name="sms_recp">SMS-bericht ontvanger</string><string name="email">Verstuur een e-mail bij triggergebeurtenis</string><string name="email_recp">E-mail ontvanger</string><string name="triggered">Vleermuis Recorder getriggerd.</string><string name="loading_help">Handleiding wordt online opgezocht…</string><string name="reply_email">Kies het antwoordadres voor de notificatiemail.</string><string name="reply">Antwoordadres:</string><string name="mini_mic">Kies het MiniMic type:</string><string name="prebuffer">Buffer aan bestand toevoegen…</string><string name="capture">Duurtijd van het luisterbuffergeheugen</string><string name="species">Kies soort:</string><string name="export_file">Exporteer opname</string><string name="export_file_fail">Er was een probleem bij het exporteren van de geselecteerde opname.</string><string name="export_file_succeed">De opname is succesvol geëxporteerd.</string><string name="not_ultrasonic">Andere afspeelmogelijkheden zijn enkel beschikbaar voor ultrasone opnamen.</string><string name="unsupported">Het aangesloten USB-apparaat wordt niet herkend.</string><string name="samplerate">Bemonsteringfrequentie microfoon</string><string name="maxlength">Maximale opnameduur</string><string name="logscale">Logaritmische frequentieschaal</string><string name="metadata">Metadataformaat</string><string name="het_freq">Heterodyne frequentiebereik</string><string name="trigger_freq">Trigger frequentiebereik</string><string name="gridlines">Toon rasterlijnen frequentie</string><string name="analyzing">Analyseren spectrogram…</string><string name="recording">opname</string><string name="recordings">opnames</string><string name="refresh">Live weergave spectrogram</string><string name="statusbar">Altijd Android systeembalk tonen</string><string name="debuglog">USB debug log</string><string name="debugsum">Moet de app herstarten om bij te werken</string><string name="ultramodes">Schakel alle weergavefuncties in voor niet-ultrasone signalen</string><string name="exporting">exporteren</string><string name="nightMode">Nachtstand</string><string name="triggerOnly">Geef enkel triggergebeurtenissen weer</string><string name="not_show">Niet meer laten zien</string><string name="sdcard_title">Waarschuwing</string><string name="use_sdcard">Gebruik SD-kaart</string><string name="sdcard_warning">Opnamen opgeslagen op de SD-kaart worden automatisch verwijderd door de Android OS als je de BatRecorder-app verwijdert. Zorg ervoor dat u een back-up maakt van alle opnamen die u wilt bewaren.</string><string name="stereo_warning">Is een stereo-opname. Slechts één kanaal kan worden geladen. Maak uw keuze:</string><string name="channel1">Kanaal 1</string><string name="channel2">Kanaal 2</string><string name="file_too_long">Bestand te groot. Beperkt tot</string><string name="cont_rec">Continue opname</string><string name="hardware_btns">Trigger met behulp van de volumeknoppen</string><string name="shake_rec">Schakelen tussen opnamen door te schudden</string><string name="het_adj">Heterodyne toon</string><string name="requestLicense">Verzoek</string><string name="purchase">Voor opnemen is een licentie vereist.</string><string name="license_msg1">Ik wil graag een Bat Recorder-licentie aanschaffen voor dit Android-apparaat (hardware ID: </string><string name="license_msg2">). Stuur mij alstublieft een factuur.</string></file><file name="world" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/world.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="info" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/info.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="record" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/record.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="stop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/stop.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="place" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/place.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="time" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/time.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="title" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/title.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="archive" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/archive.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="settings" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/settings.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="rename" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/rename.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="headset_cutoff" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/headset_cutoff.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="bat_marker" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/bat_marker.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="up" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/up.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="low_gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/low_gain.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="file" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/file.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="power" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/power.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="map" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/map.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="headset_tune" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/headset_tune.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="down" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/down.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="export" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/export.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="file_list" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/file_list.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/gain.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="record_stop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/record_stop.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="trigger" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/trigger.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="image_clear" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/image_clear.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="cutoff" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/cutoff.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="tuning" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/tuning.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="folder" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/folder.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="frequency" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/frequency.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="pause" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/pause.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="calendar" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/calendar.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="share" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/share.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="headset_div" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/headset_div.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="device" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/device.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="delete" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/delete.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="image_search" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/image_search.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="bat_marker_selected" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/bat_marker_selected.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="bat" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/bat.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="measure" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/measure.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="gpx" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/gpx.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="length" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/length.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="next" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/next.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="mic_off" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/mic_off.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="sdcard" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/sdcard.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="loop" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/loop.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="high_gain" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/high_gain.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="speaker" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/speaker.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="play" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/play.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="csv" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/csv.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="loop_off" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/loop_off.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="prev" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/prev.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="mic" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-xxxhdpi/mic.png" qualifiers="xxxhdpi-v4" type="drawable"/><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-nb/array.xml" qualifiers="nb"><string-array name="listRefresh">
+        <item>forfriske</item>
+        <item>skrive</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+        </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>ingen forsinkelse</item>
+        <item>0.01 sekunder</item>
+        <item>0.1 sekunder</item>
+        <item>0.5 sekunder</item>
+        <item>1 sekund</item>
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+        </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+         <item>3</item>
+         <item>5</item>
+         <item>10</item>
+      </string-array><string-array name="listPre">
+        <item>ingen forsinkelse</item>
+        <item>0.01 sekunder</item>
+        <item>0.02 sekunder</item>
+        <item>0.05 sekunder</item>
+        <item>0.1 sekunder</item>
+        <item>0.15 sekunder</item>
+        <item>1 sekund</item>
+    </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+         <item>0.5</item>
+         <item>1</item>
+     </string-array><string-array name="listGeoFreq">
+       <item>5 sekunder</item>
+       <item>10 sekunder</item>
+       <item>30 sekunder</item>
+        <item>1 minutt</item>
+        <item>2 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        </string-array><string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array><string-array name="listGeoDist">
+        <item>5 meter</item>
+        <item>10 meter</item>
+        <item>50 meter</item>
+        <item>100 meter</item>
+        <item>500 meter</item>
+        <item>1 kilometer</item>
+        </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array><string-array name="listLocales">
+        <item>normalverdi</item>
+        <item>Engelsk (US)</item>
+        <item>Fransk</item>
+        <item>Italiensk</item>
+        <item>Nederlandsk</item>
+        <item>Norsk</item>
+        <item>Spansk</item>
+        <item>Svensk</item>
+        <item>Tysk</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>de</item>
+    </string-array><string-array name="listLength">
+        <item>maksimal tidsbegrensning</item>
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minutt</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x høyere</item>
+        <item>8x høyere</item>
+        <item>4x høyere</item>
+        <item>1x</item>
+        <item>4x nedre</item>
+        <item>8x nedre</item>
+        <item>16x nedre</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-nb/strings.xml" qualifiers="nb"><string name="app_name">Flaggermus Lydopptaker</string><string name="menu_settings">Innstillinger</string><string name="locales">Språk lokalisering</string><string name="locale_change">Du må starte programmet for denne endringen skal tre i kraft.</string><string name="archive_title">Lydopptak</string><string name="load_file">Laster</string><string name="checking_license">Verifisere lisens…</string><string name="license_verify_problem">Beklager, men det var et problem å verifisere lisensen.</string><string name="permissions_verify_problem">Beklager, men de nødvendige app tillatelser er ikke gitt.</string><string name="mic_init">Leter du etter en støttet USB-mikrofon…</string><string name="mic_init_pettersson">Leter du etter en støttet Pettersson mikrofon…</string><string name="mic_init_dodotronic">Leter du etter en støttet Dodotronic mikrofon…</string><string name="no_mic">En støttet USB-mikrofon ble ikke påvist. Pass på at en USB OTG-kompatibel kabel er ordentlig festet, eller trykk på \'Fortsette\' for å bruke ikke-ultralyd apparat mikrofon.</string><string name="quit">Slutte</string><string name="playback_only">Fortsette</string><string name="app_version">Flaggermus Lydopptaker versjon:</string><string name="version">versjon</string><string name="usb_detach">Tilkoblingen til USB-mikrofonen har gått tapt. Kontroller at USB-mikrofonkabelen er godt festet, eller trykk på \'Fortsette\' for å bruke ikke-ultralyd apparat mikrofon.</string><string name="open_file_fail">Det var et problem å åpne den valgte WAV fil.</string><string name="fft_window">FFT vindusstørrelsen</string><string name="analysis_cat">Analyse</string><string name="general_cat">Alminnelig</string><string name="geo_cat">Geolocation</string><string name="trigger_cat">Innspilling</string><string name="trigger_db">Opptaksavtrekkeren terskel intensitet</string><string name="trigger_post">Opptaksavtrekkeren skru av tidsforsinkelse</string><string name="trigger_pre">Opptaksavtrekkeren slå på forsprang</string><string name="help">Brukermanual…</string><string name="storage">Lagre opptak på SD kort</string><string name="geotag">Geotagge WAV filer</string><string name="geofreq">GPS oppdatering frekvens</string><string name="geodist">GPS oppdatering minimumsavstand</string><string name="dropped">prøvene ble droppet!</string><string name="share">Dele lydopptak med</string><string name="close_app">Slutte Flaggermus Lydopptaker?</string><string name="delete_file">Er du sikker på at du vil slette</string><string name="delete">Slett lydopptak</string><string name="rename">Gi nytt navn lydopptak</string><string name="export">Eksport lydklippet</string><string name="saved">Lydklipp er lagret.</string><string name="already_exists">En fil med dette navnet finnes allerede.</string><string name="empty_name">Et filnavn kan ikke være tomt.</string><string name="created_xmp">Metadata-filen ble opprettet.</string><string name="expansion">Utvidelse faktor</string><string name="timer_cat">Lytte timer</string><string name="timer_on">Lytte varighet</string><string name="timer_off">Søvn intervall</string><string name="timer_unit">minutt</string><string name="timer_units">minutter</string><string name="alarm_on">Lytte tidtakeren går…</string><string name="alarm_quit">Stoppe tidsur</string><string name="googleplay_missing">Google Play Tjenester må være installert for å aktivere kartet.</string><string name="googleplay_update">Google Play Tjenester må oppdateres for å aktivere kartet.</string><string name="notify_cat">Opptaksavtrekkeren varsling</string><string name="sms">Send SMS-melding når utløst</string><string name="sms_recp">SMS meldingen mottaker</string><string name="email">Send e-post når den utløses</string><string name="email_recp">E-postmottaker</string><string name="triggered">Flaggermus Lydopptaker utløst</string><string name="loading_help">Laster online bruksanvisningen…</string><string name="reply_email">Velg svaradresse i e-posten.</string><string name="reply">Svar e-postadresse:</string><string name="mini_mic">Velg miniMIC modell:</string><string name="prebuffer">besparende buffer…</string><string name="capture">Lytte bufferlengde</string><string name="species">Velg artene:</string><string name="export_file">Eksport innspilling</string><string name="export_file_fail">Det var et problem å eksportere det valgte opptaket.</string><string name="export_file_succeed">Andre avspillingsmodus er bare gyldig for ultralyd opptak.</string><string name="not_ultrasonic">Andre avspillingsmodus er bare gyldig for ultralyd opptak.</string><string name="unsupported">Den tilkoblede USB-enheten ikke støttes.</string><string name="samplerate">Mikrofon samplingsfrekvens</string><string name="maxlength">Maksimal opptakstid</string><string name="logscale">Logaritmisk frekvensskala</string><string name="metadata">Metadata format</string><string name="het_freq">Heterodyne frekvensområdet</string><string name="trigger_freq">Opptaksavtrekkeren frekvensområdet</string><string name="gridlines">Vis frekvensrutenettlinjer</string><string name="analyzing">Analysere spectrogram…</string><string name="recording">innspilling</string><string name="recordings">innspillinger</string><string name="refresh">Levende spectrogram skjerm</string><string name="statusbar">Vis alltid Android systemet barer</string><string name="debuglog">USB debug log</string><string name="debugsum">Må starte app skal tre i kraft</string><string name="ultramodes">Aktiver alle avspillingsmodus for ikke-ultralydsignaler</string><string name="exporting">eksportere</string><string name="nightMode">Nattmodus</string><string name="triggerOnly">Bare skjerm utløste hendelser</string><string name="not_show">Ikke vis igjen</string><string name="sdcard_title">Advarsel</string><string name="use_sdcard">Bruk SD kort</string><string name="sdcard_warning">Opptak lagres på SD kortet vil automatisk bli slettet av Android OS hvis du avinstallerer BatRecorder app. Sørg for å sikkerhetskopiere alle opptakene du ønsker å beholde.</string><string name="stereo_warning">er et stereoopptak. Bare én kanal kan lastes. Vennligst velg:</string><string name="channel1">Kanal 1</string><string name="channel2">Kanal 2</string><string name="file_too_long">Filen er for stor. Begrenset til</string><string name="cont_rec">Kontinuerlig innspilling</string><string name="hardware_btns">Utløseren bruker volumknappene</string><string name="shake_rec">Veksle opptak ved å riste</string><string name="het_adj">Heterodyntone</string><string name="requestLicense">Be om</string><string name="purchase">Innspilling krever lisens.</string><string name="license_msg1">Jeg ønsker å kjøpe en Bat Recorder-lisens for denne Android-enheten (maskinvare ID: </string><string name="license_msg2">).</string></file><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-es/splash.png" qualifiers="es" type="drawable"/><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-de/array.xml" qualifiers="de"><string-array name="listRefresh">
+        <item>löschen</item>
+        <item>überschreiben</item>
+    </string-array><string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array><string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+    </string-array><string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array><string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array><string-array name="listCapture">
+        <item>3 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>10 Sekunden</item>
+    </string-array><string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array><string-array name="listPost">
+        <item>keine Verzögerung</item>
+        <item>0.01 Sekunden</item>
+        <item>0.1 Sekunden</item>
+        <item>0.5 Sekunden</item>
+        <item>1 Sekunde</item>
+        <item>3 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>10 Sekunden</item>
+        </string-array><string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array><string-array name="listPre">
+        <item>keine Verzögerung</item>
+        <item>0.01 Sekunden</item>
+        <item>0.02 Sekunden</item>
+        <item>0.05 Sekunden</item>
+        <item>0.1 Sekunden</item>
+        <item>0.5 Sekunden</item>
+        <item>1 Sekunde</item>
+    </string-array><string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        </string-array><string-array name="listGeoFreq">
+       <item>5 Sekunden</item>
+       <item>10 Sekunden</item>
+       <item>30 Sekunden</item>
+        <item>1 Minute</item>
+        <item>2 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        </string-array><string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array><string-array name="listGeoDist">
+        <item>5 Metern</item>
+        <item>10 Metern</item>
+        <item>50 Metern</item>
+        <item>100 Metern</item>
+        <item>500 Metern</item>
+        <item>1 Kilometer</item>
+        </string-array><string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array><string-array name="listLocales">
+        <item>Default</item>
+        <item>Englisch (US)</item>
+        <item>Deutsche</item>
+        <item>Französisch</item>
+        <item>Italienisch</item>
+        <item>Niederländer</item>
+        <item>Norwegisch</item>
+        <item>Schwedisch</item>
+        <item>Spanisch</item>
+    </string-array><string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>sv</item>
+        <item>es</item>
+    </string-array><string-array name="listLength">
+        <item>maximale Zeitbegrenzung</item>
+        <item>3 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>30 Sekunden</item>
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+    </string-array><string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array><string-array name="listHetero">
+        <item>16x höher</item>
+        <item>8x höher</item>
+        <item>4x höher</item>
+        <item>1x</item>
+        <item>4x niedriger</item>
+        <item>8x niedriger</item>
+        <item>16x niedriger</item>
+    </string-array><string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array></file><file path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-de/strings.xml" qualifiers="de"><string name="app_name">Fledermaus-Tonaufnahmegerät</string><string name="locales">Sprachlokalisierung</string><string name="locale_change">Sie müssen die App neu starten, damit diese Änderung wirksam wird.</string><string name="menu_settings">Einstellungen</string><string name="archive_title">Tonaufnahmen</string><string name="load_file">Lädt</string><string name="checking_license">Lizenz verifizieren…</string><string name="license_verify_problem">Verzeihung, gab ein Problem mit der Überprüfung Ihrer Lizenz.</string><string name="permissions_verify_problem">Verzeihung, aber die erforderlichen App-Berechtigungen nicht erteilt worden ist.</string><string name="mic_init">Such nach einem unterstützten USB-Mikrofon…</string><string name="mic_init_pettersson">Such nach einem unterstützten Pettersson Mikrofon…</string><string name="mic_init_dodotronic">Such nach einem unterstützten Dodotronic Mikrofon…</string><string name="no_mic">Es wurde kein unterstütztes USB-Mikrofon gefunden. Vergewissern Sie sich, dass ein USB-OTG-kompatibles Kabel fest angeschlossen ist, oder klicken Sie auf \'Fortsetzen\', um das Standardmikrofon zu verwenden.</string><string name="quit">Verlassen</string><string name="playback_only">Fortsetzen</string><string name="app_version">Fledermaus-Tonaufnahmegerät Version:</string><string name="version">Version</string><string name="usb_detach">Die Verbindung mit dem USB-Mikrofon ist verloren gegangen. Sicherstellen, dass das USB-Mikrofonkabel fest angeschlossen ist, oder klicken Sie auf \'Fortsetzen\', um das Standardmikrofon zu verwenden.</string><string name="open_file_fail">Die gewählte WAV-Datei konnte nicht geöffnet werden.</string><string name="fft_window">FFT Fenstergröße</string><string name="analysis_cat">Analyse</string><string name="general_cat">Allgemein</string><string name="geo_cat">Geolokalisierung</string><string name="trigger_cat">Aufnahme</string><string name="trigger_post">Trigger-Nachlauf</string><string name="trigger_pre">Trigger Vorlauf</string><string name="help">Benutzerhandbuch…</string><string name="storage">Speicher Aufnahmen auf SD-Karte</string><string name="geotag">Geotag WAV-Dateien</string><string name="geofreq">GPS-Update Häufigkeit</string><string name="geodist">GPS-Update Minimaldistanz</string><string name="dropped">Proben wurden fallengelassen!</string><string name="share">Tonaufnahme teilen mit</string><string name="close_app">Fledermaus Tonaufnahmegerät verlassen?</string><string name="delete_file">Sind Sie sicher, dass Sie löschen möchten</string><string name="delete">Löschen der Tonaufnahme</string><string name="rename">Tonaufnahme umbenennen</string><string name="export">Ausgewählten Ausschnitt exportieren</string><string name="saved">Der ausgewählte Ausschnitt wurde gespeicher.</string><string name="already_exists">Eine Datei mit diesem Namen existiert bereits.</string><string name="empty_name">Ein Dateiname darf nicht leer sein.</string><string name="created_xmp">Die Metadatendatei wurde erfolgreich erstellt.</string><string name="expansion">Dehnungsfaktor</string><string name="timer_cat">Zeitschalter</string><string name="trigger_db">Minimale Trigger-Intensität</string><string name="timer_on">Hördauer</string><string name="timer_off">Schlafintervall</string><string name="timer_unit">Minute</string><string name="timer_units">Minuten</string><string name="alarm_on">Zeitschalter läuft…</string><string name="alarm_quit">Zeitschalter anhalten</string><string name="googleplay_missing">Für die Karte werden Google Play-Dienste benötigt.</string><string name="googleplay_update">Für die Karte müssenGoogle Play-Dienste aktualisiert werden.</string><string name="notify_cat">Trigger-Benachrichtigung</string><string name="sms">SMS-Nachricht senden, wenn Trigger ausgelöst wurde</string><string name="sms_recp">SMS-Nachricht Empfänger</string><string name="email">E-Mail senden, wenn Trigger ausgelöst wurde</string><string name="email_recp">E-Mail Empfänger</string><string name="triggered">Fledermaus-Tonaufnahmegerät getriggert</string><string name="loading_help">Online-Benutzerhandbuch laden…</string><string name="reply_email">An Adresse in Benachrichtigungs-email antworten.</string><string name="reply">Antwort E-Mail-Adresse:</string><string name="mini_mic">Wählen Sie das miniMIC Modell:</string><string name="prebuffer">Speichern Puffer…</string><string name="capture">Hören Pufferlänge</string><string name="species">Wählen Sie die Spezies:</string><string name="export_file">Exportdatei</string><string name="export_file_fail">Es gab ein Problem die gewählte Aufnahme exportieren.</string><string name="export_file_succeed">Die Aufzeichnung wurde erfolgreich exportiert.</string><string name="not_ultrasonic">Andere Wiedergabe-Modi sind nur gültig für Ultraschall-Aufnahmen.</string><string name="unsupported">Das angeschlossene USB-Gerät wird nicht unterstützt.</string><string name="samplerate">Mikrofon Abtastrate</string><string name="maxlength">Maximale Aufzeichnungslänge</string><string name="logscale">Logarithmische Frequenzskala</string><string name="metadata">Metadatenformat</string><string name="het_freq">Mischerfrequenzbereich</string><string name="trigger_freq">Triggerfrequenzbereich</string><string name="gridlines">Zeigen Frequenzrasterlinien</string><string name="analyzing">Analyse Spektrogramm…</string><string name="recording">Aufnahme</string><string name="recordings">Aufnahmens</string><string name="refresh">Live-Spektrogramm-Anzeige</string><string name="statusbar">Immer zeigen Android Systemleiste</string><string name="debuglog">USB Debug-Protokoll</string><string name="debugsum">Muss neu starten App wirksam werden</string><string name="ultramodes">Aktivieren Sie alle Wiedergabe-Modi für Nicht-Ultraschall-Signale</string><string name="exporting">exportieren</string><string name="nightMode">Nacht Modus</string><string name="triggerOnly">nur Anzeige ausgelöst Ereignisse</string><string name="not_show">Nicht mehr anzeigen</string><string name="sdcard_title">Verwarnung</string><string name="use_sdcard">Verwenden Sie SD Karte</string><string name="sdcard_warning">Aufnahmen auf der SD Karte gespeichert werden automatisch durch das Android OS gelöscht werden, wenn Sie die BatRecorder App deinstallieren. Bitte stellen Sie sicher, dass alle Aufnahmen zu sichern, die Sie behalten möchten.</string><string name="stereo_warning">ist eine Stereoaufnahme. Es kann nur ein Kanal geladen werden. Bitte auswählen:</string><string name="channel1">Kanal 1</string><string name="channel2">Kanal 2</string><string name="file_too_long">Datei zu groß. Begrenzt auf</string><string name="cont_rec">Kontinuierliche Aufnahme</string><string name="hardware_btns">Trigger mit den Lautstärketasten</string><string name="shake_rec">Schaltet die Aufnahme durch Schütteln um</string><string name="het_adj">Heterodyn-Ton</string><string name="requestLicense">Anfrage</string><string name="purchase">Für die Aufnahme ist eine Lizenz erforderlich.</string><string name="license_msg1">Ich möchte eine Bat Recorder-Lizenz für dieses Android-Gerät erwerben (Hardware ID: </string><string name="license_msg2">).</string></file><file name="splash" path="/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/drawable-fr/splash.png" qualifiers="fr" type="drawable"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/dilucar/Local-Repo/batrecorder/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/dilucar/Local-Repo/batrecorder/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/dilucar/Local-Repo/batrecorder/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/dilucar/Local-Repo/batrecorder/app/build/generated/res/resValues/debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SwipeLayout">
+        <attr name="drag_edge">
+            <flag name="left" value="1"/>
+            <flag name="right" value="2"/>
+            <flag name="top" value="4"/>
+            <flag name="bottom" value="8"/>
+        </attr>
+        <attr format="dimension" name="leftEdgeSwipeOffset"/>
+        <attr format="dimension" name="rightEdgeSwipeOffset"/>
+        <attr format="dimension" name="topEdgeSwipeOffset"/>
+        <attr format="dimension" name="bottomEdgeSwipeOffset"/>
+        <attr format="enum" name="show_mode">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr>
+        <attr format="boolean" name="clickToClose"/>
+    </declare-styleable></configuration></mergedItems></merger>

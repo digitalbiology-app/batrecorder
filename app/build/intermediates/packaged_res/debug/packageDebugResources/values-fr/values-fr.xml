@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listCapture">
+        <item>3 secondes</item>
+        <item>5 secondes</item>
+        <item>10 secondes</item>
+    </string-array>
+    <string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array>
+    <string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+    </string-array>
+    <string-array name="listGeoDist">
+        <item>5 mètres</item>
+        <item>10 mètres</item>
+        <item>50 mètres</item>
+        <item>100 mètres</item>
+        <item>500 mètres</item>
+        <item>1 kilomètres</item>
+        </string-array>
+    <string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array>
+    <string-array name="listGeoFreq">
+       <item>5 secondes</item>
+       <item>10 secondes</item>
+       <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        </string-array>
+    <string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array>
+    <string-array name="listHetero">
+        <item>16x plus haute</item>
+        <item>8x plus haute</item>
+        <item>4x plus haute</item>
+        <item>1x</item>
+        <item>4x inférieur</item>
+        <item>8x inférieur</item>
+        <item>16x inférieur</item>
+    </string-array>
+    <string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array>
+    <string-array name="listLength">
+        <item>limite de temps maximum</item>
+        <item>3 secondes</item>
+        <item>5 secondes</item>
+        <item>10 secondes</item>
+        <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+    </string-array>
+    <string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array>
+    <string-array name="listLocales">
+        <item>défaut</item>
+        <item>Allemand</item>
+        <item>Anglais (US)</item>
+        <item>Espanol</item>
+        <item>Français</item>
+        <item>Italien</item>
+        <item>Néerlandais</item>
+        <item>Norvégien</item>
+        <item>Suédois</item>
+    </string-array>
+    <string-array name="listLocalesValues">
+        <item/>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>sv</item>
+    </string-array>
+    <string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array>
+    <string-array name="listPost">
+        <item>sans délais</item>
+        <item>0.01 secondes</item>
+        <item>0.1 secondes</item>
+        <item>0.5 secondes</item>
+        <item>1 secondes</item>
+        <item>3 secondes</item>
+        <item>5 secondes</item>
+        <item>10 secondes</item>
+        </string-array>
+    <string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+      </string-array>
+    <string-array name="listPre">
+        <item>sans délais</item>
+        <item>0.01 secondes</item>
+        <item>0.02 secondes</item>
+        <item>0.05 secondes</item>
+        <item>0.1 secondes</item>
+        <item>0.5 secondes</item>
+        <item>1 seconde</item>
+    </string-array>
+    <string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array>
+    <string-array name="listRefresh">
+        <item>nettoyer</item>
+        <item>écraser</item>
+    </string-array>
+    <string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string name="alarm_on">La minuterie d’écoute est en cours d\'exécution…</string>
+    <string name="alarm_quit">Arrêtez du minuteur</string>
+    <string name="already_exists">Un fichier portant ce nom existe déjà.</string>
+    <string name="analysis_cat">Analyse</string>
+    <string name="analyzing">Analyse spectrogramme…</string>
+    <string name="app_name">Enregistreur Chauve-souris</string>
+    <string name="app_version">Version Enregistreur Chauve-souris:</string>
+    <string name="archive_title">Enregistrements sonores</string>
+    <string name="capture">Durée de la mémoire tampon</string>
+    <string name="channel1">Le canal 1</string>
+    <string name="channel2">Le canal 2</string>
+    <string name="checking_license">Vérifier votre licence…</string>
+    <string name="close_app">Quitter Enregistreur Chauve-souris?</string>
+    <string name="cont_rec">Enregistrement continu</string>
+    <string name="created_xmp">Le fichier de métadonnées a été créé avec succès.</string>
+    <string name="debuglog">USB journal de débogage</string>
+    <string name="debugsum">Doit redémarrer l’application pour prendre effet</string>
+    <string name="delete">Supprimer l’enregistrement sonore</string>
+    <string name="delete_file">Etes-vous sûr de vouloir supprimer</string>
+    <string name="dropped">échantillons ont été perdus!</string>
+    <string name="email">Envoyer un mail en cas de déclenchement</string>
+    <string name="email_recp">Email du destinataire</string>
+    <string name="empty_name">Un nom de fichier ne peut pas être vide.</string>
+    <string name="expansion">Facteur d’expansion de temps</string>
+    <string name="export">Exporter a séquence audio</string>
+    <string name="export_file">L’enregistrement à l’exportation</string>
+    <string name="export_file_fail">Il y avait un problème d’exportation l’enregistrement sélectionné.</string>
+    <string name="export_file_succeed">L’enregistrement a été exporté avec succès.</string>
+    <string name="exporting">exporter</string>
+    <string name="fft_window">Taille de la fenêtre FFT</string>
+    <string name="file_too_long">Fichier trop large. Limité à</string>
+    <string name="general_cat">Général</string>
+    <string name="geo_cat">Géolocalisation</string>
+    <string name="geodist">Distance minimale de mise à jour GPS</string>
+    <string name="geofreq">Fréquence de mise à jour GPS</string>
+    <string name="geotag">Géolocaliser les fichiers WAV</string>
+    <string name="googleplay_missing">Les services Google Play doivent être installés pour permettre l’affichage de la carte.</string>
+    <string name="googleplay_update">Les services Google Play doivent être mis à jour pour permettre l’affichage de la carte.</string>
+    <string name="gridlines">Afficher fréquence quadrillage</string>
+    <string name="hardware_btns">Déclencher en utilisant les boutons de volume</string>
+    <string name="help">Manuel utilisateur…</string>
+    <string name="het_adj">Ton hétérodyne</string>
+    <string name="het_freq">Gamme de fréquences en mode hétérodyne</string>
+    <string name="license_msg1">Je souhaite demander une licence Bat Recorder pour cet appareil Android (matériel ID: </string>
+    <string name="license_msg2">). Merci de m’envoyer une facture.</string>
+    <string name="license_verify_problem">Désolé, mais il y a eu un problème lors de la vérification de votre licence.</string>
+    <string name="load_file">Chargement</string>
+    <string name="loading_help">Chargement du manuel utilisateur en ligne…</string>
+    <string name="locale_change">Vous aurez besoin de redémarrer l’application pour que cette modification prenne effet.</string>
+    <string name="locales">Langue</string>
+    <string name="logscale">Échelle de fréquence logarithmique</string>
+    <string name="maxlength">Longueur maximale d’enregistrement</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="metadata">Format de métadonnées</string>
+    <string name="mic_init">A la recherche d’microphone à USB compatible…</string>
+    <string name="mic_init_dodotronic">A la recherche d’microphone à Dodotronic…</string>
+    <string name="mic_init_pettersson">A la recherche d’microphone à Pettersson…</string>
+    <string name="mini_mic">Choisissez le modèle miniMIC:</string>
+    <string name="nightMode">Mode nuit</string>
+    <string name="no_mic">Un microphone à USB compatible n’a pas été détecté. Assurez-vous qu’un câble compatible USB OTG est bien attaché, ou appuyez sur \'Continuer\' pour utiliser le microphone non ultrasonore de votre appareil.</string>
+    <string name="not_show">Ne pas montrer de nouveau</string>
+    <string name="not_ultrasonic">D’autres modes de lecture ne sont valables que pour les enregistrements échographiques.</string>
+    <string name="notify_cat">Notification du déclenchement de l’enregistrement</string>
+    <string name="open_file_fail">Il y a eu un problème à l’ouverture du fichier WAV sélectionné.</string>
+    <string name="permissions_verify_problem">Désolé, mais les autorisations d’ application nécessaires ont pas été accordées.</string>
+    <string name="playback_only">Continuer</string>
+    <string name="prebuffer">sauvegarde de la mémoire tampon…</string>
+    <string name="purchase">L’enregistrement nécessite une licence.</string>
+    <string name="quit">Quitter</string>
+    <string name="recording">enregistrement</string>
+    <string name="recordings">enregistrements</string>
+    <string name="refresh">Affichage de spectrogramme en direct</string>
+    <string name="rename">Renommer l’enregistrement sonore</string>
+    <string name="reply">Adresse mail de réponse:</string>
+    <string name="reply_email">Choisissez l’adresse de réponse dans le mail de notification.</string>
+    <string name="requestLicense">Demande</string>
+    <string name="samplerate">Taux d’échantillonnage du microphone</string>
+    <string name="saved">La séquence audio a été enregistrée.</string>
+    <string name="sdcard_title">Attention</string>
+    <string name="sdcard_warning">Les enregistrements stockés sur la carte SD seront automatiquement supprimés par le système d’exploitation Android si vous désinstallez l’application BatRecorder. faire S’il vous plaît assurez-vous de sauvegarder tous les enregistrements que vous souhaitez conserver.</string>
+    <string name="shake_rec">Basculer l’enregistrement en secouant</string>
+    <string name="share">Partager enregistrement sonore</string>
+    <string name="sms">Envoyer un message SMS en cas de déclenchement</string>
+    <string name="sms_recp">Numéro pour l’envoi du SMS</string>
+    <string name="species">Choisissez une espèce :</string>
+    <string name="statusbar">Toujours afficher les barres du système Android</string>
+    <string name="stereo_warning">est un enregistrement stéréo. Un seul canal peut être chargé. Veuillez sélectionner:</string>
+    <string name="storage">Sauvegarder des enregistrements sur la carte SD</string>
+    <string name="timer_cat">Minuterie d’écoute</string>
+    <string name="timer_off">Intervalle de pause</string>
+    <string name="timer_on">Durée d’écoute</string>
+    <string name="timer_unit">minute</string>
+    <string name="timer_units">minutes</string>
+    <string name="triggerOnly">Seulement affichage événements déclenchés</string>
+    <string name="trigger_cat">Enregistrement</string>
+    <string name="trigger_db">Intensité de déclenchement</string>
+    <string name="trigger_freq">Gamme de fréquences de déclenchement</string>
+    <string name="trigger_post">Durée minimale avant un nouveau déclenchement</string>
+    <string name="trigger_pre">Durée d’enregistrement après déclenchement</string>
+    <string name="triggered">Enregistreur Chauve-souris en cours d’enregistrement automatique</string>
+    <string name="ultramodes">Permettre à tous les modes de lecture pour les signaux non-ultrasoniques</string>
+    <string name="unsupported">Le périphérique USB connecté est pris en charge.</string>
+    <string name="usb_detach">La connexion au microphone à USB a été perdue. Assurez-vous que le câble USB est correctement branché au microphone, ou appuyez sur \'Continuer\' pour utiliser le microphone non ultrasonore de votre appareil.</string>
+    <string name="use_sdcard">Utilisez la carte SD</string>
+    <string name="version">version</string>
+</resources>

@@ -1,0 +1,28 @@
+[x86_64] Compile        : analysis <= analysis.c
+[x86_64] Compile        : analysis <= fft_bind.c
+[x86_64] Compile        : analysis <= pffft.c
+[x86_64] Compile        : analysis <= quickblob.c
+[x86_64] Compile        : analysis <= blobhooks.c
+[x86_64] SharedLibrary  : libanalysis.so
+[x86_64] Compile        : analysisNEON <= analysis.c
+[x86_64] Compile        : analysisNEON <= fft_bind.c
+[x86_64] Compile        : analysisNEON <= pffft.c
+[x86_64] Compile        : analysisNEON <= quickblob.c
+[x86_64] Compile        : analysisNEON <= blobhooks.c
+[x86_64] SharedLibrary  : libanalysisNEON.so
+[x86_64] Compile        : file <= file.c
+[x86_64] Compile        : cpufeatures <= cpu-features.c
+[x86_64] StaticLibrary  : libcpufeatures.a
+[x86_64] SharedLibrary  : libfile.so
+[x86_64] Compile        : palette <= palette.c
+[x86_64] Compile        : palette <= spectrogram.c
+[x86_64] SharedLibrary  : libpalette.so
+[x86_64] Compile        : usb <= core.c
+[x86_64] Compile        : usb <= descriptor.c
+[x86_64] Compile        : usb <= io.c
+[x86_64] Compile        : usb <= sync.c
+[x86_64] Compile        : usb <= linux_usbfs.c
+[x86_64] Compile        : usb <= threads_posix.c
+[x86_64] Compile        : usb <= ringbuffer.c
+[x86_64] Compile        : usb <= usb_binding.c
+[x86_64] SharedLibrary  : libusb.so

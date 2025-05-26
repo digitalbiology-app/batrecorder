@@ -1,0 +1,284 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.digitalbiology.audio"
+4    android:versionCode="224"
+5    android:versionName="2.0B15" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+11-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:4:5-73
+11-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:4:22-70
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:5:5-71
+12-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:5:22-68
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:6:5-81
+13-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:7:5-80
+14-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:7:22-77
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:8:5-67
+15-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:8:22-64
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:9:5-78
+16-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:9:22-76
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:10:5-79
+17-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:10:22-76
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:11:2-78
+18-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:11:19-75
+19    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+19-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:12:5-76
+19-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:12:22-74
+20    <!-- <uses-permission android:name="android.permission.SEND_SMS" /> -->
+21
+22    <uses-feature
+22-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:15:5-87
+23        android:name="android.hardware.location"
+23-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:15:19-59
+24        android:required="false" />
+24-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:15:60-84
+25    <uses-feature
+25-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:16:2-88
+26        android:name="android.hardware.location.gps"
+26-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:16:16-60
+27        android:required="false" />
+27-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:16:61-85
+28    <uses-feature
+28-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:17:2-92
+29        android:name="android.hardware.location.network"
+29-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:17:16-64
+30        android:required="false" />
+30-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:17:65-89
+31    <uses-feature
+31-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:18:2-84
+32        android:name="android.hardware.usb.host"
+32-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:18:16-56
+33        android:required="false" />
+33-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:18:57-81
+34    <uses-feature
+34-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:19:5-88
+35        android:name="android.hardware.telephony"
+35-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:19:19-60
+36        android:required="false" />
+36-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:19:61-85
+37    <uses-feature android:name="android.hardware.microphone" />
+37-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:20:2-61
+37-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:20:16-58
+38    <uses-feature android:name="android.hardware.screen.landscape" />
+38-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:21:2-67
+38-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:21:16-64
+39
+40    <supports-screens
+40-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:23:5-28:40
+41        android:anyDensity="true"
+41-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:24:9-34
+42        android:largeScreens="true"
+42-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:25:9-36
+43        android:normalScreens="true"
+43-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:26:9-37
+44        android:smallScreens="true"
+44-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:27:9-36
+45        android:xlargeScreens="true" />
+45-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:28:9-37
+46
+47    <uses-feature
+47-->[com.google.android.gms:play-services-maps:18.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/1a935340f5af2c3450d7b6dc817ee58b/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
+48        android:glEsVersion="0x00020000"
+48-->[com.google.android.gms:play-services-maps:18.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/1a935340f5af2c3450d7b6dc817ee58b/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
+49        android:required="true" />
+49-->[com.google.android.gms:play-services-maps:18.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/1a935340f5af2c3450d7b6dc817ee58b/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
+50
+51    <queries>
+51-->[com.google.android.gms:play-services-maps:18.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/1a935340f5af2c3450d7b6dc817ee58b/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
+52
+53        <!-- Needs to be explicitly declared on Android R+ -->
+54        <package android:name="com.google.android.apps.maps" />
+54-->[com.google.android.gms:play-services-maps:18.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/1a935340f5af2c3450d7b6dc817ee58b/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
+54-->[com.google.android.gms:play-services-maps:18.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/1a935340f5af2c3450d7b6dc817ee58b/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
+55    </queries>
+56
+57    <permission
+57-->[androidx.core:core:1.9.0] /Users/dilucar/.gradle/caches/8.9/transforms/5d05822affbc926a6ebdbc0b756426ea/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+58        android:name="com.digitalbiology.audio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+58-->[androidx.core:core:1.9.0] /Users/dilucar/.gradle/caches/8.9/transforms/5d05822affbc926a6ebdbc0b756426ea/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+59        android:protectionLevel="signature" />
+59-->[androidx.core:core:1.9.0] /Users/dilucar/.gradle/caches/8.9/transforms/5d05822affbc926a6ebdbc0b756426ea/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+60
+61    <uses-permission android:name="com.digitalbiology.audio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+61-->[androidx.core:core:1.9.0] /Users/dilucar/.gradle/caches/8.9/transforms/5d05822affbc926a6ebdbc0b756426ea/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+61-->[androidx.core:core:1.9.0] /Users/dilucar/.gradle/caches/8.9/transforms/5d05822affbc926a6ebdbc0b756426ea/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+62
+63    <application
+63-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:29:5-88:23
+64        android:name="com.digitalbiology.audio.BatRecorderApp"
+64-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:30:9-63
+65        android:allowBackup="true"
+65-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:31:9-35
+66        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+66-->[androidx.core:core:1.9.0] /Users/dilucar/.gradle/caches/8.9/transforms/5d05822affbc926a6ebdbc0b756426ea/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+67        android:debuggable="true"
+68        android:extractNativeLibs="false"
+69        android:hardwareAccelerated="false"
+69-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:33:9-44
+70        android:icon="@drawable/ic_launcher"
+70-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:34:9-45
+71        android:label="@string/app_name"
+71-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:35:9-41
+72        android:largeHeap="true"
+72-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:36:9-33
+73        android:requestLegacyExternalStorage="true"
+73-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:32:9-52
+74        android:testOnly="true"
+75        android:theme="@style/AppTheme" >
+75-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:37:9-40
+76        <activity
+76-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:38:9-53:20
+77            android:name="com.digitalbiology.audio.MainActivity"
+77-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:39:13-65
+78            android:configChanges="layoutDirection|locale|orientation|screenSize|keyboardHidden"
+78-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:42:13-97
+79            android:exported="true"
+79-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:44:13-36
+80            android:label="@string/app_name"
+80-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:40:13-45
+81            android:launchMode="singleTask"
+81-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:41:11-42
+82            android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen"
+82-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:45:10-74
+83            android:windowSoftInputMode="stateAlwaysHidden" >
+83-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:43:5-52
+84            <intent-filter>
+84-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:46:13-49:29
+85                <action android:name="android.intent.action.MAIN" />
+85-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:47:17-69
+85-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:47:25-66
+86
+87                <category android:name="android.intent.category.LAUNCHER" />
+87-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:48:17-77
+87-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:48:27-74
+88            </intent-filter>
+89            <intent-filter>
+89-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:50:13-52:29
+90                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+90-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:51:17-90
+90-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:51:25-87
+91            </intent-filter>
+92        </activity>
+93        <activity
+93-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:54:9-59:20
+94            android:name="com.digitalbiology.audio.SettingsActivity"
+94-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:55:13-69
+95            android:configChanges="layoutDirection|locale"
+95-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:57:13-59
+96            android:label="@string/menu_settings"
+96-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:56:13-50
+97            android:theme="@style/Theme.Settings" >
+97-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:58:13-50
+98        </activity>
+99        <activity
+99-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:60:8-65:20
+100            android:name="com.digitalbiology.audio.HelpActivity"
+100-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:61:13-65
+101            android:configChanges="layoutDirection|locale"
+101-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:63:12-58
+102            android:label="Help"
+102-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:62:13-33
+103            android:theme="@android:style/Theme.Holo.NoActionBar" >
+103-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:64:13-66
+104        </activity>
+105
+106        <uses-library
+106-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:66:9-87
+107            android:name="org.apache.http.legacy"
+107-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:66:23-60
+108            android:required="false" />
+108-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:66:61-85
+109
+110        <provider
+110-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:67:9-75:20
+111            android:name="androidx.core.content.FileProvider"
+111-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:68:13-62
+112            android:authorities="com.digitalbiology.audio.fileprovider"
+112-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:69:13-72
+113            android:exported="false"
+113-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:70:13-37
+114            android:grantUriPermissions="true" >
+114-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:71:13-47
+115            <meta-data
+115-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:72:13-74:57
+116                android:name="android.support.FILE_PROVIDER_PATHS"
+116-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:73:17-67
+117                android:resource="@xml/provider_paths" />
+117-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:74:17-55
+118        </provider>
+119
+120        <meta-data
+120-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:76:9-78:69
+121            android:name="com.google.android.gms.version"
+121-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:77:13-58
+122            android:value="@integer/google_play_services_version" />
+122-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:78:13-66
+123        <!-- Debug -->
+124        <meta-data
+124-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:80:9-82:48
+125            android:name="com.google.android.maps.v2.API_KEY"
+125-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:81:13-62
+126            android:value="ENTER CUSTOM KEY" />
+126-->/Users/dilucar/Local-Repo/batrecorder/app/src/main/AndroidManifest.xml:82:13-45
+127        <!-- Release -->
+128        <!-- <meta-data -->
+129        <!-- android:name="com.google.android.maps.v2.API_KEY" -->
+130        <!-- android:value="ENTER CUSTOM KEY" /> -->
+131
+132        <activity
+132-->[com.google.android.gms:play-services-base:18.0.1] /Users/dilucar/.gradle/caches/8.9/transforms/0158d79d41a55cd42240ccf419b0d3b8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+133            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+133-->[com.google.android.gms:play-services-base:18.0.1] /Users/dilucar/.gradle/caches/8.9/transforms/0158d79d41a55cd42240ccf419b0d3b8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+134            android:exported="false"
+134-->[com.google.android.gms:play-services-base:18.0.1] /Users/dilucar/.gradle/caches/8.9/transforms/0158d79d41a55cd42240ccf419b0d3b8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+135            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+135-->[com.google.android.gms:play-services-base:18.0.1] /Users/dilucar/.gradle/caches/8.9/transforms/0158d79d41a55cd42240ccf419b0d3b8/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+136
+137        <provider
+137-->[androidx.emoji2:emoji2:1.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/520c43ed523b02f5247dcbde94600f34/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+138            android:name="androidx.startup.InitializationProvider"
+138-->[androidx.emoji2:emoji2:1.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/520c43ed523b02f5247dcbde94600f34/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+139            android:authorities="com.digitalbiology.audio.androidx-startup"
+139-->[androidx.emoji2:emoji2:1.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/520c43ed523b02f5247dcbde94600f34/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+140            android:exported="false" >
+140-->[androidx.emoji2:emoji2:1.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/520c43ed523b02f5247dcbde94600f34/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+141            <meta-data
+141-->[androidx.emoji2:emoji2:1.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/520c43ed523b02f5247dcbde94600f34/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+142                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+142-->[androidx.emoji2:emoji2:1.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/520c43ed523b02f5247dcbde94600f34/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+143                android:value="androidx.startup" />
+143-->[androidx.emoji2:emoji2:1.2.0] /Users/dilucar/.gradle/caches/8.9/transforms/520c43ed523b02f5247dcbde94600f34/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+144            <meta-data
+144-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/dilucar/.gradle/caches/8.9/transforms/e7bc69574f9c08b55a8e7bd1fe09c7c0/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+145                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+145-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/dilucar/.gradle/caches/8.9/transforms/e7bc69574f9c08b55a8e7bd1fe09c7c0/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+146                android:value="androidx.startup" />
+146-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/dilucar/.gradle/caches/8.9/transforms/e7bc69574f9c08b55a8e7bd1fe09c7c0/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+147        </provider>
+148
+149        <uses-library
+149-->[androidx.window:window:1.0.0] /Users/dilucar/.gradle/caches/8.9/transforms/da98f667e376e51d0d8d2178612fce25/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+150            android:name="androidx.window.extensions"
+150-->[androidx.window:window:1.0.0] /Users/dilucar/.gradle/caches/8.9/transforms/da98f667e376e51d0d8d2178612fce25/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+151            android:required="false" />
+151-->[androidx.window:window:1.0.0] /Users/dilucar/.gradle/caches/8.9/transforms/da98f667e376e51d0d8d2178612fce25/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+152        <uses-library
+152-->[androidx.window:window:1.0.0] /Users/dilucar/.gradle/caches/8.9/transforms/da98f667e376e51d0d8d2178612fce25/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+153            android:name="androidx.window.sidecar"
+153-->[androidx.window:window:1.0.0] /Users/dilucar/.gradle/caches/8.9/transforms/da98f667e376e51d0d8d2178612fce25/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+154            android:required="false" />
+154-->[androidx.window:window:1.0.0] /Users/dilucar/.gradle/caches/8.9/transforms/da98f667e376e51d0d8d2178612fce25/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+155    </application>
+156
+157</manifest>

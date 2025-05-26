@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.digitalbiology.audio.app-mergeDebugResources-31:/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "77",
+                        "endOffsets": "90"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

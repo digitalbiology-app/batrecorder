@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="listCapture">
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+    </string-array>
+    <string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array>
+    <string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+        </string-array>
+    <string-array name="listGeoDist">
+        <item>5 meter</item>
+        <item>10 meter</item>
+        <item>50 meter</item>
+        <item>100 meter</item>
+        <item>500 meter</item>
+        <item>1 kilometer</item>
+        </string-array>
+    <string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array>
+    <string-array name="listGeoFreq">
+       <item>5 sekunder</item>
+       <item>10 sekunder</item>
+       <item>30 sekunder</item>
+        <item>1 minutt</item>
+        <item>2 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        </string-array>
+    <string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array>
+    <string-array name="listHetero">
+        <item>16x høyere</item>
+        <item>8x høyere</item>
+        <item>4x høyere</item>
+        <item>1x</item>
+        <item>4x nedre</item>
+        <item>8x nedre</item>
+        <item>16x nedre</item>
+    </string-array>
+    <string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array>
+    <string-array name="listLength">
+        <item>maksimal tidsbegrensning</item>
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minutt</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+    </string-array>
+    <string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array>
+    <string-array name="listLocales">
+        <item>normalverdi</item>
+        <item>Engelsk (US)</item>
+        <item>Fransk</item>
+        <item>Italiensk</item>
+        <item>Nederlandsk</item>
+        <item>Norsk</item>
+        <item>Spansk</item>
+        <item>Svensk</item>
+        <item>Tysk</item>
+    </string-array>
+    <string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>de</item>
+    </string-array>
+    <string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array>
+    <string-array name="listPost">
+        <item>ingen forsinkelse</item>
+        <item>0.01 sekunder</item>
+        <item>0.1 sekunder</item>
+        <item>0.5 sekunder</item>
+        <item>1 sekund</item>
+        <item>3 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+        </string-array>
+    <string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+         <item>3</item>
+         <item>5</item>
+         <item>10</item>
+      </string-array>
+    <string-array name="listPre">
+        <item>ingen forsinkelse</item>
+        <item>0.01 sekunder</item>
+        <item>0.02 sekunder</item>
+        <item>0.05 sekunder</item>
+        <item>0.1 sekunder</item>
+        <item>0.15 sekunder</item>
+        <item>1 sekund</item>
+    </string-array>
+    <string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+         <item>0.5</item>
+         <item>1</item>
+     </string-array>
+    <string-array name="listRefresh">
+        <item>forfriske</item>
+        <item>skrive</item>
+    </string-array>
+    <string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AV"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÅ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"slett"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funksjon+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mellomrom"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meny+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Søk"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="alarm_on">Lytte tidtakeren går…</string>
+    <string name="alarm_quit">Stoppe tidsur</string>
+    <string name="already_exists">En fil med dette navnet finnes allerede.</string>
+    <string name="analysis_cat">Analyse</string>
+    <string name="analyzing">Analysere spectrogram…</string>
+    <string name="app_name">Flaggermus Lydopptaker</string>
+    <string name="app_version">Flaggermus Lydopptaker versjon:</string>
+    <string name="archive_title">Lydopptak</string>
+    <string name="capture">Lytte bufferlengde</string>
+    <string name="channel1">Kanal 1</string>
+    <string name="channel2">Kanal 2</string>
+    <string name="checking_license">Verifisere lisens…</string>
+    <string name="close_app">Slutte Flaggermus Lydopptaker?</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktivér</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s fungerer ikke med mindre du slår på Google Play-tjenester.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Slå på Google Play-tjenester</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke er installert på enheten din.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Installer Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Tjenester-tilgjengelighet</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke støttes av enheten din.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Oppdater</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s kjører ikke med mindre du oppdaterer Google Play Tjenester.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Oppdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kjører ikke uten Google Play-tjenester, som oppdateres akkurat nå.</string>
+    <string name="common_google_play_services_wear_update_text">Du må installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund.</string>
+    <string name="common_open_on_phone">Åpne på telefonen</string>
+    <string name="common_signin_button_text">Logg på</string>
+    <string name="common_signin_button_text_long">Logg på med Google</string>
+    <string name="cont_rec">Kontinuerlig innspilling</string>
+    <string msgid="6083905920877235314" name="copy">"Kopiér"</string>
+    <string name="created_xmp">Metadata-filen ble opprettet.</string>
+    <string name="debuglog">USB debug log</string>
+    <string name="debugsum">Må starte app skal tre i kraft</string>
+    <string name="delete">Slett lydopptak</string>
+    <string name="delete_file">Er du sikker på at du vil slette</string>
+    <string name="dropped">prøvene ble droppet!</string>
+    <string name="email">Send e-post når den utløses</string>
+    <string name="email_recp">E-postmottaker</string>
+    <string name="empty_name">Et filnavn kan ikke være tomt.</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Avansert"</string>
+    <string name="expansion">Utvidelse faktor</string>
+    <string name="export">Eksport lydklippet</string>
+    <string name="export_file">Eksport innspilling</string>
+    <string name="export_file_fail">Det var et problem å eksportere det valgte opptaket.</string>
+    <string name="export_file_succeed">Andre avspillingsmodus er bare gyldig for ultralyd opptak.</string>
+    <string name="exporting">eksportere</string>
+    <string name="fft_window">FFT vindusstørrelsen</string>
+    <string name="file_too_long">Filen er for stor. Begrenset til</string>
+    <string name="general_cat">Alminnelig</string>
+    <string name="geo_cat">Geolocation</string>
+    <string name="geodist">GPS oppdatering minimumsavstand</string>
+    <string name="geofreq">GPS oppdatering frekvens</string>
+    <string name="geotag">Geotagge WAV filer</string>
+    <string name="googleplay_missing">Google Play Tjenester må være installert for å aktivere kartet.</string>
+    <string name="googleplay_update">Google Play Tjenester må oppdateres for å aktivere kartet.</string>
+    <string name="gridlines">Vis frekvensrutenettlinjer</string>
+    <string name="hardware_btns">Utløseren bruker volumknappene</string>
+    <string name="help">Brukermanual…</string>
+    <string name="het_adj">Heterodyntone</string>
+    <string name="het_freq">Heterodyne frekvensområdet</string>
+    <string name="license_msg1">Jeg ønsker å kjøpe en Bat Recorder-lisens for denne Android-enheten (maskinvare ID: </string>
+    <string name="license_msg2">).</string>
+    <string name="license_verify_problem">Beklager, men det var et problem å verifisere lisensen.</string>
+    <string name="load_file">Laster</string>
+    <string name="loading_help">Laster online bruksanvisningen…</string>
+    <string name="locale_change">Du må starte programmet for denne endringen skal tre i kraft.</string>
+    <string name="locales">Språk lokalisering</string>
+    <string name="logscale">Logaritmisk frekvensskala</string>
+    <string name="maxlength">Maksimal opptakstid</string>
+    <string name="menu_settings">Innstillinger</string>
+    <string name="metadata">Metadata format</string>
+    <string name="mic_init">Leter du etter en støttet USB-mikrofon…</string>
+    <string name="mic_init_dodotronic">Leter du etter en støttet Dodotronic mikrofon…</string>
+    <string name="mic_init_pettersson">Leter du etter en støttet Pettersson mikrofon…</string>
+    <string name="mini_mic">Velg miniMIC modell:</string>
+    <string name="nightMode">Nattmodus</string>
+    <string name="no_mic">En støttet USB-mikrofon ble ikke påvist. Pass på at en USB OTG-kompatibel kabel er ordentlig festet, eller trykk på \'Fortsette\' for å bruke ikke-ultralyd apparat mikrofon.</string>
+    <string msgid="6573031135582639649" name="not_set">"Ikke angitt"</string>
+    <string name="not_show">Ikke vis igjen</string>
+    <string name="not_ultrasonic">Andre avspillingsmodus er bare gyldig for ultralyd opptak.</string>
+    <string name="notify_cat">Opptaksavtrekkeren varsling</string>
+    <string name="open_file_fail">Det var et problem å åpne den valgte WAV fil.</string>
+    <string name="permissions_verify_problem">Beklager, men de nødvendige app tillatelser er ikke gitt.</string>
+    <string name="playback_only">Fortsette</string>
+    <string name="prebuffer">besparende buffer…</string>
+    <string msgid="6685851473431805375" name="preference_copied">"«<ns1:g id="SUMMARY">%1$s</ns1:g>» er kopiert til utklippstavlen."</string>
+    <string name="purchase">Innspilling krever lisens.</string>
+    <string name="quit">Slutte</string>
+    <string name="recording">innspilling</string>
+    <string name="recordings">innspillinger</string>
+    <string name="refresh">Levende spectrogram skjerm</string>
+    <string name="rename">Gi nytt navn lydopptak</string>
+    <string name="reply">Svar e-postadresse:</string>
+    <string name="reply_email">Velg svaradresse i e-posten.</string>
+    <string name="requestLicense">Be om</string>
+    <string name="samplerate">Mikrofon samplingsfrekvens</string>
+    <string name="saved">Lydklipp er lagret.</string>
+    <string name="sdcard_title">Advarsel</string>
+    <string name="sdcard_warning">Opptak lagres på SD kortet vil automatisk bli slettet av Android OS hvis du avinstallerer BatRecorder app. Sørg for å sikkerhetskopiere alle opptakene du ønsker å beholde.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Søk"</string>
+    <string name="shake_rec">Veksle opptak ved å riste</string>
+    <string name="share">Dele lydopptak med</string>
+    <string name="sms">Send SMS-melding når utløst</string>
+    <string name="sms_recp">SMS meldingen mottaker</string>
+    <string name="species">Velg artene:</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="statusbar">Vis alltid Android systemet barer</string>
+    <string name="stereo_warning">er et stereoopptak. Bare én kanal kan lastes. Vennligst velg:</string>
+    <string name="storage">Lagre opptak på SD kort</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="timer_cat">Lytte timer</string>
+    <string name="timer_off">Søvn intervall</string>
+    <string name="timer_on">Lytte varighet</string>
+    <string name="timer_unit">minutt</string>
+    <string name="timer_units">minutter</string>
+    <string name="triggerOnly">Bare skjerm utløste hendelser</string>
+    <string name="trigger_cat">Innspilling</string>
+    <string name="trigger_db">Opptaksavtrekkeren terskel intensitet</string>
+    <string name="trigger_freq">Opptaksavtrekkeren frekvensområdet</string>
+    <string name="trigger_post">Opptaksavtrekkeren skru av tidsforsinkelse</string>
+    <string name="trigger_pre">Opptaksavtrekkeren slå på forsprang</string>
+    <string name="triggered">Flaggermus Lydopptaker utløst</string>
+    <string name="ultramodes">Aktiver alle avspillingsmodus for ikke-ultralydsignaler</string>
+    <string name="unsupported">Den tilkoblede USB-enheten ikke støttes.</string>
+    <string name="usb_detach">Tilkoblingen til USB-mikrofonen har gått tapt. Kontroller at USB-mikrofonkabelen er godt festet, eller trykk på \'Fortsette\' for å bruke ikke-ultralyd apparat mikrofon.</string>
+    <string name="use_sdcard">Bruk SD kort</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"AV"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"PÅ"</string>
+    <string name="version">versjon</string>
+</resources>

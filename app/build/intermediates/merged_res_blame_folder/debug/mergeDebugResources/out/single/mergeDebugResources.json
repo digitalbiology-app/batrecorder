@@ -1,0 +1,1042 @@
+[
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_headset_tune.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/headset_tune.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_delete.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/delete.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_rename.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/rename.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_image_clear.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/image_clear.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_button_enabled.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/button_enabled.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_mic.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/mic.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_species_night_list.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/species_night_list.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_headset_div.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/headset_div.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_device.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/device.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_archive.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/archive.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_two_lines_list_preference_row.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/two_lines_list_preference_row.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_loop_off.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/loop_off.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_info_window_layout.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/info_window_layout.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_seek_style.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/seek_style.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_button.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/button.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_low_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/low_gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_power.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/power.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_folder.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/folder.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_record_stop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/record_stop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/color_primary_text_color_selector.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/color/primary_text_color_selector.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_frequency.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/frequency.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_power.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/power.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_measure.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/measure.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_headset_div.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/headset_div.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-fr_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-fr/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_red_power_border.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/red_power_border.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_record_stop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/record_stop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_trigger.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/trigger.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_loop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/loop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_record.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/record.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_popup.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/popup.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_image_clear.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/image_clear.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_next.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/next.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_high_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/high_gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_image_search.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/image_search.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_image_search.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/image_search.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_length.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/length.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_loop_off.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/loop_off.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_resize.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/resize.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_csv.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/csv.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_bat.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/bat.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_low_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/low_gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_rename.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/rename.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_stop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/stop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_folder.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/folder.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_button_disabled.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/button_disabled.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_low_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/low_gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_time.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/time.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_length.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/length.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_alarm.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/alarm.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_place.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/place.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_prev.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/prev.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_mini_mic_dialog.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/mini_mic_dialog.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_info.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/info.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_high_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/high_gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_rename.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/rename.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_title.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/title.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_popup_timer.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/popup_timer.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_info.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/info.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_world.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/world.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_loop_off.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/loop_off.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_settings.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/settings.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/xml_provider_paths.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-de_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-de/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_frequency.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/frequency.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_sdcard.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/sdcard.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_calendar.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/calendar.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_archive.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/archive.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_pause.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/pause.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_export.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/export.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_length.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/length.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_record_stop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/record_stop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_title.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/title.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_share.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/share.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_cutoff.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/cutoff.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_export.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/export.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_calendar.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/calendar.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_seek.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/seek.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_sdcard.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/sdcard.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_down.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/down.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_place.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/place.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_share.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/share.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_seek_thumb_disabled.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/seek_thumb_disabled.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_seek_thumb_pressed.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/seek_thumb_pressed.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_file.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/file.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_map.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/map.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_seek_thumb_normal.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/seek_thumb_normal.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_csv.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/csv.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_dodotronic_logo.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/dodotronic_logo.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_archive.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/archive.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_delete.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_settings.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/settings.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_mic_off.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/mic_off.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_trigger.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/trigger.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_frequency.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/frequency.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_world.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/world.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout-land_activity_main.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_settings.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/settings.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_bat_marker.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/bat_marker.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_delete.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_sdcard.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/sdcard.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_rangeseek.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/rangeseek.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_custom_code_dialog.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/custom_code_dialog.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_speaker.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/speaker.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_prev.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/prev.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/xml_prefs.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/xml/prefs.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_place.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/place.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_power.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/power.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_translucent_background.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/translucent_background.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_stereo_dialog.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/stereo_dialog.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_calendar.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/calendar.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_play.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/play.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_share.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/share.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_frequency.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/frequency.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_play.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/play.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_export.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/export.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_folder.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/folder.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_next.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/next.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_species_dialog.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/species_dialog.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_headset_tune.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/headset_tune.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_speaker.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/speaker.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_gpx.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/gpx.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_activity_help.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/activity_help.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_headset_cutoff.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/headset_cutoff.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_measure.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/measure.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_mic_off.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/mic_off.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_checkbox.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/checkbox.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_mic_off.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/mic_off.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-nb_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-nb/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_settings.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_dialog_list_item.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/dialog_list_item.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_image_clear.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/image_clear.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_device.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/device.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_time.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/time.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_play.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/play.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_mic.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/mic.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_stop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/stop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_record_stop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/record_stop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_loop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/loop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_calendar.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/calendar.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_next.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/next.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_place.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/place.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_delete.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/delete.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_archive.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/archive.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_bat_marker.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/bat_marker.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_headset_cutoff.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/headset_cutoff.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_up.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/up.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_next.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/next.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_headset_div.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/headset_div.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_prev.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/prev.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_record.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/record.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_device.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/device.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_file_list.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/file_list.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_rename.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/rename.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_file.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/file.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_high_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/high_gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_gpx.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/gpx.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_info.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/info.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_play.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/play.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_spinner.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/spinner.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_map.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/map.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_bat_marker_selected.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/bat_marker_selected.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_pettersson_logo.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/pettersson_logo.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_loop_off.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/loop_off.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_rounded_corner.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_tuning.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/tuning.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_up.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/up.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_map.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/map.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-it_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-it/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_device.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/device.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_loop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/loop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_down.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/down.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_species_list.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/species_list.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_bat.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/bat.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_headset_cutoff.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/headset_cutoff.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_bat_marker_selected.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/bat_marker_selected.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_tuning.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/tuning.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_csv.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/csv.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_image_clear.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/image_clear.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_dlg_button_disabled.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/dlg_button_disabled.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_image_search.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/image_search.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_dlg_button_focused.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/dlg_button_focused.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_file_list.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/file_list.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_high_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/high_gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_gpx.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/gpx.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_prev.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/prev.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_mic_off.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/mic_off.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_pause.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/pause.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_tuning.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/tuning.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_record.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/record.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_file.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/file.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_mic.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/mic.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_headset_cutoff.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/headset_cutoff.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_file_list.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/file_list.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_down.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/down.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_length.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/length.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_loop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/loop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/color_secondary_text_color_selector.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/color/secondary_text_color_selector.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_bat_marker_selected.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/bat_marker_selected.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_image_search.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/image_search.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_low_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/low_gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_pause.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/pause.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_headset_tune.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/headset_tune.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_title.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/title.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_bat_marker_selected.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/bat_marker_selected.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_dlg_button_pressed.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/dlg_button_pressed.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_button_pressed.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/button_pressed.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_cutoff.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/cutoff.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_headset_tune.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/headset_tune.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_mic.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/mic.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_pause.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/pause.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_button_focused.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/button_focused.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_trigger.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/trigger.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_dlg_button_enabled.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/dlg_button_enabled.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_file_list.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/file_list.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-sv_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-sv/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_up.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/up.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_record.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/record.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_bat.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/bat.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-nl_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-nl/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_headset_div.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/headset_div.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_time.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/time.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_csv.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/csv.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_bat_marker.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/bat_marker.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_info.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/info.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_stop.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/stop.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_dlg_button.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/dlg_button.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_bat.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/bat.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_export.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/export.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-es_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-es/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_speaker.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/speaker.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/menu_activity_main.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/menu/activity_main.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_share.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/share.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_file.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/file.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_gpx.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/gpx.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_bat_marker.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/bat_marker.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_sdcard.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/sdcard.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_cutoff.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/cutoff.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_down.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/down.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xhdpi_folder.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xhdpi/folder.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_map.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/map.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_power_border.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/power_border.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_world.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/world.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/layout_file_dialog.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/layout/file_dialog.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_power.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/power.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-hdpi_cutoff.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-hdpi/cutoff.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_record.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/record.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable_icon_border.xml.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable/icon_border.xml"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_gain.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/gain.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxhdpi_measure.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxhdpi/measure.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-no_splash.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-no/splash.png"
+    },
+    {
+        "merged": "com.digitalbiology.audio.app-debug-33:/drawable-xxxhdpi_measure.png.flat",
+        "source": "com.digitalbiology.audio.app-main-35:/drawable-xxxhdpi/measure.png"
+    }
+]

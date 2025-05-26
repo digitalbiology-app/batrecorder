@@ -1,0 +1,28 @@
+[armeabi-v7a] Compile thumb  : analysis <= analysis.c
+[armeabi-v7a] Compile thumb  : analysis <= fft_bind.c
+[armeabi-v7a] Compile thumb  : analysis <= pffft.c
+[armeabi-v7a] Compile thumb  : analysis <= quickblob.c
+[armeabi-v7a] Compile thumb  : analysis <= blobhooks.c
+[armeabi-v7a] SharedLibrary  : libanalysis.so
+[armeabi-v7a] Compile thumb  : analysisNEON <= analysis.c
+[armeabi-v7a] Compile thumb  : analysisNEON <= fft_bind.c
+[armeabi-v7a] Compile thumb  : analysisNEON <= pffft.c
+[armeabi-v7a] Compile thumb  : analysisNEON <= quickblob.c
+[armeabi-v7a] Compile thumb  : analysisNEON <= blobhooks.c
+[armeabi-v7a] SharedLibrary  : libanalysisNEON.so
+[armeabi-v7a] Compile thumb  : file <= file.c
+[armeabi-v7a] Compile thumb  : cpufeatures <= cpu-features.c
+[armeabi-v7a] StaticLibrary  : libcpufeatures.a
+[armeabi-v7a] SharedLibrary  : libfile.so
+[armeabi-v7a] Compile thumb  : palette <= palette.c
+[armeabi-v7a] Compile thumb  : palette <= spectrogram.c
+[armeabi-v7a] SharedLibrary  : libpalette.so
+[armeabi-v7a] Compile thumb  : usb <= core.c
+[armeabi-v7a] Compile thumb  : usb <= descriptor.c
+[armeabi-v7a] Compile thumb  : usb <= io.c
+[armeabi-v7a] Compile thumb  : usb <= sync.c
+[armeabi-v7a] Compile thumb  : usb <= linux_usbfs.c
+[armeabi-v7a] Compile thumb  : usb <= threads_posix.c
+[armeabi-v7a] Compile thumb  : usb <= ringbuffer.c
+[armeabi-v7a] Compile thumb  : usb <= usb_binding.c
+[armeabi-v7a] SharedLibrary  : libusb.so

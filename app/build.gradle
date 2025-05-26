@@ -5,8 +5,8 @@ android {
     useLibrary 'org.apache.http.legacy'
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 
     buildFeatures {
@@ -73,7 +73,7 @@ android {
 
 dependencies {
     implementation 'androidx.multidex:multidex:2.0.1'
-    implementation 'com.google.android.gms:play-services:12.0.1'
+    implementation 'com.google.android.gms:play-services-maps:18.2.0'
 //    implementation 'com.android.support:support-compat:28.0.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
 //    implementation 'androidx.legacy:legacy-support-v4:1.0.0'

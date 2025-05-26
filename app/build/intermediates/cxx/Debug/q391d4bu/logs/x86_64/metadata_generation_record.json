@@ -1,0 +1,158 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: x86_64",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/dilucar/Local-Repo/batrecorder/app/build/.cxx/Debug/q391d4bu/x86_64/android_gradle_build.json due to:",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/dilucar/Local-Repo/batrecorder/app/build/.cxx/Debug/q391d4bu/x86_64\u0027",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/dilucar/Local-Repo/batrecorder/app/build/.cxx/Debug/q391d4bu/x86_64\u0027",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild /Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Application.mk \\\n  APP_ABI\u003dx86_64 \\\n  NDK_ALL_ABIS\u003dx86_64 \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-26 \\\n  NDK_OUT\u003d/Users/dilucar/Local-Repo/batrecorder/app/build/intermediates/cxx/Debug/q391d4bu/obj \\\n  NDK_LIBS_OUT\u003d/Users/dilucar/Local-Repo/batrecorder/app/build/intermediates/cxx/Debug/q391d4bu/lib \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/dilucar/Library/Android/sdk/ndk/26.3.11579264/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Application.mk \\\n  APP_ABI\u003dx86_64 \\\n  NDK_ALL_ABIS\u003dx86_64 \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-26 \\\n  NDK_OUT\u003d/Users/dilucar/Local-Repo/batrecorder/app/build/intermediates/cxx/Debug/q391d4bu/obj \\\n  NDK_LIBS_OUT\u003d/Users/dilucar/Local-Repo/batrecorder/app/build/intermediates/cxx/Debug/q391d4bu/lib \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file /Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Application.mk",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/dilucar/Local-Repo/batrecorder/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

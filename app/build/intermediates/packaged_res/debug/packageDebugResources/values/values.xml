@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listCapture">
+        <item>3 seconds</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+    </string-array>
+    <string-array name="listCaptureValues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="listExpansion">
+        <item>10x</item>
+        <item>20x</item>
+    </string-array>
+    <string-array name="listExpansionValues">
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="listFFT">
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+        </string-array>
+    <string-array name="listGeoDist">
+        <item>5 meters</item>
+        <item>10 meters</item>
+        <item>50 meters</item>
+        <item>100 meters</item>
+        <item>500 meters</item>
+        <item>1 kilometer</item>
+        </string-array>
+    <string-array name="listGeoDistValues">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        </string-array>
+    <string-array name="listGeoFreq">
+       <item>5 secs</item>
+       <item>10 secs</item>
+       <item>30 secs</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        </string-array>
+    <string-array name="listGeoFreqValues">
+         <item>5</item>
+         <item>10</item>
+         <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>600</item>
+        </string-array>
+    <string-array name="listHetero">
+        <item>16x higher</item>
+        <item>8x higher</item>
+        <item>4x higher</item>
+        <item>1x</item>
+        <item>4x lower</item>
+        <item>8x lower</item>
+        <item>16x lower</item>
+    </string-array>
+    <string-array name="listHeteroValues">
+        <item>0.0625</item>
+        <item>0.125</item>
+        <item>0.25</item>
+        <item>1.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array>
+    <string-array name="listLength">
+        <item>maximum limit</item>
+        <item>3 secs</item>
+        <item>5 secs</item>
+        <item>10 secs</item>
+        <item>30 secs</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+    </string-array>
+    <string-array name="listLengthValues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array>
+    <string-array name="listLocales">
+        <item>default</item>
+        <item>English (US)</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Italian</item>
+        <item>Norwegian</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+    </string-array>
+    <string-array name="listLocalesValues">
+        <item/>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>it</item>
+        <item>nb</item>
+        <item>es</item>
+        <item>sv</item>
+    </string-array>
+    <string-array name="listMetadata">
+        <item>GUANO</item>
+        <item>WAMD</item>
+        <item>XMP</item>
+    </string-array>
+    <string-array name="listPost">
+        <item>no delay</item>
+        <item>0.01 secs</item>
+        <item>0.1 secs</item>
+        <item>0.5 secs</item>
+        <item>1 sec</item>
+        <item>3 secs</item>
+        <item>5 secs</item>
+        <item>10 secs</item>
+    </string-array>
+    <string-array name="listPostValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+    <string-array name="listPre">
+        <item>no delay</item>
+        <item>0.01 secs</item>
+        <item>0.02 secs</item>
+        <item>0.05 secs</item>
+        <item>0.1 secs</item>
+        <item>0.5 secs</item>
+        <item>1 sec</item>
+    </string-array>
+    <string-array name="listPreValues">
+        <item>0</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+     </string-array>
+    <string-array name="listRefresh">
+        <item>refresh</item>
+        <item>overwrite</item>
+    </string-array>
+    <string-array name="listRefreshValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <color name="file_list_default">#ff000000</color>
+    <color name="file_list_exposed">#ff444444</color>
+    <color name="file_list_press">#028ec1</color>
+    <color name="transparent">#00000000</color>
+    <string name="alarm_on">Listening Timer is running…</string>
+    <string name="alarm_quit">Stop Timer</string>
+    <string name="already_exists">A file with that name already exists.</string>
+    <string name="analysis_cat">Analysis</string>
+    <string name="analyzing">Analyzing spectrogram…</string>
+    <string name="app_name">Bat Recorder</string>
+    <string name="app_version">Bat Recorder version:</string>
+    <string name="archive_title">Recordings</string>
+    <string name="capture">Listening buffer length</string>
+    <string name="channel1">Channel 1</string>
+    <string name="channel2">Channel 2</string>
+    <string name="checking_license">Checking license…</string>
+    <string name="close_app">Quit Bat Recorder?</string>
+    <string name="cont_rec">Continuous recording</string>
+    <string name="created_xmp">The metadata file was successfully created.</string>
+    <string name="debuglog">USB debug log</string>
+    <string name="debugsum">Must restart app to take effect</string>
+    <string name="delete">Delete Recording</string>
+    <string name="delete_file">Are you sure you want to delete</string>
+    <string name="dropped">samples were dropped!</string>
+    <string name="email">Send email when triggered</string>
+    <string name="email_recp">Email recipient</string>
+    <string name="empty_name">A file name cannot be blank.</string>
+    <string name="expansion">Expansion Factor</string>
+    <string name="export">Export Clip</string>
+    <string name="export_file">Export Recording</string>
+    <string name="export_file_fail">There was a problem exporting the selected recording.</string>
+    <string name="export_file_succeed">The recording has been successfully exported.</string>
+    <string name="exporting">exporting</string>
+    <string name="fft_window">FFT Window size</string>
+    <string name="file_too_long">File too large. Limited to</string>
+    <string name="general_cat">General</string>
+    <string name="geo_cat">Geolocation</string>
+    <string name="geodist">GPS Update minimum distance</string>
+    <string name="geofreq">GPS Update frequency</string>
+    <string name="geotag">Geotag WAV files</string>
+    <string name="googleplay_missing">Google Play Services must be installed to enable the map view.</string>
+    <string name="googleplay_update">Google Play Services must be updated to enable the map view.</string>
+    <string name="gridlines">Show frequency grid lines</string>
+    <string name="hardware_btns">Trigger using volume buttons</string>
+    <string name="help">User Manual…</string>
+    <string name="het_adj">Heterodyne tone</string>
+    <string name="het_freq">Heterodyne frequency range</string>
+    <string name="license_msg1">I would like to request a Bat Recorder license for this Android device (hardware ID: </string>
+    <string name="license_msg2">).</string>
+    <string name="license_verify_problem">Sorry, but there was a problem verifying your license.</string>
+    <string name="load_file">Loading</string>
+    <string name="loading_help">Loading online user manual…</string>
+    <string name="locale_change">You will need to restart the app for this change to take effect.</string>
+    <string name="locales">Language Localization</string>
+    <string name="logscale">Logarithmic frequency scale</string>
+    <string name="maxlength">Maximum recording length</string>
+    <string name="menu_settings">Settings</string>
+    <string name="metadata">Metadata format</string>
+    <string name="mic_init">Looking for a supported USB microphone…</string>
+    <string name="mic_init_dodotronic">Looking for a Dodotronic microphone…</string>
+    <string name="mic_init_pettersson">Looking for a Pettersson microphone…</string>
+    <string name="mini_mic">Choose the miniMIC model:</string>
+    <string name="nightMode">Night Mode</string>
+    <string name="no_mic">A supported USB microphone was not detected. Make sure a USB OTG compatible cable is firmly attached, or press \'Continue\' to use the non-ultrasonic device microphone.</string>
+    <string name="not_show">Do not show again</string>
+    <string name="not_ultrasonic">Other playback modes are only valid for ultrasonic recordings.</string>
+    <string name="notify_cat">Trigger Notification</string>
+    <string name="open_file_fail">There was a problem opening the selected WAV file.</string>
+    <string name="permissions_verify_problem">Sorry, but the required app permissions have not been granted.</string>
+    <string name="playback_only">Continue</string>
+    <string name="prebuffer">saving buffer…</string>
+    <string name="purchase">Recording requires a license.</string>
+    <string name="quit">Quit</string>
+    <string name="recording">recording</string>
+    <string name="recordings">recordings</string>
+    <string name="refresh">Live spectrogram display</string>
+    <string name="rename">Rename Recording</string>
+    <string name="reply">Reply address:</string>
+    <string name="reply_email">Choose reply address for notification email.</string>
+    <string name="requestLicense">Request</string>
+    <string name="samplerate">Microphone sampling rate</string>
+    <string name="saved">Clip has been saved.</string>
+    <string name="sdcard_title">Warning</string>
+    <string name="sdcard_warning">Recordings stored on the SD card will be automatically deleted by the Android OS if you uninstall the BatRecorder app. Please make sure to back up any recordings you wish to retain.</string>
+    <string name="shake_rec">Toggle recording by shaking</string>
+    <string name="share">Share recording using</string>
+    <string name="sms">Send SMS message when triggered</string>
+    <string name="sms_recp">SMS message recipient</string>
+    <string name="species">Choose species:</string>
+    <string name="statusbar">Always show Android system bars</string>
+    <string name="stereo_warning">is a stereo recording. Only one channel can be loaded. Please select:</string>
+    <string name="storage">Store recordings on SD card</string>
+    <string name="timer_cat">Listening Timer</string>
+    <string name="timer_off">Sleep Interval</string>
+    <string name="timer_on">Listening Duration</string>
+    <string name="timer_unit">minute</string>
+    <string name="timer_units">minutes</string>
+    <string name="triggerOnly">Only display triggered events</string>
+    <string name="trigger_cat">Recording</string>
+    <string name="trigger_db">Trigger intensity threshold</string>
+    <string name="trigger_freq">Trigger frequency range</string>
+    <string name="trigger_post">Post trigger</string>
+    <string name="trigger_pre">Pre trigger</string>
+    <string name="triggered">Bat Recorder triggered</string>
+    <string name="ultramodes">Enable all playback modes for non-ultrasonic signals</string>
+    <string name="unsupported">The attached USB device is unsupported.</string>
+    <string name="usb_detach">The connection to the USB microphone has been lost. Make sure the USB microphone cable is firmly attached, or press \'Continue\' to use the non-ultrasonic device microphone.</string>
+    <string name="use_sdcard">Use SD Card</string>
+    <string name="version">version</string>
+    <style name="AppTheme" parent="android:Theme.Black"/>
+    <style name="CustomAlertDialog" parent="android:Theme.Holo.Dialog">
+		<item name="android:windowBackground">@android:color/transparent</item>
+	</style>
+    <style name="CustomDialog" parent="android:Theme.Holo.Dialog">
+ 	    <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="CustomFileDialog" parent="android:Theme.Holo.Dialog">
+	    <item name="android:windowNoTitle">true</item>
+	    <item name="android:windowFullscreen">true</item>
+	    <item name="android:windowIsFloating">false</item>
+	    <item name="android:windowBackground">@android:color/transparent</item>
+	    <item name="android:background">#222222</item>
+	</style>
+    <style name="CustomProgress" parent="android:Widget.ProgressBar.Large"/>
+    <style name="CustomProgressSpinner" parent="android:Theme.Holo.Dialog">
+		<item name="android:windowBackground">@color/transparent</item>
+	</style>
+    <style name="PreferenceListHeader">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">#12a0d4</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textSize">16sp</item>
+		<item name="android:background">#333333</item>
+		<item name="android:gravity">center_vertical</item>
+		<item name="android:paddingStart">8dip</item>
+	</style>
+    <style name="Theme.Settings" parent="android:Theme.Holo.NoActionBar">
+		<item name="android:listSeparatorTextViewStyle">@style/PreferenceListHeader</item>
+		<item name="android:textColorPrimary">@color/primary_text_color_selector</item>
+		<item name="android:textColorSecondary">@color/secondary_text_color_selector</item>	</style>
+    <declare-styleable name="SwipeLayout">
+        <attr name="drag_edge">
+            <flag name="left" value="1"/>
+            <flag name="right" value="2"/>
+            <flag name="top" value="4"/>
+            <flag name="bottom" value="8"/>
+        </attr>
+        <attr format="dimension" name="leftEdgeSwipeOffset"/>
+        <attr format="dimension" name="rightEdgeSwipeOffset"/>
+        <attr format="dimension" name="topEdgeSwipeOffset"/>
+        <attr format="dimension" name="bottomEdgeSwipeOffset"/>
+        <attr format="enum" name="show_mode">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr>
+        <attr format="boolean" name="clickToClose"/>
+    </declare-styleable>
+</resources>

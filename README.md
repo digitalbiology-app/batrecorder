@@ -1,4 +1,4 @@
-Originally released on the Google Play Store, Bat Recorder is an Android app designed to record and analyze ultrasonic audio such as bat echolocation calls. The code for the app is now provided free under the GNU license - contributions that improve the app and fix bugs are very much desired and welcome.
+Originally released on the Google Play Store, Bat Recorder is an Android app designed to record and analyze ultrasonic audio such as bat echolocation calls. I have retired from active code development, and as such I have provided the code for the app free to all under the GNU license - contributions that improve the app and fix bugs are very much desired and welcome.
 
 The first incarnation of the app was written over a decade ago, which is why the code base is primarily in Java and not Kotlin. If someone would like to do a conversion, that would be great. Also, it would be ideal to have a suite of unit tests.
 

@@ -290,8 +290,10 @@ static void transferCallbackFunc(struct libusb_transfer *xtransfer)
 		}
 
 		if (recordFile != NULL) {
-			if (startWriteHead < audioDataBuffer->write_head)
-				fwrite(audioDataBuffer->buffer + startWriteHead, sizeof(uint16_t), audioDataBuffer->write_head - startWriteHead, recordFile);
+			if (startWriteHead < audioDataBuffer->write_head) {
+                fwrite(audioDataBuffer->buffer + startWriteHead, sizeof(uint16_t),
+                       (audioDataBuffer->write_head - startWriteHead)/2, recordFile);
+            }
 			else if (startWriteHead > audioDataBuffer->write_head) {
 				int remaining = audioDataBuffer->buffer_size - startWriteHead;
 				fwrite(audioDataBuffer->buffer + startWriteHead, sizeof(uint16_t), remaining, recordFile);

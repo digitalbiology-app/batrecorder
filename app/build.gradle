@@ -19,8 +19,8 @@ android {
         minSdkVersion 26
         targetSdkVersion 34
         multiDexEnabled true
-        versionCode 224
-        versionName "2.0B15"
+        versionCode 225
+        versionName '2.0B16'
 //        versionName "2.0B15p"
 
         ndk {

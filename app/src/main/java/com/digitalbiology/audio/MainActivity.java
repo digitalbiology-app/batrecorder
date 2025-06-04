@@ -145,7 +145,7 @@ public class MainActivity extends Activity implements SensorEventListener {
     private volatile int mActiveSampleRate = 0;
     private short mStereoChannel = 1;
 
-    private boolean mRecordEnabled = false;
+    private boolean mRecordEnabled = true;
 
     static private Microphone sMicrophone = null;
 
@@ -1469,7 +1469,7 @@ public class MainActivity extends Activity implements SensorEventListener {
                     ) {
 //                if (MainActivity.CUSTOM_LICENSE)
 //                    checkCustomLicense();
-                    mRecordEnabled = isVendorBranded() || isValidCode();
+                    mRecordEnabled = isVendorBranded() || isValidCode() || DEBUG_MODE;
                     finishInitialization();
 //                else
 //                    checkGoogleStoreLicense();
